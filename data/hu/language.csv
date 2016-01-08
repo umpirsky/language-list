@@ -1,0 +1,609 @@
+id,value
+ab,abház
+ace,achinéz
+ada,adangme
+ady,adyghe
+aa,afar
+afh,afrihili
+af,afrikaans
+agq,agem
+ain,ainu
+ay,ajmara
+ak,akan
+akk,akkád
+ach,akoli
+akz,Alabama
+sq,albán
+ale,aleut
+arq,"Algerian Arabic"
+dsb,"alsó szorb"
+nds,alsónémet
+ase,"American Sign Language"
+en_US,"amerikai angol"
+am,amhara
+anp,angika
+en,angol
+njo,"Ao Naga"
+ar,arab
+an,aragonéz
+arc,arámi
+aro,Araona
+arp,arapaho
+arn,araucani
+arw,aravak
+rup,aromán
+frp,Arpitan
+asa,asu
+as,asszámi
+ast,asztúr
+cch,atszam
+en_AU,"ausztrál angol"
+av,avar
+ae,avesztán
+awa,awádi
+az,azerbajdzsáni
+bfq,Badaga
+ksf,bafia
+bfd,bafut
+bqi,Bakhtiari
+ban,balinéz
+bal,balucsi
+bm,bambara
+bax,bamun
+bjn,Banjar
+ba,baskír
+bas,basza
+eu,baszk
+bbc,"Batak Toba"
+bar,Bavarian
+bej,bedzsa
+be,belorusz
+bem,bemba
+bez,bena
+bn,bengáli
+bew,Betawi
+bik,bikol
+bin,bini
+bpy,Bishnupriya
+bi,bislama
+byn,blin
+zbl,"Bliss jelképrendszer"
+brx,bodo
+bho,bodzspuri
+bg,bolgár
+bs,bosnyák
+brh,Brahui
+bra,braj
+pt_BR,"brazíliai portugál"
+br,breton
+en_GB,"brit angol"
+bug,buginéz
+bum,bulu
+bua,burját
+my,burmai
+dz,butáni
+cad,caddo
+frc,"Cajun French"
+cps,Capiznon
+ceb,cebui
+dtp,"Central Dusun"
+esu,"Central Yupik"
+qug,"Chimborazo Highland Quichua"
+swb,comorei
+ts,conga
+shu,"csádi arab"
+chg,csagatáj
+ch,csamoró
+ce,csecsen
+cs,cseh
+chy,csejen
+chr,cseroki
+chb,csibcsa
+tsi,csimsiáni
+chn,"csinuk zsargon"
+chp,csipevé
+cho,csoktó
+chk,csukéz
+cv,csuvas
+dak,dakota
+da,dán
+dar,dargva
+dzg,dazaga
+alt,dél-altaji
+del,delavár
+nr,"déli ndebele"
+sma,"déli számi"
+din,dinka
+dyu,diula
+dv,divehi
+doi,dogri
+dgr,dogrib
+dua,duala
+efi,efik
+cu,"egyházi szláv"
+arz,"Egyptian Arabic"
+zh_Hans,"egyszerűsített kínai"
+eka,ekadzsuk
+elx,elamit
+ebu,embu
+egl,Emilian
+myv,erzjány
+frr,"északi fríz"
+nd,"északi ndebele"
+se,"északi számi"
+nso,"északi szotó"
+eo,eszperantó
+et,észt
+pt_PT,"európai portugál"
+es_ES,"európai spanyol"
+ee,eve
+ewo,evondo
+ext,Extremaduran
+fan,fang
+fat,fanti
+hsb,"felső szorb"
+fo,feröeri
+fj,fidzsi
+hif,"Fiji Hindi"
+fil,filippínó
+fi,finn
+nl_BE,flamand
+fon,fon
+phn,főniciai
+gur,Frafra
+fr,francia
+fur,friuli
+fy,fríz
+ff,fulani
+gaa,ga
+gag,gagauz
+gay,gajo
+gl,galíciai
+gan,"Gan Chinese"
+lg,ganda
+gba,gbaja
+gez,geez
+aln,"Gheg Albanian"
+glk,Gilaki
+gom,"Goan Konkani"
+bbj,gomala
+gon,gondi
+gor,gorontalo
+got,gót
+el,görög
+grb,grebó
+kl,grönlandi
+ka,grúz
+gn,guarani
+gu,gudzsarati
+guz,guszii
+gwi,gvicsin
+zh_Hant,"hagyományos kínai"
+hai,haida
+ht,haiti
+hak,"Hakka Chinese"
+ha,hausza
+haw,hawaii
+he,héber
+hz,herero
+hil,hiligajnon
+hi,hindi
+ho,"hiri motu"
+hit,hittite
+hmn,hmong
+nl,holland
+hr,horvát
+xh,hosza
+hup,hupa
+iba,iban
+ibb,ibibió
+io,idó
+ig,igbó
+gil,ikiribati
+ilo,ilokó
+smn,"inar sami"
+id,indonéz
+izh,Ingrian
+inh,ingus
+ie,interlingue
+ia,interlingva
+iu,inuktitut
+ik,inupiak
+ga,ír
+und,"ismeretlen nyelv"
+is,izlandi
+sah,jakut
+jam,"Jamaican Creole English"
+yav,jangben
+yao,jaó
+ja,japán
+yap,japi
+jv,jávai
+ybb,jemba
+yi,jiddis
+kaj,jju
+dyo,jola-fonyi
+yo,joruba
+jut,Jutish
+kbd,kabardi
+kab,kabije
+kea,kabuverdianu
+kac,kacsin
+kgp,Kaingang
+cay,kajuga
+kkj,kakó
+kln,kalendzsin
+xal,kalmük
+kam,kamba
+km,kambodzsai
+en_CA,"kanadai angol"
+fr_CA,"kanadai francia"
+kbl,kanembu
+kn,kannada
+yue,kantoni
+kr,kanuri
+kaa,kara-kalpak
+krc,karacsáj-balkár
+krl,karelai
+car,karib
+ks,kásmíri
+csb,kasub
+kha,kaszi
+ca,katalán
+kaw,kawi
+kk,kazah
+qu,kecsua
+frs,"keleti fríz"
+ken,Kenyang
+khw,Khowar
+quc,kicse
+cgg,kiga
+ki,kikuju
+kmb,kimbundu
+zh,kínai
+krj,Kinaray-a
+ky,kirgiz
+kiu,Kirmanjki
+rw,kiruanda
+rn,kirundi
+nwc,"klasszikus newari"
+syc,"klasszikus szír"
+tlh,klingon
+khq,kojra-csíni
+ses,kojra-szenni
+sms,"koltta lapp"
+bkm,kom
+kv,komi
+koi,komi-permják
+kg,kongo
+swc,"kongói szuahéli"
+kok,konkani
+cop,kopt
+ko,koreai
+kw,korni
+kfo,koro
+co,korzikai
+kos,kosrei
+bss,koszi
+kho,kotanéz
+avk,Kotava
+ksh,kölsch
+enm,"közép angol"
+gmh,"közép felső német"
+frm,"közép francia"
+dum,"közép holland"
+mga,"közép ír"
+tzm,"közép-marokkói tamazigt"
+kpe,kpelle
+cr,krí
+mus,krík
+crh,"krími tatár"
+kri,Krio
+kj,kuanyama
+kum,kumük
+ku,kurd
+kru,kuruh
+kut,kutenai
+lad,ladino
+lah,lahnda
+lkt,lakota
+lam,lamba
+lag,langi
+lo,laoszi
+ltg,Latgalian
+la,latin
+es_419,"latin-amerikai spanyol"
+lzz,Laz
+pl,lengyel
+lv,lett
+lez,lezg
+lij,Ligurian
+li,limburgi
+ln,lingala
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+lt,litván
+liv,Livonian
+jbo,lojban
+lmo,Lombard
+sli,"Lower Silesian"
+loz,lozi
+lu,luba-katanga
+lua,luba-lulua
+lui,luiseno
+luy,lujia
+smj,"lule számi"
+lun,lunda
+luo,luo
+lus,lushai
+lb,luxemburgi
+mde,maba
+mk,macedón
+jmc,machame
+mad,madurai
+maf,mafa
+mag,magahi
+hu,magyar
+vmf,Main-Franconian
+mai,maithili
+mak,makaszar
+kde,makonde
+mgh,makua-metó
+ms,maláj
+ml,malajálam
+mg,málgas
+mt,máltai
+gv,man-szigeti
+mdr,mandar
+man,mandingó
+mnc,mandzsu
+mni,manipuri
+mi,maori
+mr,marathi
+chm,mari
+zgh,"marokkói tamazight"
+mh,marshalli
+mwr,marvari
+mas,masai
+mfe,"mauritiusi kreol"
+mzn,Mazanderani
+byv,medumba
+men,mende
+mwv,Mentawai
+mer,meru
+mgo,meta’
+mic,mikmak
+nan,"Min Nan Chinese"
+min,minangkabau
+xmf,Mingrelian
+mwl,mirandéz
+ar_001,"modern szabányos arab"
+moh,mohawk
+mdf,moksán
+ro_MD,moldvai
+lol,mongó
+mn,mongol
+ary,"Moroccan Arabic"
+mos,moszi
+mua,mundang
+ttt,"Muslim Tat"
+mye,myene
+nqo,n’kó
+naq,nama
+nap,nápolyi
+na,naurui
+nv,navahó
+ng,ndonga
+de,német
+ne,nepáli
+new,nevari
+sba,ngambay
+nnh,ngiemboon
+jgo,ngomba
+nmg,ngumba
+yrl,Nheengatu
+nia,nias
+zxx,"nincs nyelvészeti tartalom"
+niu,niui
+nog,nogaj
+no,norvég
+nb,"norvég bokmal"
+nn,"norvég nynorsk"
+nov,Novial
+nus,nuer
+nzi,nzima
+nym,nyamvézi
+ny,nyanja
+nyn,nyankole
+tog,"nyasa tonga"
+nyo,nyoró
+ang,óangol
+egy,óegyiptomi
+goh,"ófelső német"
+fro,ófrancia
+grc,ógörög
+sga,óír
+oj,ojibva
+oc,okszitán
+it,olasz
+peo,óperzsa
+pro,óprovánszi
+or,orija
+om,oromói
+ru,orosz
+osa,osage
+non,óskandináv
+os,oszét
+de_AT,"osztrák német"
+ota,"ottomán török"
+hy,örmény
+root,ősi
+pal,pahlavi
+pfl,"Palatine German"
+pau,palaui
+pi,pali
+pam,pampangan
+pa,pandzsábi
+pag,pangaszinan
+pap,papiamentó
+ps,pastu
+pdc,"Pennsylvania German"
+fa,perzsa
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pon,pohnpei
+pnt,Pontic
+pt,portugál
+prg,Prussian
+raj,radzsasztáni
+rap,rapanui
+rar,rarotongai
+rm,réto-román
+rif,Riffian
+rom,roma
+rgn,Romagnol
+ro,román
+rof,rombo
+rtm,Rotuman
+rug,Roviana
+rue,Rusyn
+rwk,rwo
+ksb,sambala
+sgs,Samogitian
+shn,san
+sas,sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sly,Selayar
+sei,Seri
+bla,siksika
+szl,Silesian
+sco,skót
+gd,"skót gael"
+sog,sogdien
+sn,sona
+azb,"South Azerbaijani"
+es,spanyol
+es_MX,"spanyol (mexikói)"
+sux,sumér
+de_CH,"svájci felnémet"
+fr_CH,"svájci francia"
+gsw,"svájci német"
+sv,svéd
+ssy,szahó
+sam,"szamaritánus arámi"
+saq,szamburu
+sm,szamoai
+sad,szandave
+sg,szangó
+sbp,szangu
+sa,szanszkrit
+sat,szantáli
+sc,szardíniai
+twq,szavák
+ii,"szecsuán ji"
+tn,szecsuáni
+seh,szena
+see,szeneka
+sr,szerb
+sh,szerbhorvát
+srr,szerer
+st,szeszotó
+scn,szicíliai
+sid,szidamó
+sd,szindhi
+si,szingaléz
+syr,szíriai
+ss,sziszuati
+den,szlevi
+sk,szlovák
+sl,szlovén
+xog,szoga
+so,szomáliai
+snk,szoninke
+ckb,"szoráni kurd"
+sel,szölkup
+srn,"szranai tongó"
+sw,szuahéli
+suk,szukuma
+su,szundanéz
+sus,szuszu
+shi,tachelhit
+tg,tadzsik
+tl,tagalog
+ty,tahiti
+dav,taita
+tly,Talysh
+tmh,tamasek
+ta,tamil
+trv,tarokó
+tt,tatár
+te,telugu
+tem,temne
+ter,terenó
+teo,teszó
+tet,tetum
+th,thai
+bo,tibeti
+tig,tigré
+ti,tigrinja
+tiv,tiv
+tli,tlingit
+tpi,"tok pisin"
+tkl,tokelaui
+to,tonga
+fit,"Tornedalen Finnish"
+mul,"többszörös nyelvek"
+tr,török
+tkr,Tsakhur
+tsd,Tsakonian
+tcy,Tulu
+tum,tumbuka
+aeb,"Tunisian Arabic"
+tru,Turoyo
+tyv,tuvai
+tvl,tuvalu
+tk,türkmén
+tw,twi
+kcg,tyap
+udm,udmurt
+uga,ugariti
+ug,ujgur
+uk,ukrán
+umb,umbundu
+ur,urdu
+uz,üzbég
+vai,vai
+wal,valamo
+wa,vallon
+war,varaó
+was,vasó
+ve,venda
+vec,Venetian
+vep,Veps
+vi,vietnami
+vo,volapük
+wo,volof
+vro,Võro
+vot,votják
+vun,vunjo
+cy,walesi
+wae,walser
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+zap,zapoték
+dje,zarma
+zza,zaza
+zea,Zeelandic
+zen,zenaga
+gbz,"Zoroastrian Dari"
+zu,zulu
+zun,zuni
+jrb,zsidó-arab
+jpr,zsidó-perzsa
+za,zsuang

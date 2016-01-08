@@ -1,0 +1,608 @@
+ace: Achinese
+ach: Acoli
+ada: Adangme
+ady: Adyghe
+aa: Afar
+afh: Afrihili
+ain: Ainu
+akk: Akkadian
+bss: Akoose
+akz: Alabama
+ale: Aleut
+arq: 'Algerian Arabic'
+en_US: 'American English'
+ase: 'American Sign Language'
+egy: 'Ancient Egyptian'
+grc: 'Ancient Greek'
+anp: Angika
+njo: 'Ao Naga'
+an: Aragonese
+arc: Aramaic
+aro: Araona
+arp: Arapaho
+arw: Arawak
+rup: Aromanian
+frp: Arpitan
+ast: Asturian
+cch: Atsam
+en_AU: 'Australian English'
+av: Avaric
+ae: Avestan
+awa: Awadhi
+ay: Aymara
+bfq: Badaga
+bfd: Bafut
+bqi: Bakhtiari
+ban: Balinese
+bal: Baluchi
+bax: Bamun
+bjn: Banjar
+bas: Basaa
+bbc: 'Batak Toba'
+bar: Bavarian
+bej: Beja
+bew: Betawi
+bho: Bhojpuri
+bik: Bikol
+bin: Bini
+bpy: Bishnupriya
+bi: Bislama
+byn: Blin
+zbl: Blissymbols
+brh: Brahui
+bra: Braj
+pt_BR: 'Brazilian Portuguese'
+en_GB: 'British English'
+bug: Buginese
+bum: Bulu
+bua: Buriat
+cad: Caddo
+frc: 'Cajun French'
+en_CA: 'Canadian English'
+fr_CA: 'Canadian French'
+yue: Cantonese
+cps: Capiznon
+car: Carib
+cay: Cayuga
+ceb: Cebuano
+dtp: 'Central Dusun'
+esu: 'Central Yupik'
+shu: 'Chadian Arabic'
+chg: Chagatai
+ch: Chamorro
+ce: Chechen
+chy: Cheyenne
+chb: Chibcha
+qug: 'Chimborazo Highland Quichua'
+chn: 'Chinook Jargon'
+chp: Chipewyan
+cho: Choctaw
+cu: 'Church Slavic'
+chk: Chuukese
+cv: Chuvash
+nwc: 'Classical Newari'
+syc: 'Classical Syriac'
+ksh: Colognian
+swb: Comorian
+cop: Coptic
+cr: Cree
+mus: Creek
+crh: 'Crimean Turkish'
+dak: Dakota
+dar: Dargwa
+dzg: Dazaga
+del: Delaware
+din: Dinka
+dv: Divehi
+doi: Dogri
+dgr: Dogrib
+dyu: Dyula
+frs: 'Eastern Frisian'
+efi: Efik
+arz: 'Egyptian Arabic'
+eka: Ekajuk
+elx: Elamite
+egl: Emilian
+myv: Erzya
+ewo: Ewondo
+ext: Extremaduran
+fan: Fang
+fat: Fanti
+hif: 'Fiji Hindi'
+fon: Fon
+gur: Frafra
+fur: Friulian
+ff: Fulah
+gaa: Ga
+gan: 'Gan Chinese'
+gay: Gayo
+gba: Gbaya
+gez: Geez
+aln: 'Gheg Albanian'
+bbj: Ghomala
+glk: Gilaki
+gil: Gilbertese
+gom: 'Goan Konkani'
+gon: Gondi
+gor: Gorontalo
+got: Gothic
+grb: Grebo
+gwi: Gwichʼin
+hai: Haida
+hak: 'Hakka Chinese'
+hz: Herero
+hil: Hiligaynon
+ho: 'Hiri Motu'
+hit: Hittite
+hmn: Hmong
+hup: Hupa
+iba: Iban
+ibb: Ibibio
+io: Ido
+ilo: Iloko
+izh: Ingrian
+inh: Ingush
+ia: Interlingua
+ie: Interlingue
+ik: Inupiaq
+jam: 'Jamaican Creole English'
+kaj: Jju
+jrb: Judeo-Arabic
+jpr: Judeo-Persian
+jut: Jutish
+kbd: Kabardian
+kac: Kachin
+kgp: Kaingang
+kkj: Kako
+xal: Kalmyk
+kbl: Kanembu
+kr: Kanuri
+kaa: Kara-Kalpak
+krc: Karachay-Balkar
+krl: Karelian
+csb: Kashubian
+kaw: Kawi
+ken: Kenyang
+kha: Khasi
+kho: Khotanese
+khw: Khowar
+kmb: Kimbundu
+krj: Kinaray-a
+kiu: Kirmanjki
+tlh: Klingon
+bkm: Kom
+kv: Komi
+kg: Kongo
+kfo: Koro
+kos: Kosraean
+avk: Kotava
+kpe: Kpelle
+kri: Krio
+kj: Kuanyama
+kum: Kumyk
+kru: Kurukh
+kut: Kutenai
+lad: Ladino
+lah: Lahnda
+lam: Lamba
+ltg: Latgalian
+es_419: 'Latin American Spanish'
+lzz: Laz
+lez: Lezghian
+lij: Ligurian
+li: Limburgish
+lfn: 'Lingua Franca Nova'
+lzh: 'Literary Chinese'
+liv: Livonian
+jbo: Lojban
+lmo: Lombard
+nds: 'Low German'
+sli: 'Lower Silesian'
+loz: Lozi
+lua: Luba-Lulua
+lui: Luiseno
+lun: Lunda
+mde: Maba
+mad: Madurese
+maf: Mafa
+mag: Magahi
+vmf: Main-Franconian
+mai: Maithili
+mak: Makasar
+mnc: Manchu
+mdr: Mandar
+man: Mandingo
+mni: Manipuri
+chm: Mari
+mh: Marshallese
+mwr: Marwari
+mzn: Mazanderani
+byv: Medumba
+men: Mende
+mwv: Mentawai
+es_MX: 'Mexican Spanish'
+mic: Micmac
+dum: 'Middle Dutch'
+enm: 'Middle English'
+frm: 'Middle French'
+gmh: 'Middle High German'
+mga: 'Middle Irish'
+nan: 'Min Nan Chinese'
+min: Minangkabau
+xmf: Mingrelian
+mwl: Mirandese
+lus: Mizo
+mdf: Moksha
+lol: Mongo
+ary: 'Moroccan Arabic'
+mos: Mossi
+mul: 'Multiple Languages'
+ttt: 'Muslim Tat'
+mye: Myene
+na: Nauru
+nv: Navajo
+ng: Ndonga
+nap: Neapolitan
+new: Newari
+sba: Ngambay
+nnh: Ngiemboon
+yrl: Nheengatu
+nia: Nias
+niu: Niuean
+nog: Nogai
+frr: 'Northern Frisian'
+nso: 'Northern Sotho'
+'no': Norwegian
+nov: Novial
+nym: Nyamwezi
+ny: Nyanja
+tog: 'Nyasa Tonga'
+nyo: Nyoro
+nzi: Nzima
+oc: Occitan
+oj: Ojibwa
+ang: 'Old English'
+fro: 'Old French'
+goh: 'Old High German'
+sga: 'Old Irish'
+non: 'Old Norse'
+peo: 'Old Persian'
+pro: 'Old Provençal'
+osa: Osage
+os: Ossetic
+ota: 'Ottoman Turkish'
+pal: Pahlavi
+pfl: 'Palatine German'
+pau: Palauan
+pi: Pali
+pam: Pampanga
+pag: Pangasinan
+pap: Papiamento
+pdc: 'Pennsylvania German'
+phn: Phoenician
+pcd: Picard
+pms: Piedmontese
+pdt: Plautdietsch
+pon: Pohnpeian
+pnt: Pontic
+prg: Prussian
+raj: Rajasthani
+rap: Rapanui
+rar: Rarotongan
+rif: Riffian
+rgn: Romagnol
+rom: Romany
+root: Root
+rtm: Rotuman
+rug: Roviana
+rue: Rusyn
+ssy: Saho
+sah: Sakha
+sam: 'Samaritan Aramaic'
+sm: Samoan
+sgs: Samogitian
+sad: Sandawe
+sat: Santali
+sc: Sardinian
+sas: Sasak
+sdc: 'Sassarese Sardinian'
+stq: 'Saterland Frisian'
+saz: Saurashtra
+sco: Scots
+gd: 'Scottish Gaelic'
+sly: Selayar
+sel: Selkup
+see: Seneca
+sh: Serbo-Croatian
+srr: Serer
+sei: Seri
+shn: Shan
+scn: Sicilian
+sid: Sidamo
+bla: Siksika
+szl: Silesian
+den: Slave
+sog: Sogdien
+snk: Soninke
+azb: 'South Azerbaijani'
+nr: 'South Ndebele'
+alt: 'Southern Altai'
+st: 'Southern Sotho'
+srn: 'Sranan Tongo'
+suk: Sukuma
+sux: Sumerian
+sus: Susu
+ss: Swati
+fr_CH: 'Swiss French'
+syr: Syriac
+tl: Tagalog
+ty: Tahitian
+tly: Talysh
+tmh: Tamashek
+trv: Taroko
+ter: Tereno
+tet: Tetum
+tig: Tigre
+tem: Timne
+tiv: Tiv
+tli: Tlingit
+tpi: 'Tok Pisin'
+tkl: Tokelau
+fit: 'Tornedalen Finnish'
+tkr: Tsakhur
+tsd: Tsakonian
+tsi: Tsimshian
+ts: Tsonga
+tn: Tswana
+tcy: Tulu
+tum: Tumbuka
+aeb: 'Tunisian Arabic'
+tru: Turoyo
+tvl: Tuvalu
+tyv: Tuvinian
+tw: Twi
+kcg: Tyap
+udm: Udmurt
+uga: Ugaritic
+umb: Umbundu
+ve: Venda
+vec: Venetian
+vep: Veps
+vo: Volapük
+vro: Võro
+vot: Votic
+wa: Walloon
+wae: Walser
+war: Waray
+was: Washo
+guc: Wayuu
+vls: 'West Flemish'
+mrj: 'Western Mari'
+wal: Wolaytta
+wuu: 'Wu Chinese'
+hsn: 'Xiang Chinese'
+yav: Yangben
+yao: Yao
+yap: Yapese
+ybb: Yemba
+yi: Yiddish
+zap: Zapotec
+zza: Zaza
+zea: Zeelandic
+zen: Zenaga
+za: Zhuang
+gbz: 'Zoroastrian Dari'
+zun: Zuni
+en: अंग्रेजी
+az: अजरबैजानी
+und: 'अज्ञात भाषा'
+ar_001: 'अधुनिक प्रमाणिक अरबी'
+af: अफ्रिकान्स
+ab: अब्खाजियाली
+am: अम्हारिक
+ar: अरबी
+sq: अल्बेनियन
+de_AT: 'अष्ट्रियन जर्मन'
+ga: आइरिश
+is: आइसल्यान्डिक
+ak: आकान
+agq: आघेम
+hy: आर्मेनियाली
+as: आसामी
+asa: आसु
+ig: इग्बो
+it: इटालियन
+smn: 'इनारी सामी'
+id: इन्डोनेसियाली
+ee: इवि
+et: इस्टोनियाली
+ug: उइघुर
+uz: उज्बेकी
+nd: 'उत्तर नेडेबेले'
+se: 'उत्तरी सामी'
+ur: उर्दु
+ebu: एम्बु
+eo: एस्पेरान्तो
+or: ओरिया
+om: ओरोमो
+kn: कन्नाडा
+kk: काजाख
+kab: काबिल
+kea: काबुभेर्डियानु
+kam: काम्बा
+kl: कालालिसुट
+kln: कालेन्जिन
+ks: काश्मीरी
+ki: किकुयु
+quc: किचे
+rw: किन्यारवान्डा
+ky: किर्गिज
+ku: कुर्दिश
+tzm: 'केन्द्रीय एट्लास टामाजिघट'
+swc: 'कोङ्गो स्वाहिली'
+kok: कोन्कानी
+koi: कोमी-पर्म्याक
+khq: 'कोयरा चिनी'
+ses: 'कोयराबोरो सेन्नी'
+ko: कोरियाली
+kw: कोर्निश
+co: कोर्सिकन
+ca: क्याटालन
+hr: क्रोएशियाली
+nmg: क्वासियो
+qu: क्वेचुवा
+km: खमेर
+xh: खोसा
+gag: गगाउज
+gl: गलिसियाली
+lg: गान्डा
+gu: गुजराती
+gn: गुजरानी
+guz: गुसी
+jgo: गोम्बा
+el: ग्रीक
+cgg: चिगा
+zh: चिनियाँ
+cs: चेक
+chr: चेरोकी
+ka: जर्जियाली
+de: जर्मन
+dje: जर्मा
+ja: जापानी
+jv: जाभानिज
+zu: जुलु
+dz: जोङ्खा
+dyo: जोला-फोनिल
+tk: टर्कमेन
+tr: टर्किश
+shi: टाचेल्हिट
+teo: टेसो
+to: टोङ्गन
+nl: डच
+da: डेनिश
+dsb: 'तल्लो सोर्बियन'
+dav: ताइता
+tg: ताजिक
+tt: तातार
+ta: तामिल
+twq: तासावाक
+ti: तिग्रीन्या
+bo: तिब्बती
+te: तेलुगु
+th: थाई
+sma: 'दक्षिणी सामी'
+dua: दुवाला
+nqo: नको
+nn: 'नर्वेली नाइनोर्स्क'
+nb: 'नर्वेली बोकमाल'
+naq: नामा
+nus: नुएर
+ne: नेपाली
+nyn: न्यान्कोल
+pa: पंजाबी
+zh_Hant: 'परम्परागत चिनियाँ'
+ps: पाश्तो
+pt: पोर्तुगी
+pt_PT: 'पोर्तुगी (युरोप)'
+pl: पोलिश
+fa: फारसी
+fo: फारोज
+fj: फिजियाली
+fi: फिनिश
+fil: फिलिपिनी
+fr: फ्रान्सेली
+fy: फ्रिजीयन
+nl_BE: फ्लेमिश
+bn: बंगाली
+ksf: बाफिया
+bm: बाम्बारा
+ba: बाश्किर
+eu: बास्क
+bg: बुल्गेरियाली
+bez: बेना
+bem: बेम्बा
+brx: बोडो
+bs: बोस्नियाली
+br: ब्रेटन
+vai: भाइ
+zxx: 'भाषिक सामग्री छैन'
+vi: भियतनामी
+vun: भुन्जो
+mn: मंगोल
+mr: मराठी
+ml: मलयालम
+mg: मलागासी
+ms: मलाया
+mi: माओरी
+kde: माकोन्डे
+mgh: माखुवा-मिट्टो
+jmc: माचामे
+hsb: 'माथिल्लो सोर्बियन'
+zgh: 'मानक मोरोक्कोन तामाजिघट'
+gv: मान्क्स
+arn: मापुचे
+mt: माल्टिज
+ro_MD: माल्डाभियन
+mas: मासाल
+mua: मुन्डाङ
+mgo: मेटा
+mer: मेरू
+mfe: मोरिसेन
+moh: मोहक
+mk: म्याकेडोनियन
+uk: युक्रेनी
+es_ES: 'युरोपेली स्पेनिस'
+yo: योरूवा
+rn: रूण्डी
+ru: रूसी
+ro: रोमानियाली
+rm: रोमानिश
+rof: रोम्बो
+rwk: र्‌वा
+lb: लक्जेम्बर्गिस
+iu: लनुक्टिटुट
+lo: लाओ
+lag: लाङ्गी
+lv: लात्भियाली
+ln: लिंगाला
+lt: लिथुआनियाली
+luy: लुइया
+luo: लुओ
+lu: लुबा-काताङ्गा
+smj: 'लुले सामी'
+lkt: लोकोता
+la: ल्याटिन
+my: वर्मेली
+wo: वुलुफ
+be: वेलारूसी
+cy: वेल्श
+ksb: शाम्बाला
+sn: शोना
+zh_Hans: 'सरलिकृत चिनियाँ'
+sr: सर्बियाली
+sa: संस्कृत
+sbp: साङ्गु
+sg: साङ्गो
+saq: साम्बुरू
+ii: 'सिचुआन यि'
+sd: सिन्धी
+si: सिन्हाला
+su: सुडानी
+seh: सेना
+xog: सोगा
+so: सोमाली
+ckb: 'सोरानी कुर्दिश'
+sms: 'स्कोइट सामी'
+es: स्पेनिस
+sk: स्लोभाकियाली
+sl: स्लोभेनियाली
+sw: स्वाहिली
+sv: स्विडिश
+gsw: 'स्वीस जर्मन'
+de_CH: 'स्वीस हाई जर्मन'
+hu: हंग्रीयाली
+haw: हवाइयन
+ha: हाउसा
+hi: हिन्दी
+he: हिब्रु
+ht: हैटियाली

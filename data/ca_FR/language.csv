@@ -1,0 +1,609 @@
+id,value
+ab,abkhaz
+akk,accadi
+ach,acoli
+ada,adangme
+ady,adigué
+aa,àfar
+afh,afrihili
+af,afrikaans
+agq,aghem
+ay,aimara
+ain,ainu
+ak,àkan
+bss,akoose
+akz,Alabama
+sq,albanès
+de,alemany
+de_AT,"alemany austríac"
+gsw,"alemany suís"
+ale,aleuta
+arq,"Algerian Arabic"
+goh,"alt alemany antic"
+gmh,"alt alemany mitjà"
+de_CH,"alt alemany suís"
+hsb,"alt sòrab"
+alt,"altaic meridional"
+tzm,"amazic del Marroc central"
+zgh,"amazic estàndard marroquí"
+ase,"American Sign Language"
+wal,ameto
+am,amhàric
+anp,angika
+en,anglès
+en_US,"anglès americà"
+ang,"anglès antic"
+en_AU,"anglès australià"
+en_GB,"anglès britànic"
+en_CA,"anglès canadenc"
+enm,"anglès mitjà"
+njo,"Ao Naga"
+ar,àrab
+ar_001,"àrab estàndard modern"
+shu,"àrab txadià"
+an,aragonès
+arc,arameu
+sam,"arameu samarità"
+aro,Araona
+arp,arapaho
+arw,arauac
+arn,araucà
+hy,armeni
+rup,aromanès
+frp,Arpitan
+root,arrel
+as,assamès
+ast,asturià
+ace,atjeh
+cch,atsam
+av,àvar
+ae,avèstic
+awa,awadhi
+az,azerbaidjanès
+bfq,Badaga
+ksf,bafia
+bfd,bafut
+nds,"baix alemany"
+dsb,"baix sòrab"
+ba,baixkir
+bqi,Bakhtiari
+ban,balinès
+bal,balutxi
+bm,bambara
+bax,bamun
+bjn,Banjar
+bas,basa
+eu,basc
+bbc,"Batak Toba"
+bar,Bavarian
+bej,beja
+bem,bemba
+bez,bena
+bn,bengalí
+bew,Betawi
+bho,bhojpuri
+bik,bicol
+be,bielorús
+byn,bilin
+bin,bini
+my,birmà
+bpy,Bishnupriya
+bi,bislama
+nmg,bissio
+bla,blackfoot
+brx,bodo
+bs,bosnià
+brh,Brahui
+bra,braj
+br,bretó
+bug,bugui
+bg,búlgar
+bua,buriat
+kab,cabilenc
+cad,caddo
+ks,caixmiri
+csb,caixubi
+frc,"Cajun French"
+xal,calmuc
+yue,cantonès
+cps,Capiznon
+krl,carelià
+car,carib
+ca,català
+cay,cayuga
+ceb,cebuà
+dtp,"Central Dusun"
+esu,"Central Yupik"
+ch,chamorro
+chr,cherokee
+cgg,chiga
+qug,"Chimborazo Highland Quichua"
+chp,chipewyan
+cho,choctaw
+chk,chuuk
+ksh,colognian
+swb,comorià
+cop,copte
+ko,coreà
+kw,còrnic
+co,cors
+cr,cree
+mus,creek
+kea,"crioll capverdià"
+hr,croat
+dak,dakota
+da,danès
+dar,darguà
+dzg,dazaga
+del,delaware
+din,dinka
+dyo,diola
+dv,divehi
+doi,dogri
+dgr,dogrib
+dua,douala
+dz,dzongka
+efi,efik
+egy,"egipci antic"
+arz,"Egyptian Arabic"
+eka,ekajuk
+elx,elamita
+ebu,embu
+egl,Emilian
+sco,escocès
+cu,"eslau eclesiàstic"
+sk,eslovac
+sl,eslovè
+es,espanyol
+es_MX,"espanyol de Mèxic"
+es_ES,"espanyol europeu"
+es_419,"espanyol hispanoamericà"
+eo,esperanto
+et,estonià
+ee,ewe
+ewo,ewondo
+ext,Extremaduran
+fan,fang
+fat,fanti
+phn,fenici
+fo,feroès
+hif,"Fiji Hindi"
+fj,fijià
+fil,filipí
+fi,finès
+nl_BE,flamenc
+fon,fon
+gur,Frafra
+fr,francès
+fro,"francès antic"
+fr_CA,"francès canadenc"
+frm,"francès mitjà"
+fr_CH,"francès suís"
+frs,"frisó occidental"
+fy,"frisó oriental"
+frr,"frisó septentrional"
+fur,friülà
+ff,ful
+gaa,ga
+gd,"gaèlic escocès"
+mga,"gaèlic irlandès mitjà"
+gag,gagaús
+gl,gallec
+cy,gal·lès
+gan,"Gan Chinese"
+lg,ganda
+gay,gayo
+gba,gbaya
+ka,georgià
+aln,"Gheg Albanian"
+bbj,ghomala
+glk,Gilaki
+gil,gilbertès
+gom,"Goan Konkani"
+gon,gondi
+gor,gorontalo
+got,gòtic
+grb,grebo
+el,grec
+grc,"grec antic"
+kl,grenlandès
+gn,guaraní
+gez,gueez
+gu,gujarati
+guz,gusí
+gwi,gwichin
+hai,haida
+ht,haitià
+hak,"Hakka Chinese"
+ha,haussa
+haw,hawaià
+he,hebreu
+hz,herero
+hil,hiligainon
+hi,hindi
+ho,"hiri motu"
+hit,hitita
+hmn,hmong
+hu,hongarès
+hup,hupa
+sah,iacut
+iba,iban
+ibb,ibibio
+und,"idioma desconegut"
+io,ido
+ig,igbo
+ilo,ilocà
+id,indonesi
+izh,Ingrian
+inh,ingúix
+ia,interlingua
+ie,interlingue
+iu,inuktitut
+ik,inupiak
+yo,ioruba
+ga,irlandès
+sga,"irlandès antic"
+is,islandès
+it,italià
+jam,"Jamaican Creole English"
+ja,japonès
+jv,javanès
+yi,jiddisch
+kaj,jju
+jrb,judeoàrab
+jpr,judeopersa
+dyu,jula
+jut,Jutish
+kbd,kabardí
+kgp,Kaingang
+kkj,kako
+kln,kalenjin
+kam,kamba
+kbl,kanembu
+kn,kannada
+kr,kanuri
+kaa,karakalpak
+krc,karatxai
+kac,katxin
+kaw,kawi
+kk,kazakh
+ken,Kenyang
+kha,khasi
+km,khmer
+kho,khotanès
+khw,Khowar
+ki,kikuiu
+kmb,kimbundu
+krj,Kinaray-a
+ky,kirguís
+kiu,Kirmanjki
+tlh,klingonià
+bkm,kom
+kv,komi
+koi,komi-permiac
+kg,kongo
+kok,konkani
+kfo,koro
+kos,kosraeà
+avk,Kotava
+khq,"koyra chiini"
+kpe,kpelle
+kri,Krio
+kj,kuanyama
+kum,kúmik
+ku,kurd
+ckb,"kurd sorani"
+kru,kurukh
+kut,kutenai
+lad,ladí
+lkt,lakota
+lam,lamba
+lag,langi
+lo,laosià
+ltg,Latgalian
+lzz,Laz
+lez,lesguià
+lv,letó
+lij,Ligurian
+li,limburguès
+ln,lingala
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+lt,lituà
+liv,Livonian
+la,llatí
+mul,"llengües vàries"
+jbo,lojban
+lmo,Lombard
+sli,"Lower Silesian"
+loz,lozi
+lu,"luba katanga"
+lua,luba-lulua
+lui,luisenyo
+lun,lunda
+luo,luo
+lb,luxemburguès
+luy,luyia
+mde,maba
+mk,macedoni
+jmc,machame
+mad,madurès
+maf,mafa
+mag,magahi
+vmf,Main-Franconian
+mai,maithili
+mak,makassar
+mgh,makhuwa-metto
+kde,makonde
+ms,malai
+ml,malaiàlam
+mg,malgaix
+mt,maltès
+mdr,mandar
+man,mandinga
+mni,manipurí
+gv,manx
+mnc,manxú
+mi,maori
+mr,marathi
+chm,mari
+mh,marshallès
+mwr,marwari
+mas,massai
+mfe,mauricià
+mzn,Mazanderani
+byv,medumba
+men,mende
+mwv,Mentawai
+mer,meru
+mgo,meta’
+mic,micmac
+nan,"Min Nan Chinese"
+min,minangkabau
+xmf,Mingrelian
+mwl,mirandès
+lus,mizo
+moh,mohawk
+ro_MD,moldau
+lol,mongo
+mn,mongol
+myv,"mordovià erza"
+mdf,"mordovià moksa"
+mos,moré
+ary,"Moroccan Arabic"
+mua,mundang
+ttt,"Muslim Tat"
+mye,myene
+nqo,n’Ko
+naq,nama
+nap,napolità
+na,nauruà
+nv,navaho
+nr,"ndebele meridional"
+nd,"ndebele septentrional"
+ng,ndonga
+nl,neerlandès
+dum,"neerlandès mitjà"
+ne,nepalès
+new,newari
+nwc,"newari clàssic"
+sba,ngambay
+nnh,ngiemboon
+jgo,ngomba
+yrl,Nheengatu
+nia,nias
+niu,niueà
+nog,nogai
+non,"nòrdic antic"
+no,noruec
+nb,"noruec bokmål"
+nn,"noruec nynorsk"
+nov,Novial
+nus,nuer
+nym,nyamwesi
+ny,nyanja
+nyn,nyankole
+nyo,nyoro
+nzi,nzema
+oc,occità
+oj,ojibwa
+or,oriya
+om,oromo
+osa,osage
+os,osset
+pal,pahlavi
+ps,paixtu
+pfl,"Palatine German"
+pau,palauà
+pi,pali
+pam,pampangà
+pag,pangasi
+pa,panjabi
+lah,"panjabi occidental"
+pap,papiamento
+asa,pare
+pdc,"Pennsylvania German"
+fa,persa
+peo,"persa antic"
+pcd,Picard
+chn,"pidgin chinook"
+pms,Piedmontese
+pdt,Plautdietsch
+pl,polonès
+pon,ponapeà
+pnt,Pontic
+pt,portuguès
+pt_PT,"portuguès de Portugal"
+pt_BR,"portuguès del Brasil"
+pro,"provençal antic"
+prg,Prussian
+quc,quitxé
+qu,quítxua
+raj,rajasthani
+rap,rapanui
+rar,rarotongà
+rm,retoromànic
+rif,Riffian
+rgn,Romagnol
+ro,romanès
+rom,romaní
+rof,rombo
+rtm,Rotuman
+rug,Roviana
+rw,ruandès
+rn,rundi
+ru,rus
+rue,Rusyn
+rwk,rwo
+ssy,saho
+saq,samburu
+smn,"sami d’Inari"
+smj,"sami lule"
+sma,"sami meridional"
+se,"sami septentrional"
+sms,"sami skolt"
+sm,samoà
+sgs,Samogitian
+sad,sandawe
+sg,sango
+sbp,sangu
+sa,sànscrit
+sat,santali
+sc,sard
+sas,sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+bum,seki
+sly,Selayar
+sel,selkup
+seh,sena
+see,seneca
+zxx,"sense contingut lingüístic"
+sr,serbi
+sh,serbocroat
+srr,serer
+sei,Seri
+ksb,shambala
+sn,shona
+scn,sicilià
+sid,sidamo
+szl,Silesian
+zbl,"símbols Bliss"
+sd,sindhi
+si,singalès
+syr,siríac
+syc,"siríac clàssic"
+ss,siswati
+den,slavey
+xog,soga
+sog,sogdià
+so,somali
+ses,"songhai oriental"
+snk,soninke
+st,"sotho meridional"
+nso,"sotho septentrional"
+azb,"South Azerbaijani"
+srn,sranan
+sw,suahili
+swc,"suahili del Congo"
+sv,suec
+suk,sukuma
+sux,sumeri
+su,sundanès
+sus,susú
+tg,tadjik
+tl,tagàlog
+ty,tahitià
+th,tailandès
+dav,taita
+shi,taixelhit
+tly,Talysh
+tmh,tamazight
+ta,tàmil
+trv,taroko
+twq,tasawaq
+tt,tàtar
+crh,"tàtar de Crimea"
+te,telugu
+tem,temne
+ter,terena
+teo,teso
+tet,tetun
+bo,tibetà
+tig,tigre
+ti,tigrinya
+tiv,tiv
+tli,tlingit
+tpi,"tok pisin"
+tkl,tokelauès
+tog,tonga
+to,tongalès
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,tsimshià
+ts,tsonga
+tn,tswana
+tcy,Tulu
+tum,tumbuka
+aeb,"Tunisian Arabic"
+tr,turc
+ota,"turc otomà"
+tk,turcman
+tru,Turoyo
+tvl,tuvaluà
+tyv,tuvinià
+tw,twi
+chg,txagatai
+cs,txec
+ce,txetxè
+chb,txibtxa
+cv,txuvaix
+kcg,tyap
+uk,ucraïnès
+udm,udmurt
+uga,ugarític
+ug,uigur
+umb,umbundu
+ur,urdú
+uz,uzbek
+vai,vai
+wa,való
+ve,venda
+vec,Venetian
+vep,Veps
+vi,vietnamita
+vo,volapük
+vro,Võro
+vot,vòtic
+vun,vunjo
+wae,walser
+war,waray-waray
+was,washo
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wo,wòlof
+wuu,"Wu Chinese"
+shn,xan
+chy,xeienne
+hsn,"Xiang Chinese"
+zh,xinès
+zh_Hans,"xinès simplificat"
+zh_Hant,"xinès tradicional"
+xh,xosa
+yav,yangben
+yao,yao
+yap,yapeà
+ybb,yemba
+ii,"yi sichuan"
+zap,zapoteca
+dje,zarma
+zza,zaza
+zea,Zeelandic
+zen,zenaga
+za,zhuang
+gbz,"Zoroastrian Dari"
+zu,zulu
+zun,zuni

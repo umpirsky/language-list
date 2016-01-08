@@ -1,0 +1,609 @@
+id,value
+ab,աբխազերեն
+az,ադրբեջաներեն
+sq,ալբաներեն
+agq,աղեմ
+en_US,"ամերիկյան անգլերեն"
+am,ամհարերեն
+en,անգլերեն
+und,"անհայտ լեզու"
+zxx,"առանց լեզվային բովանդակության"
+as,ասամերեն
+asa,ասու
+zh_Hant,"ավանդական չինարեն"
+en_AU,"ավստրալական անգլերեն"
+de_AT,"ավստրիական գերմաներեն"
+ar,արաբերեն
+fy,"արևմտյան ֆրիզերեն"
+ak,աքաներեն
+af,աֆրիկաանս
+bm,բամբարա
+ba,բաշկիրերեն
+eu,բասկերեն
+ksf,բաֆիա
+be,բելառուսերեն
+bem,բեմբա
+bez,բենա
+bn,բենգալերեն
+my,բիրմայերեն
+brx,բոդո
+bs,բոսնիերեն
+bg,բուլղարերեն
+pt_BR,"բրազիլական պորտուգալերեն"
+br,բրետոներեն
+en_GB,"բրիտանական անգլերեն"
+gag,գագաուզերեն
+gl,գալիսերեն
+lg,գանդա
+de,գերմաներեն
+gn,գուարանի
+gu,գուջարաթի
+guz,գուսի
+da,դանիերեն
+dua,դուալա
+he,եբրայերեն
+es_ES,"եվրոպական իսպաներեն"
+pt_PT,"եվրոպական պորտուգալերեն"
+dje,զարմա
+zu,զուլուսերեն
+ebu,էմբու
+eo,էսպերանտո
+et,էստոներեն
+ee,էվե
+tt,թաթարերեն
+dav,թաիթա
+ta,թամիլերեն
+th,թայերեն
+te,թելուգու
+ti,թիգրինիա
+tr,թուրքերեն
+tk,թուրքմեներեն
+ar_001,"ժամանակակից ստանդարտ արաբերեն"
+ig,իգբո
+smn,"ինարի սամի"
+id,ինդոնեզերեն
+iu,ինուկտիտուտ
+ga,իռլանդերեն
+is,իսլանդերեն
+es,իսպաներեն
+it,իտալերեն
+lkt,լակոտա
+lag,լանգի
+lo,լաոսերեն
+es_419,"լատինաամերիկյան իսպաներեն"
+la,լատիներեն
+lv,լատվիերեն
+pl,լեհերեն
+ln,լինգալա
+lt,լիտվերեն
+lb,լյուքսեմբուրգերեն
+lu,լուբա-կատանգա
+smj,"լուլե սամի"
+luy,լույա
+luo,լուո
+hr,խորվաթերեն
+kab,կաբիլերեն
+kl,կալաալիսուտ
+kln,կալենջին
+kam,կամբա
+en_CA,"կանադական անգլերեն"
+fr_CA,"կանադական ֆրանսերեն"
+kn,կաննադա
+ca,կատալաներեն
+tzm,"կենտրոնատլասյան թամազիխտ"
+ki,կիկույու
+quc,կիչե
+koi,կոմի-պերմյակ
+khq,"կոյրա չինի"
+ses,"կոյրաբորո սեննի"
+swc,"կոնգոյի սուահիլի"
+kok,կոնկանի
+kw,կոռներեն
+ko,կորեերեն
+co,կորսիկերեն
+kea,կուբավերդիանու
+nmg,կվասիո
+ht,հաիթերեն
+hy,հայերեն
+ha,հաուսա
+haw,հավայիերեն
+sma,"հարավային սամի"
+hi,հինդի
+nd,"հյուսիսային նդեբելե"
+se,"հյուսիսային սամի"
+nl,հոլանդերեն
+el,հունարեն
+hu,հունգարերեն
+kk,ղազախերեն
+ky,ղրղզերեն
+ja,ճապոներեն
+jv,ճավայերեն
+mg,մալագասերեն
+ml,մալայալամ
+ms,մալայերեն
+mt,մալթերեն
+mk,մակեդոներեն
+kde,մակոնդե
+jmc,մաշամե
+mi,մաորի
+arn,մապուչի
+mas,մասաի
+mr,մարաթի
+mgh,մաքուա-մետտո
+gv,մեներեն
+mgo,մետա
+mer,մերու
+es_MX,"մեքսիկական իսպաներեն"
+ro_MD,մոլդովերեն
+moh,մոհավք
+mn,մոնղոլերեն
+mfe,մորիսյեն
+mua,մունդանգ
+yo,յորուբա
+naq,նամա
+jgo,նգոմբա
+ne,նեպալերեն
+nqo,նկո
+nyn,նյանկոլե
+nb,"նորվեգերեն բուկմոլ"
+nn,"նորվեգերեն նյունորսկ"
+nus,նուեր
+ksb,շամբալա
+chr,շերոկի
+sn,շոնա
+sv,շվեդերեն
+de_CH,"շվեյցարական բարձր գերմաներեն"
+gsw,"շվեյցարական գերմաներեն"
+fr_CH,"շվեյցարական ֆրանսերեն"
+cy,ուելսերեն
+uz,ուզբեկերեն
+uk,ուկրաիներեն
+ug,ույղուրերեն
+ur,ուրդու
+cs,չեխերեն
+cgg,չիգա
+zh,չինարեն
+zh_Hans,"պարզեցված չինարեն"
+fa,պարսկերեն
+pt,պորտուգալերեն
+dyo,ջոլա-ֆոնյի
+dz,ջոնգքհա
+rm,ռոմանշերեն
+rof,ռոմբո
+ro,ռումիներեն
+rn,ռունդի
+ru,ռուսերեն
+rwk,ռվա
+saq,սամբուրու
+sg,սանգո
+sbp,սանգու
+sa,սանսկրիտ
+seh,սենա
+sr,սերբերեն
+ii,"սիխուան յի"
+sd,սինդհի
+si,սինհալերեն
+sk,սլովակերեն
+sl,սլովեներեն
+sms,"սկոլտ սամի"
+xog,սոգա
+so,սոմալիերեն
+ckb,"սորանի (քրդերեն)"
+sw,սուահիլի
+su,սունդաներեն
+zgh,"ստանդարտ մարոկական թամազիղտ"
+dsb,"ստորին սորբիերեն"
+vai,վաի
+hsb,"վերին սորբիերեն"
+vi,վիետնամերեն
+wo,վոլոֆ
+vun,վունջո
+ka,վրացերեն
+shi,տաշելհիթ
+tg,տաջիկերեն
+twq,տասավաք
+teo,տեսո
+bo,տիբեթերեն
+to,տոնգա
+pa,փենջաբերեն
+ps,փուշթու
+ks,քաշմիրերեն
+qu,քեչուա
+rw,քինյարվանդա
+km,քմերերեն
+xh,քսոզա
+ku,քրդերեն
+or,օրիյա
+om,օրոմո
+fo,ֆարյորերեն
+fil,ֆիլիպիներեն
+fi,ֆիններեն
+fj,ֆիջիերեն
+nl_BE,ֆլամանդերեն
+fr,ֆրանսերեն
+ace,Achinese
+ach,Acoli
+ada,Adangme
+ady,Adyghe
+aa,Afar
+afh,Afrihili
+ain,Ainu
+akk,Akkadian
+bss,Akoose
+akz,Alabama
+ale,Aleut
+arq,"Algerian Arabic"
+ase,"American Sign Language"
+egy,"Ancient Egyptian"
+grc,"Ancient Greek"
+anp,Angika
+njo,"Ao Naga"
+an,Aragonese
+arc,Aramaic
+aro,Araona
+arp,Arapaho
+arw,Arawak
+rup,Aromanian
+frp,Arpitan
+ast,Asturian
+cch,Atsam
+av,Avaric
+ae,Avestan
+awa,Awadhi
+ay,Aymara
+bfq,Badaga
+bfd,Bafut
+bqi,Bakhtiari
+ban,Balinese
+bal,Baluchi
+bax,Bamun
+bjn,Banjar
+bas,Basaa
+bbc,"Batak Toba"
+bar,Bavarian
+bej,Beja
+bew,Betawi
+bho,Bhojpuri
+bik,Bikol
+bin,Bini
+bpy,Bishnupriya
+bi,Bislama
+byn,Blin
+zbl,Blissymbols
+brh,Brahui
+bra,Braj
+bug,Buginese
+bum,Bulu
+bua,Buriat
+cad,Caddo
+frc,"Cajun French"
+yue,Cantonese
+cps,Capiznon
+car,Carib
+cay,Cayuga
+ceb,Cebuano
+dtp,"Central Dusun"
+esu,"Central Yupik"
+shu,"Chadian Arabic"
+chg,Chagatai
+ch,Chamorro
+ce,Chechen
+chy,Cheyenne
+chb,Chibcha
+qug,"Chimborazo Highland Quichua"
+chn,"Chinook Jargon"
+chp,Chipewyan
+cho,Choctaw
+cu,"Church Slavic"
+chk,Chuukese
+cv,Chuvash
+nwc,"Classical Newari"
+syc,"Classical Syriac"
+ksh,Colognian
+swb,Comorian
+cop,Coptic
+cr,Cree
+mus,Creek
+crh,"Crimean Turkish"
+dak,Dakota
+dar,Dargwa
+dzg,Dazaga
+del,Delaware
+din,Dinka
+dv,Divehi
+doi,Dogri
+dgr,Dogrib
+dyu,Dyula
+frs,"Eastern Frisian"
+efi,Efik
+arz,"Egyptian Arabic"
+eka,Ekajuk
+elx,Elamite
+egl,Emilian
+myv,Erzya
+ewo,Ewondo
+ext,Extremaduran
+fan,Fang
+fat,Fanti
+hif,"Fiji Hindi"
+fon,Fon
+gur,Frafra
+fur,Friulian
+ff,Fulah
+gaa,Ga
+gan,"Gan Chinese"
+gay,Gayo
+gba,Gbaya
+gez,Geez
+aln,"Gheg Albanian"
+bbj,Ghomala
+glk,Gilaki
+gil,Gilbertese
+gom,"Goan Konkani"
+gon,Gondi
+gor,Gorontalo
+got,Gothic
+grb,Grebo
+gwi,Gwichʼin
+hai,Haida
+hak,"Hakka Chinese"
+hz,Herero
+hil,Hiligaynon
+ho,"Hiri Motu"
+hit,Hittite
+hmn,Hmong
+hup,Hupa
+iba,Iban
+ibb,Ibibio
+io,Ido
+ilo,Iloko
+izh,Ingrian
+inh,Ingush
+ia,Interlingua
+ie,Interlingue
+ik,Inupiaq
+jam,"Jamaican Creole English"
+kaj,Jju
+jrb,Judeo-Arabic
+jpr,Judeo-Persian
+jut,Jutish
+kbd,Kabardian
+kac,Kachin
+kgp,Kaingang
+kkj,Kako
+xal,Kalmyk
+kbl,Kanembu
+kr,Kanuri
+kaa,Kara-Kalpak
+krc,Karachay-Balkar
+krl,Karelian
+csb,Kashubian
+kaw,Kawi
+ken,Kenyang
+kha,Khasi
+kho,Khotanese
+khw,Khowar
+kmb,Kimbundu
+krj,Kinaray-a
+kiu,Kirmanjki
+tlh,Klingon
+bkm,Kom
+kv,Komi
+kg,Kongo
+kfo,Koro
+kos,Kosraean
+avk,Kotava
+kpe,Kpelle
+kri,Krio
+kj,Kuanyama
+kum,Kumyk
+kru,Kurukh
+kut,Kutenai
+lad,Ladino
+lah,Lahnda
+lam,Lamba
+ltg,Latgalian
+lzz,Laz
+lez,Lezghian
+lij,Ligurian
+li,Limburgish
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+liv,Livonian
+jbo,Lojban
+lmo,Lombard
+nds,"Low German"
+sli,"Lower Silesian"
+loz,Lozi
+lua,Luba-Lulua
+lui,Luiseno
+lun,Lunda
+mde,Maba
+mad,Madurese
+maf,Mafa
+mag,Magahi
+vmf,Main-Franconian
+mai,Maithili
+mak,Makasar
+mnc,Manchu
+mdr,Mandar
+man,Mandingo
+mni,Manipuri
+chm,Mari
+mh,Marshallese
+mwr,Marwari
+mzn,Mazanderani
+byv,Medumba
+men,Mende
+mwv,Mentawai
+mic,Micmac
+dum,"Middle Dutch"
+enm,"Middle English"
+frm,"Middle French"
+gmh,"Middle High German"
+mga,"Middle Irish"
+nan,"Min Nan Chinese"
+min,Minangkabau
+xmf,Mingrelian
+mwl,Mirandese
+lus,Mizo
+mdf,Moksha
+lol,Mongo
+ary,"Moroccan Arabic"
+mos,Mossi
+mul,"Multiple Languages"
+ttt,"Muslim Tat"
+mye,Myene
+na,Nauru
+nv,Navajo
+ng,Ndonga
+nap,Neapolitan
+new,Newari
+sba,Ngambay
+nnh,Ngiemboon
+yrl,Nheengatu
+nia,Nias
+niu,Niuean
+nog,Nogai
+frr,"Northern Frisian"
+nso,"Northern Sotho"
+no,Norwegian
+nov,Novial
+nym,Nyamwezi
+ny,Nyanja
+tog,"Nyasa Tonga"
+nyo,Nyoro
+nzi,Nzima
+oc,Occitan
+oj,Ojibwa
+ang,"Old English"
+fro,"Old French"
+goh,"Old High German"
+sga,"Old Irish"
+non,"Old Norse"
+peo,"Old Persian"
+pro,"Old Provençal"
+osa,Osage
+os,Ossetic
+ota,"Ottoman Turkish"
+pal,Pahlavi
+pfl,"Palatine German"
+pau,Palauan
+pi,Pali
+pam,Pampanga
+pag,Pangasinan
+pap,Papiamento
+pdc,"Pennsylvania German"
+phn,Phoenician
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pon,Pohnpeian
+pnt,Pontic
+prg,Prussian
+raj,Rajasthani
+rap,Rapanui
+rar,Rarotongan
+rif,Riffian
+rgn,Romagnol
+rom,Romany
+root,Root
+rtm,Rotuman
+rug,Roviana
+rue,Rusyn
+ssy,Saho
+sah,Sakha
+sam,"Samaritan Aramaic"
+sm,Samoan
+sgs,Samogitian
+sad,Sandawe
+sat,Santali
+sc,Sardinian
+sas,Sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sco,Scots
+gd,"Scottish Gaelic"
+sly,Selayar
+sel,Selkup
+see,Seneca
+sh,Serbo-Croatian
+srr,Serer
+sei,Seri
+shn,Shan
+scn,Sicilian
+sid,Sidamo
+bla,Siksika
+szl,Silesian
+den,Slave
+sog,Sogdien
+snk,Soninke
+azb,"South Azerbaijani"
+nr,"South Ndebele"
+alt,"Southern Altai"
+st,"Southern Sotho"
+srn,"Sranan Tongo"
+suk,Sukuma
+sux,Sumerian
+sus,Susu
+ss,Swati
+syr,Syriac
+tl,Tagalog
+ty,Tahitian
+tly,Talysh
+tmh,Tamashek
+trv,Taroko
+ter,Tereno
+tet,Tetum
+tig,Tigre
+tem,Timne
+tiv,Tiv
+tli,Tlingit
+tpi,"Tok Pisin"
+tkl,Tokelau
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,Tsimshian
+ts,Tsonga
+tn,Tswana
+tcy,Tulu
+tum,Tumbuka
+aeb,"Tunisian Arabic"
+tru,Turoyo
+tvl,Tuvalu
+tyv,Tuvinian
+tw,Twi
+kcg,Tyap
+udm,Udmurt
+uga,Ugaritic
+umb,Umbundu
+ve,Venda
+vec,Venetian
+vep,Veps
+vo,Volapük
+vro,Võro
+vot,Votic
+wa,Walloon
+wae,Walser
+war,Waray
+was,Washo
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wal,Wolaytta
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+yav,Yangben
+yao,Yao
+yap,Yapese
+ybb,Yemba
+yi,Yiddish
+zap,Zapotec
+zza,Zaza
+zea,Zeelandic
+zen,Zenaga
+za,Zhuang
+gbz,"Zoroastrian Dari"
+zun,Zuni

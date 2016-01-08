@@ -1,0 +1,609 @@
+id,value
+afh,Afrihili
+bss,Akoose
+akz,Alabama
+arq,"Algerian Arabic"
+ase,"American Sign Language"
+njo,"Ao Naga"
+aro,Araona
+rup,Aromanian
+frp,Arpitan
+cch,Atsam
+av,Avaric
+bfq,Badaga
+bfd,Bafut
+bqi,Bakhtiari
+bjn,Banjar
+bbc,"Batak Toba"
+bar,Bavarian
+bew,Betawi
+bik,Bikol
+bin,Bini
+bpy,Bishnupriya
+bi,Bislama
+brh,Brahui
+bug,Buginese
+bum,Bulu
+cad,Caddo
+frc,"Cajun French"
+cps,Capiznon
+car,Carib
+ceb,Cebuano
+dtp,"Central Dusun"
+esu,"Central Yupik"
+chg,Chagatai
+ch,Chamorro
+chy,Cheyenne
+qug,"Chimborazo Highland Quichua"
+chn,"Chinook Jargon"
+chp,Chipewyan
+cho,Choctaw
+chk,Chuukese
+ksh,Colognian
+dzg,Dazaga
+arz,"Egyptian Arabic"
+eka,Ekajuk
+elx,Elamite
+egl,Emilian
+ext,Extremaduran
+fan,Fang
+fat,Fanti
+hif,"Fiji Hindi"
+gur,Frafra
+ff,Fulah
+gaa,Ga
+gan,"Gan Chinese"
+gay,Gayo
+aln,"Gheg Albanian"
+bbj,Ghomala
+glk,Gilaki
+gil,Gilbertese
+gom,"Goan Konkani"
+gor,Gorontalo
+grb,Grebo
+gwi,Gwichʼin
+hai,Haida
+hak,"Hakka Chinese"
+hz,Herero
+hil,Hiligaynon
+ho,"Hiri Motu"
+hmn,Hmong
+hup,Hupa
+ilo,Iloko
+izh,Ingrian
+ik,Inupiaq
+jam,"Jamaican Creole English"
+kaj,Jju
+jut,Jutish
+kgp,Kaingang
+kkj,Kako
+kbl,Kanembu
+kaw,Kawi
+ken,Kenyang
+kha,Khasi
+kho,Khotanese
+khw,Khowar
+krj,Kinaray-a
+kiu,Kirmanjki
+bkm,Kom
+kfo,Koro
+kos,Kosraean
+avk,Kotava
+kri,Krio
+kj,Kuanyama
+ltg,Latgalian
+lzz,Laz
+lij,Ligurian
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+liv,Livonian
+lmo,Lombard
+nds,"Low German"
+sli,"Lower Silesian"
+lua,Luba-Lulua
+mad,Madurese
+vmf,Main-Franconian
+mak,Makasar
+mdr,Mandar
+man,Mandingo
+mh,Marshallese
+mzn,Mazanderani
+byv,Medumba
+mwv,Mentawai
+mic,Micmac
+dum,"Middle Dutch"
+enm,"Middle English"
+frm,"Middle French"
+gmh,"Middle High German"
+mga,"Middle Irish"
+nan,"Min Nan Chinese"
+min,Minangkabau
+xmf,Mingrelian
+ary,"Moroccan Arabic"
+mos,Mossi
+mul,"Multiple Languages"
+ttt,"Muslim Tat"
+ng,Ndonga
+sba,Ngambay
+nnh,Ngiemboon
+yrl,Nheengatu
+nia,Nias
+niu,Niuean
+nso,"Northern Sotho"
+nov,Novial
+tog,"Nyasa Tonga"
+osa,Osage
+ota,"Ottoman Turkish"
+pfl,"Palatine German"
+pau,Palauan
+pam,Pampanga
+pag,Pangasinan
+pap,Papiamento
+pdc,"Pennsylvania German"
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pon,Pohnpeian
+pnt,Pontic
+prg,Prussian
+rif,Riffian
+rgn,Romagnol
+root,Root
+rtm,Rotuman
+rug,Roviana
+rue,Rusyn
+ssy,Saho
+sgs,Samogitian
+sad,Sandawe
+sat,Santali
+sas,Sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sco,Scots
+sly,Selayar
+srr,Serer
+sei,Seri
+sid,Sidamo
+bla,Siksika
+szl,Silesian
+den,Slave
+sog,Sogdien
+snk,Soninke
+azb,"South Azerbaijani"
+nr,"South Ndebele"
+srn,"Sranan Tongo"
+suk,Sukuma
+sus,Susu
+ss,Swati
+tl,Tagalog
+ty,Tahitian
+tly,Talysh
+tmh,Tamashek
+trv,Taroko
+ter,Tereno
+tet,Tetum
+tem,Timne
+tiv,Tiv
+tli,Tlingit
+tpi,"Tok Pisin"
+tkl,Tokelau
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,Tsimshian
+ts,Tsonga
+tcy,Tulu
+tum,Tumbuka
+aeb,"Tunisian Arabic"
+tru,Turoyo
+tvl,Tuvalu
+kcg,Tyap
+umb,Umbundu
+ve,Venda
+vec,Venetian
+vep,Veps
+vo,Volapük
+vro,Võro
+vot,Votic
+wa,Walloon
+wae,Walser
+war,Waray
+was,Washo
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+yav,Yangben
+yao,Yao
+yap,Yapese
+ybb,Yemba
+zap,Zapotec
+zea,Zeelandic
+za,Zhuang
+gbz,"Zoroastrian Dari"
+zun,Zuni
+ada,ადანგმე
+ady,ადიღეური
+awa,ავადი
+ae,ავესტური
+en_AU,"ავსტრალიური ინგლისური"
+de_AT,"ავსტრიული გერმანული"
+az,აზერბაიჯანული
+ay,აიმარა
+ain,აინუური
+ak,აკანი
+sq,ალბანური
+ale,ალეუტური
+en_US,"ამერიკული ინგლისური"
+am,ამჰარული
+anp,ანგიკა
+ar,არაბული
+an,არაგონული
+arw,არავაკი
+arc,არამეული
+arp,არაპაჰო
+as,ასამური
+ast,ასტურიული
+asa,ასუ
+aa,აფარი
+af,აფრიკაანსი
+ab,აფხაზური
+akk,აქადური
+agq,აღემი
+frs,აღმოსავლეთფრიზიული
+ace,აჩეხური
+ach,აჩოლი
+ban,ბალინური
+bm,ბამბარა
+bax,ბამუნი
+bas,ბასა
+eu,ბასკური
+ksf,ბაფია
+ba,ბაშკირული
+be,ბელორუსული
+bal,ბელუჯი
+bem,ბემბა
+bez,ბენა
+bn,ბენგალური
+el,ბერძნული
+bej,ბეჯა
+byn,ბილინი
+my,ბირმული
+zbl,ბლისსიმბოლოები
+brx,ბოდო
+bs,ბოსნიური
+rom,ბოშური
+bho,ბოჯპური
+pt_BR,"ბრაზილიური პორტუგალიური"
+bra,ბრაჯი
+br,ბრეტონული
+en_GB,"ბრიტანული ინგლისური"
+bg,ბულგარული
+bua,ბურიატული
+gag,გაგაუზური
+gl,გალისიური
+zh_Hans,"გამარტივებული ჩინური"
+lg,განდა
+gba,გბაია
+gez,გეეზი
+de,გერმანული
+got,გოთური
+gon,გონდი
+gn,გუარანი
+guz,გუსიი
+gu,გუჯარათი
+dak,დაკოტა
+da,დანიური
+dar,დარგუული
+kl,"დასავლეთ გრენლანდიური"
+fy,დასავლეთფრიზიული
+del,დელავარული
+dv,დივეჰი
+din,დინკა
+dyo,დიოლა
+dyu,დიულა
+doi,დოგრი
+dgr,დოგრიბი
+dua,დუალა
+he,ებრაული
+ee,ევე
+ewo,ევონდო
+es_ES,"ევროპული ესპანური"
+pt_PT,"ევროპული პორტუგალიური"
+ebu,ემბუ
+myv,ერზია
+es,ესპანური
+eo,ესპერანტო
+et,ესტონური
+efi,ეფიკი
+vai,ვაი
+wal,ველაითა
+vi,ვიეტნამური
+wo,ვოლოფური
+vun,ვუნჯო
+zza,ზაზაკი
+dje,ზარმა
+hsb,ზემოსორბული
+zen,ზენაგა
+zu,ზულუ
+tt,თათრული
+ar_001,"თანამედროვე სტანდარტული არაბული"
+tig,თიგრე
+ti,თიგრინია
+tw,თუი
+tk,თურქმენული
+tr,თურქული
+jv,იავური
+sah,იაკუტური
+ja,იაპონური
+iba,იბანი
+ibb,იბიბიო
+ig,იგბო
+yi,იდიში
+io,იდო
+smn,ინარი-საამური
+en,ინგლისური
+inh,ინგუშური
+id,ინდონეზიური
+ie,ინტერლინგი
+ia,ინტერლინგუალური
+iu,ინუკტიტუტი
+yo,იორუბა
+ga,ირლანდიური
+is,ისლანდიური
+it,იტალიური
+jrb,იუდეო-არაბული
+jpr,იუდეო-სპარსული
+kab,კაბილური
+kea,კაბუვერდიანუ
+cay,კაიუგა
+kln,კალენჯინი
+kam,კამბა
+kn,კანადა
+en_CA,"კანადური ინგლისური"
+fr_CA,"კანადური ფრანგული"
+yue,კანტონური
+kr,კანური
+krl,კარელიური
+ca,კატალანური
+csb,კაშუბური
+kac,კაჩინი
+qu,კეჩუა
+nmg,კვასიო
+ki,კიკუიუ
+jmc,კიმაშამი
+kmb,კიმბუნდუ
+rw,კინიარუანდა
+quc,კიჩე
+nwc,"კლასიკური ნევარული"
+syc,"კლასიკური სირიული"
+tlh,კლინგონი
+khq,კოირა-ჩიინი
+ses,კოირაბორო-სენი
+kv,კომი
+koi,კომი-პერმიაკული
+swb,კომორული
+kg,კონგო
+swc,"კონგოს სუაჰილი"
+kok,კონკანი
+cop,კოპტური
+ko,კორეული
+kw,კორნული
+co,კორსიკული
+kpe,კპელე
+cr,კრი
+mus,კრიკი
+kru,კურუქი
+kut,კუტენაი
+lad,ლადინო
+es_419,"ლათინურ ამერიკული ესპანური"
+la,ლათინური
+lkt,ლაკოტა
+lam,ლამბა
+lag,ლანგი
+lah,ლანდა
+lo,ლაოსური
+lv,ლატვიური
+lez,ლეზგიური
+li,ლიმბურგული
+ln,ლინგალა
+zxx,"ლინგვისტური შიგთავსი არ არის"
+lt,ლიტვური
+loz,ლოზი
+jbo,ლოჟბანი
+lu,ლუბა-კატანგა
+lui,ლუისენიო
+smj,ლულე-საამური
+lun,ლუნდა
+luo,ლუო
+lb,ლუქსემბურგული
+luy,ლუჰია
+mde,მაბა
+mag,მაგაჰი
+mai,მაითილი
+mk,მაკედონური
+kde,მაკონდე
+mg,მალაგასიური
+ml,მალაიალამური
+ms,მალაიური
+mt,მალტური
+mni,მანიპური
+mnc,მანჯურიული
+mi,მაორი
+arn,მაპუდუნგუნი
+mr,მარათჰი
+mwr,მარვარი
+chm,მარიული
+mas,მასაი
+maf,მაფა
+mgh,მაქუვა-მეეტო
+men,მენდე
+gv,მენური
+mer,მერუ
+mgo,"მეტა’ ენა"
+es_MX,"მექსიკური ესპანური"
+mye,მიენე
+lus,მიზო
+mwl,მირანდული
+ro_MD,მოლდავური
+lol,მონგო
+mn,მონღოლური
+mfe,მორისიენი
+mdf,მოქშა
+moh,მოჰაუკური
+mua,მუნდანგი
+nv,ნავახო
+naq,ნამა
+na,ნაურუ
+jgo,ნგომბა
+nap,ნეაპოლიტანური
+new,ნევარი
+ne,ნეპალური
+nzi,ნზიმა
+nym,ნიამვეზი
+nyn,ნიანკოლე
+ny,ნიანჯა
+nl,ნიდერლანდური
+nyo,ნიორო
+nqo,ნკო
+no,ნორვეგიული
+nb,"ნორვეგიული ბუკმოლი"
+nn,"ნორვეგიული ნიუნორსკი"
+nog,ნოღაური
+nus,ნუერი
+or,ორია
+om,ორომო
+os,ოსური
+oc,ოქსიტანური
+oj,ოჯიბვე
+pi,პალი
+pa,პენჯაბური
+pl,პოლონური
+pt,პორტუგალიური
+ps,პუშტუ
+rap,რაპანუი
+rar,რაროტონგული
+raj,რაჯასთანი
+rm,რეტორომანული
+rof,რომბო
+rwk,რუა
+ro,რუმინული
+rn,რუნდი
+ru,რუსული
+cu,"საეკლესიო სლავური"
+sam,სამარიულ-არამეული
+saq,სამბურუ
+sm,სამოა
+alt,"სამხრეთ ალთაური"
+sma,"სამხრეთ საამური"
+st,"სამხრეთ სოთოს ენა"
+sg,სანგო
+sbp,სანგუ
+sa,სანსკრიტი
+sc,სარდინიული
+sel,სელკუპური
+seh,სენა
+see,სენეკა
+sh,სერბულ-ხორვატული
+sr,სერბული
+sd,სინდჰური
+si,სინჰალური
+syr,სირიული
+ii,"სიჩუანის ი"
+scn,სიცილიური
+sms,სკოლტ-საამური
+sk,სლოვაკური
+sl,სლოვენური
+xog,სოგა
+so,სომალიური
+hy,სომხური
+ckb,"სორანი ქურთული"
+fa,სპარსული
+zgh,"სტანდარტული მაროკოული ტამაზიგხტი"
+sw,სუაჰილი
+su,სუნდური
+th,ტაი
+dav,ტაიტა
+ta,ტამილური
+twq,ტასავაქი
+tg,ტაჯიკური
+te,ტელუგუ
+teo,ტესო
+bo,ტიბეტური
+to,ტონგანური
+zh_Hant,"ტრადიციული ჩინური"
+tn,ტსვანა
+tyv,ტუვა
+uga,უგარითული
+udm,უდმურტული
+cy,უელსური
+uz,უზბეკური
+ug,უიღურული
+uk,უკრაინული
+hu,უნგრული
+ur,ურდუ
+und,"უცნობი ენა"
+pal,ფალაური
+fo,ფარერული
+fil,ფილიპინური
+phn,ფინიკიური
+fi,ფინური
+fj,ფიჯი
+nl_BE,ფლამანდიური
+fon,ფონი
+fr,ფრანგული
+fur,ფრიულური
+ka,ქართული
+ks,ქაშმირული
+dsb,ქვემოსორბული
+km,ქმერული
+ku,ქურთული
+xh,ქჰოსა
+kbd,ყაბარდოული
+kk,ყაზახური
+xal,ყალმუხური
+kaa,ყარაყალფახური
+krc,ყარაჩაულ-ბალყარული
+ky,ყირგიზული
+crh,ყირიმულ-თურქული
+kum,ყუმუხური
+ksb,შამბალა
+shn,შანი
+sv,შვედური
+gsw,"შვეიცარიული გერმანული"
+de_CH,"შვეიცარიული ზემოგერმანული"
+fr_CH,"შვეიცარიული ფრანგული"
+shi,შილჰა
+sn,შონა
+gd,"შოტლანდიური გელური"
+sux,შუმერული
+shu,"ჩადური არაბული"
+chr,ჩეროკი
+ce,ჩეჩნური
+cs,ჩეხური
+chb,ჩიბჩა
+cgg,ჩიგა
+zh,ჩინური
+nd,"ჩრდილოეთ ნდებელე"
+se,"ჩრდილოეთ საამური"
+frr,ჩრდილოფრიზიული
+cv,ჩუვაშური
+tzm,"ცენტრალური მოროკოს ტამაზიგხტი"
+egy,ძველეგვიპტური
+grc,"ძველი ბერძნული"
+goh,"ძველი ზემოგერმანული"
+ang,"ძველი ინგლისური"
+sga,"ძველი ირლანდიური"
+pro,"ძველი პროვანსული"
+peo,"ძველი სპარსული"
+fro,"ძველი ფრანგული"
+non,ძველსკანდინავიური
+dz,ძონგკხა
+hit,"ხეთური ენა"
+hr,ხორვატული
+haw,ჰავაიური
+ht,ჰაიტიური
+ha,ჰაუსა
+hi,ჰინდი

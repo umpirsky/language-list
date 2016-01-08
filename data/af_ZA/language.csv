@@ -1,0 +1,609 @@
+id,value
+ab,Abkasies
+ace,Achinese
+ada,Adangme
+ady,Adyghe
+aa,Afar
+afh,Afrihili
+af,Afrikaans
+agq,Aghem
+ain,Ainu
+ak,Akan
+akk,Akkadian
+ach,Akoli
+bss,Akoose
+akz,Alabama
+sq,Albanees
+ale,Aleut
+arq,"Algerian Arabic"
+en_US,"American English"
+ase,"American Sign Language"
+am,Amharies
+anp,Angika
+egy,"Antieke Egipties"
+grc,"Antieke Grieks"
+njo,"Ao Naga"
+ar,Arabies
+an,Aragonese
+arc,Aramees
+aro,Araona
+arp,Arapaho
+arw,Arawak
+hy,Armeens
+rup,Aromanian
+frp,Arpitan
+as,Assamees
+ast,Asturian
+asa,Asu
+cch,Atsam
+en_AU,"Australian English"
+de_AT,"Austrian German"
+av,Avaric
+ae,Avestan
+awa,Awadhi
+ay,Aymara
+az,Azerbeidjans
+bfq,Badaga
+ksf,Bafia
+bfd,Bafut
+bqi,Bakhtiari
+ban,Balinese
+bal,Baluchi
+bm,Bambara
+bax,Bamun
+bjn,Banjar
+bas,Basaa
+eu,Baskies
+ba,Baskir
+bbc,"Batak Toba"
+bar,Bavarian
+bej,Beja
+bem,Bemba
+bez,Bena
+bn,Bengaals
+bew,Betawi
+bho,Bhojpuri
+bik,Bikol
+bin,Bini
+my,Birmaans
+bpy,Bishnupriya
+bi,Bislama
+byn,Blin
+zbl,Blissymbols
+brx,Bodo
+bs,Bosnies
+brh,Brahui
+bra,Braj
+pt_BR,"Brazilian Portuguese"
+br,Bretons
+en_GB,"British English"
+bug,Buginese
+bg,Bulgaars
+bum,Bulu
+bua,Buriat
+cad,Caddo
+frc,"Cajun French"
+en_CA,"Canadian English"
+fr_CA,"Canadian French"
+yue,Cantonese
+cps,Capiznon
+car,Carib
+cay,Cayuga
+ceb,Cebuano
+dtp,"Central Dusun"
+esu,"Central Yupik"
+shu,"Chadian Arabic"
+chg,Chagatai
+ch,Chamorro
+ce,Chechen
+chr,Cherokees
+chy,Cheyenne
+chb,Chibcha
+qug,"Chimborazo Highland Quichua"
+chn,"Chinook Jargon"
+chp,Chipewyan
+cho,Choctaw
+cu,"Church Slavic"
+chk,Chuukese
+cv,Chuvash
+nwc,"Classical Newari"
+syc,"Classical Syriac"
+ksh,Colognian
+swb,Comorian
+cop,Coptic
+cr,Cree
+mus,Creek
+crh,"Crimean Turkish"
+dak,Dakota
+dar,Dargwa
+dzg,Dazaga
+da,Deens
+del,Delaware
+din,Dinka
+dv,Divehi
+doi,Dogri
+dgr,Dogrib
+dua,Duala
+de,Duits
+dyu,Dyula
+dz,Dzongkha
+frs,"Eastern Frisian"
+efi,Efik
+arz,"Egyptian Arabic"
+eka,Ekajuk
+elx,Elamite
+ebu,Embu
+egl,Emilian
+en,Engels
+myv,Erzya
+eo,Esperanto
+et,Estnies
+pt_PT,"European Portuguese"
+es_ES,"European Spanish"
+ee,Ewe
+ewo,Ewondo
+ext,Extremaduran
+fan,Fang
+fat,Fanti
+fo,Faroees
+fj,Fidjiaans
+hif,"Fiji Hindi"
+fil,Filippyns
+fi,Fins
+fon,Fon
+gur,Frafra
+fr,Frans
+fur,Friulian
+ff,Fulah
+gaa,Gaa
+gag,Gagauz
+gl,Galisies
+gan,"Gan Chinese"
+lg,Ganda
+gay,Gayo
+gba,Gbaya
+zxx,"Geen linguistiese inhoud"
+gez,Geez
+ka,Georgies
+aln,"Gheg Albanian"
+bbj,Ghomala
+glk,Gilaki
+gil,Gilbertese
+gom,"Goan Konkani"
+gu,Goedjarati
+gon,Gondi
+gor,Gorontalo
+got,Goties
+grb,Grebo
+el,Grieks
+gn,Guarani
+guz,Gusii
+gwi,Gwichʼin
+hai,Haida
+ht,Haïtiaans
+hak,"Hakka Chinese"
+ha,Hausa
+haw,Hawaiies
+he,Hebreeus
+hz,Herero
+hil,Hiligaynon
+hi,Hindi
+ho,"Hiri Motu"
+hit,Hittite
+hmn,Hmong
+hu,Hongaars
+hsb,Hoog-Sorbies
+hup,Hupa
+iba,Iban
+ibb,Ibibio
+io,Ido
+ga,Iers
+ig,Igbo
+ilo,Iloko
+smn,"Inari Sami"
+id,Indonesies
+izh,Ingrian
+inh,Ingush
+iu,Innuïties
+ia,Interlingua
+ie,Interlingue
+ik,Inupiaq
+it,Italiaans
+jam,"Jamaican Creole English"
+ja,Japannees
+jv,Javaans
+yi,Jiddisj
+kaj,Jju
+dyo,Jola-Fonyi
+jrb,Judeo-Arabic
+jpr,Judeo-Persian
+jut,Jutish
+quc,K’iche’
+kbd,Kabardian
+kea,Kabuverdianu
+kab,Kabyle
+kac,Kachin
+kgp,Kaingang
+kkj,Kako
+kl,Kalaallisut
+kln,Kalenjin
+xal,Kalmyk
+kam,Kamba
+kbl,Kanembu
+kn,Kannada
+kr,Kanuri
+kaa,Kara-Kalpak
+krc,Karachay-Balkar
+krl,Karelian
+csb,Kashubian
+ks,Kasjmirs
+ca,Katalaans
+kaw,Kawi
+kk,Kazaks
+ken,Kenyang
+kha,Khasi
+km,Khmer
+kho,Khotanese
+khw,Khowar
+ki,Kikuyu
+kmb,Kimbundu
+krj,Kinaray-a
+ky,Kirgisies
+kiu,Kirmanjki
+tlh,Klingon
+ku,Koerdies
+bkm,Kom
+kv,Komi
+koi,Komi-Permyaks
+kg,Kongolees
+kok,Konkani
+ko,Koreaans
+kw,Kornies
+kfo,Koro
+co,Korsikaans
+kos,Kosraean
+avk,Kotava
+khq,"Koyra Chiini"
+ses,"Koyraboro Senni"
+kpe,Kpelle
+kri,Krio
+hr,Kroaties
+kj,Kuanyama
+kum,Kumyk
+kru,Kurukh
+kut,Kutenai
+nmg,Kwasio
+lad,Ladino
+dsb,"Lae Sorbies"
+lah,Lahnda
+lkt,Lakota
+lam,Lamba
+lag,Langi
+lo,Lao
+ltg,Latgalian
+es_419,"Latin American Spanish"
+la,Latyn
+lzz,Laz
+lv,Letties
+lez,Lezghian
+lij,Ligurian
+li,Limburgish
+ln,Lingaals
+lfn,"Lingua Franca Nova"
+lt,Litaus
+lzh,"Literary Chinese"
+liv,Livonian
+jbo,Lojban
+lmo,Lombard
+nds,"Low German"
+sli,"Lower Silesian"
+loz,Lozi
+lu,Luba-Katanga
+lua,Luba-Lulua
+lui,Luiseno
+smj,"Lule Sami"
+lun,Lunda
+luo,Luo
+lb,Luxemburgs
+luy,Luyia
+mde,Maba
+jmc,Machame
+mad,Madurese
+maf,Mafa
+mag,Magahi
+vmf,Main-Franconian
+mai,Maithili
+mak,Makasar
+mgh,Makhuwa-Meetto
+kde,Makonde
+ml,Malabaars
+ms,Maleis
+mg,Malgassies
+mt,Maltees
+mnc,Manchu
+mdr,Mandar
+man,Mandingo
+mni,Manipuri
+gv,Manx
+mi,Maori
+arn,Mapuche
+mr,Marathi
+chm,Mari
+mh,Marshallese
+mwr,Marwari
+mas,Masai
+mk,Masedonies
+mzn,Mazanderani
+byv,Medumba
+men,Mende
+mwv,Mentawai
+mer,Meru
+mgo,Meta’
+es_MX,"Mexican Spanish"
+mic,Micmac
+dum,"Middle Dutch"
+enm,"Middle English"
+frm,"Middle French"
+gmh,"Middle High German"
+mga,"Middle Irish"
+nan,"Min Nan Chinese"
+min,Minangkabau
+xmf,Mingrelian
+mwl,Mirandese
+lus,Mizo
+ar_001,"Moderne Standaard Arabies"
+moh,Mohawk
+mdf,Moksha
+ro_MD,Moldawies
+lol,Mongo
+mn,Mongools
+mfe,Morisjen
+ary,"Moroccan Arabic"
+mos,Mossi
+mua,Mundang
+ttt,"Muslim Tat"
+mye,Myene
+nqo,N’Ko
+naq,Nama
+na,Nauru
+nv,Navajo
+ng,Ndonga
+nap,Neapolitan
+nl,Nederlands
+ne,Nepalees
+new,Newari
+sba,Ngambay
+nnh,Ngiemboon
+jgo,Ngomba
+yrl,Nheengatu
+nia,Nias
+niu,Niuean
+nog,Nogai
+nd,Noord-Ndebele
+nso,Noord-Sotho
+se,"Noordelike Sami"
+nb,"Noorse Bokmål"
+nn,"Noorweegse Nynorsk"
+frr,"Northern Frisian"
+no,Norwegian
+nov,Novial
+nus,Nuer
+nym,Nyamwezi
+ny,Nyanja
+nyn,Nyankole
+tog,"Nyasa Tonga"
+nyo,Nyoro
+nzi,Nzima
+uk,Oekraïens
+ur,Oerdoe
+uz,Oezbeeks
+oj,Ojibwa
+oc,Oksitaans
+ang,"Old English"
+fro,"Old French"
+goh,"Old High German"
+sga,"Old Irish"
+non,"Old Norse"
+peo,"Old Persian"
+pro,"Old Provençal"
+und,"Onbekende of ongeldige taal"
+or,Oriya
+om,Oromo
+osa,Osage
+os,Osseties
+ota,"Ottoman Turkish"
+pal,Pahlavi
+pfl,"Palatine German"
+pau,Palauan
+pi,Pali
+pam,Pampanga
+pa,Pandjabi
+pag,Pangasinan
+pap,Papiamento
+ps,Pasjto
+pdc,"Pennsylvania German"
+fa,Persies
+phn,Phoenician
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pon,Pohnpeian
+pnt,Pontic
+pl,Pools
+pt,Portugees
+prg,Prussian
+qu,Quechua
+raj,Rajasthani
+rap,Rapanui
+rar,Rarotongan
+rm,Reto-Romaans
+rif,Riffian
+ro,Roemeens
+rgn,Romagnol
+rom,Romany
+rof,Rombo
+root,Root
+rtm,Rotuman
+rug,Roviana
+rn,Rundi
+ru,Russies
+rue,Rusyn
+rwk,Rwa
+rw,Rwandees
+ssy,Saho
+sah,Sakha
+sam,"Samaritan Aramaic"
+saq,Samburu
+sm,Samoaans
+sgs,Samogitian
+sad,Sandawe
+sg,Sango
+sbp,Sangu
+sa,Sanskrit
+sat,Santali
+sc,Sardinian
+sas,Sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sco,Scots
+sly,Selayar
+sel,Selkup
+seh,Sena
+see,Seneca
+tzm,"Sentraal Atlas Tamazight"
+sh,Serbo-Croatian
+srr,Serer
+sei,Seri
+sr,Serwies
+ksb,Shambala
+shn,Shan
+sn,Shona
+ii,"Sichuan Yi"
+scn,Sicilian
+sid,Sidamo
+bla,Siksika
+szl,Silesian
+zh_Hans,"Simplified Chinese"
+sd,Sindhi
+si,Sinhala
+cgg,Sjiga
+zh,Sjinees
+sms,"Skolt Sami"
+gd,"Skotse Gallies"
+den,Slave
+sk,Slowaaks
+sl,Sloweens
+xog,Soga
+sog,Sogdien
+so,Somalies
+snk,Soninke
+ckb,"Sorani Koerdies"
+azb,"South Azerbaijani"
+alt,"Southern Altai"
+es,Spaans
+srn,"Sranan Tongo"
+zgh,"Standaard Marokkaanse Tamazight"
+nr,Suid-Ndebele
+sma,Suid-Sami
+st,Suid-Sotho
+suk,Sukuma
+sux,Sumerian
+su,Sundanees
+sus,Susu
+sw,Swahili
+swc,"Swahili (Kongo)"
+ss,Swazi
+sv,Sweeds
+fr_CH,"Swiss French"
+gsw,"Switserse Duits"
+de_CH,"Switserse hoog-Duits"
+syr,Syriac
+shi,Tachelhit
+tg,Tadzjieks
+tl,Tagalog
+ty,Tahities
+dav,Taita
+tly,Talysh
+tmh,Tamashek
+ta,Tamil
+trv,Taroko
+twq,Tasawaq
+tt,Tataars
+te,Telugu
+ter,Tereno
+teo,Teso
+tet,Tetum
+th,Thai
+bo,Tibettaans
+tig,Tigre
+ti,Tigrinya
+tem,Timne
+tiv,Tiv
+tli,Tlingit
+tum,Toemboeka
+tpi,"Tok Pisin"
+tkl,Tokelau
+to,Tongaans
+fit,"Tornedalen Finnish"
+zh_Hant,"Traditional Chinese"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,Tsimshian
+cs,Tsjeggies
+ts,Tsonga
+tn,Tswana
+tcy,Tulu
+aeb,"Tunisian Arabic"
+tk,Turkmeens
+tr,Turks
+tru,Turoyo
+tvl,Tuvalu
+tyv,Tuvinian
+tw,Twi
+kcg,Tyap
+udm,Udmurt
+uga,Ugaritic
+ug,Uighur
+umb,Umbundu
+vai,Vai
+mul,"Veelvuldige tale"
+ve,Venda
+vec,Venetian
+vep,Veps
+vi,Viëtnamees
+nl_BE,Vlaams
+vo,Volapük
+vro,Võro
+vot,Votic
+vun,Vunjo
+cy,Wallies
+wa,Walloon
+wae,Walser
+war,Waray
+was,Washo
+guc,Wayuu
+fy,Wes-Fries
+vls,"West Flemish"
+mrj,"Western Mari"
+be,Wit-Russies
+wal,Wolaytta
+wo,Wolof
+wuu,"Wu Chinese"
+xh,Xhosa
+hsn,"Xiang Chinese"
+yav,Yangben
+yao,Yao
+yap,Yapese
+ybb,Yemba
+yo,Yoruba
+is,Yslands
+zap,Zapotec
+dje,Zarma
+zza,Zaza
+zea,Zeelandic
+zen,Zenaga
+za,Zhuang
+zu,Zoeloe
+gbz,"Zoroastrian Dari"
+zun,Zuni

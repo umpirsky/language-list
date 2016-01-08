@@ -1,0 +1,609 @@
+id,value
+ab,abhazijski
+ace,ačineski
+ada,adangmejski
+ady,adigejski
+aa,afarski
+afh,afrihili
+af,afrikanerski
+agq,aghem
+ain,ainu
+ay,ajmara
+akk,akadijski
+ak,akan
+ach,akoli
+bss,Akoose
+akz,Alabama
+sq,albanski
+arq,"Algerian Arabic"
+ale,aljut
+ase,"American Sign Language"
+en_US,"američki engleski"
+am,amharski
+anp,angika
+njo,"Ao Naga"
+an,aragonežanski
+aro,Araona
+arp,arapaho
+ar,arapski
+arn,araukanski
+arw,aravak
+arc,armajski
+rup,aromanijski
+frp,Arpitan
+as,asemijski
+ast,asturijski
+asa,asu
+cch,atsam
+en_AU,"australski engleski"
+de_AT,"austrijski njemački"
+awa,avadhi
+av,avarski
+ae,avestanski
+az,azerbejdžanski
+bfq,Badaga
+ksf,bafia
+bfd,Bafut
+bqi,Bakhtiari
+ban,balinezijski
+bal,baluči
+bm,bambara
+bax,Bamun
+bjn,Banjar
+bas,basa
+eu,baskijski
+ba,baškirski
+bbc,"Batak Toba"
+bar,Bavarian
+bej,beja
+bem,bemba
+bez,bena
+bn,bengalski
+bew,Betawi
+zxx,"bez lingvističkog sadržaja"
+bik,bikol
+bin,bini
+bpy,Bishnupriya
+bi,bislama
+be,bjeloruski
+byn,blin
+zbl,blisimboli
+brx,bodo
+bho,bojpuri
+bs,bosanski
+brh,Brahui
+bra,braj
+pt_BR,"Brazilian Portuguese"
+br,bretonski
+en_GB,"britanski engleski"
+bg,bugarski
+bug,buginežanskii
+bum,Bulu
+bua,buriat
+my,burmanski
+frc,"Cajun French"
+yue,Cantonese
+cps,Capiznon
+cay,Cayuga
+ceb,cebuano
+dtp,"Central Dusun"
+esu,"Central Yupik"
+shu,"Chadian Arabic"
+qug,"Chimborazo Highland Quichua"
+ksh,Colognian
+swb,Comorian
+cy,cy
+chg,čagatai
+ch,čamoro
+ce,čečenski
+chy,čejenski
+cs,češki
+chb,čibča
+cgg,čiga
+chn,činukski
+chp,čipvijanski
+chr,čiroki
+cho,čoktavski
+chk,čukeski
+cv,čuvaški
+dak,dakota
+da,danski
+dar,dargva
+dzg,Dazaga
+del,delaver
+din,dinka
+dv,divehijski
+doi,dogri
+dgr,dogrib
+dsb,donjolužičkosrpski
+dua,duala
+gez,džiz
+dz,džonga
+dyu,đula
+efi,efikski
+arz,"Egyptian Arabic"
+eka,ekajuk
+elx,elamitski
+ebu,embu
+egl,Emilian
+en,engleski
+myv,erzija
+eo,esperanto
+et,estonski
+pt_PT,"European Portuguese"
+ee,eve
+ewo,evondo
+es_ES,"evropski španski"
+ext,Extremaduran
+fan,fang
+fat,fanti
+fo,farski
+phn,feničanski
+fj,fidžijski
+hif,"Fiji Hindi"
+fil,filipinski
+fi,finski
+nl_BE,flamanski
+fon,fon
+gur,Frafra
+fr,francuski
+fur,friulijski
+fy,frizijski
+ff,fulah
+gaa,ga
+gag,gagauški
+gay,gajo
+gl,galski
+gan,"Gan Chinese"
+lg,ganda
+gba,gbaja
+aln,"Gheg Albanian"
+bbj,Ghomala
+glk,Gilaki
+gil,gilbertški
+gom,"Goan Konkani"
+gon,gondi
+hsb,gornjolužičkosrpski
+de_CH,"gornjonjemački (švicarski)"
+gor,gorontalo
+got,gotski
+el,grčki
+grb,grebo
+ka,gruzijski
+gu,gudžarati
+guz,gusii
+gn,gvarani
+gwi,Gwichʼin
+ht,haićanski
+hai,haida
+hak,"Hakka Chinese"
+ha,hausa
+haw,havajski
+he,hebrejski
+hz,herero
+hil,hiligajnon
+hi,hindi
+ho,"hiri motu"
+hit,hitite
+hmn,hmong
+nl,holandski
+hr,hrvatski
+hup,hupa
+iba,iban
+ibb,Ibibio
+io,ido
+ig,igbo
+ilo,iloko
+smn,"inari sami"
+id,indonezijski
+izh,Ingrian
+inh,ingušetski
+ia,interlingva
+ie,interlingve
+iu,inuktitut
+ik,inupiak
+ga,irski
+is,islandski
+frs,"istočni frizijski"
+it,italijanski
+sah,jakut
+jam,"Jamaican Creole English"
+yao,jao
+ja,japanski
+yap,japeški
+jv,javanski
+hy,jermenski
+yi,jidiš
+dyo,jola-fonyi
+yo,jorubanski
+jrb,judeo-arapski
+jpr,judeo-persijski
+jut,Jutish
+alt,"južni altai"
+nr,"južni ndebele"
+sma,"južni sami"
+kbd,kabardijski
+kab,kabile
+kac,kačin
+cad,kado
+kgp,Kaingang
+kkj,Kako
+kl,kalalisutski
+kln,kalenjin
+xal,kalmik
+kam,kamba
+kn,kanada
+en_CA,"kanadski engleski"
+fr_CA,"kanadski francuski"
+kbl,Kanembu
+kr,kanuri
+kaa,kara-kalpaški
+krc,karačaj-balkar
+krl,karelijski
+car,karipski
+kha,kasi
+ks,kašmiri
+csb,kašubijanski
+ca,katalonski
+kaw,kavi
+kk,kazački
+ken,Kenyang
+khw,Khowar
+quc,kiče
+ki,kikuju
+kmb,kimbundu
+krj,Kinaray-a
+zh,kineski
+zh_Hans,"kineski (pojednostavljeni)"
+zh_Hant,"kineski (tradicionalni)"
+rw,kinjarvanda
+ky,kirgiski
+kiu,Kirmanjki
+nwc,"klasični nevari"
+syc,"klasični sirijski"
+tlh,klingonski
+km,kmerski
+ses,"kojraboro seni"
+bkm,Kom
+kv,komi
+koi,komi-permjački
+kg,kongo
+swc,"kongoanski swahili"
+kok,konkani
+cop,koptski
+ko,korejski
+kw,korniški
+kfo,koro
+co,korzikanski
+xh,kosa
+kos,kosreanski
+kho,kotanizijski
+avk,Kotava
+khq,"koyra chiini"
+kpe,kpele
+cr,kri
+crh,"krimeanski turski"
+kri,Krio
+mus,kriški
+kj,kuanjama
+kum,kumik
+ku,kurdski
+kru,kurukh
+kut,kutenai
+qu,kvenča
+nmg,kwasio
+lad,ladino
+lkt,lakota
+lam,lamba
+lah,landa
+lag,langi
+lo,laoški
+ltg,Latgalian
+es_419,"latinoamerički španski"
+la,latinski
+lzz,Laz
+lv,letonski
+lez,lezgian
+lij,Ligurian
+li,limburgiš
+ln,lingala
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+lt,litvanski
+liv,Livonian
+jbo,lojban
+lmo,Lombard
+sli,"Lower Silesian"
+loz,lozi
+lu,luba-katanga
+lua,luba-lulua
+lui,luiseno
+lb,luksemburški
+smj,"lule sami"
+lun,lunda
+luo,luo
+lus,lušai
+luy,luyia
+mde,Maba
+jmc,machame
+mad,madureški
+hu,mađarski
+maf,Mafa
+mag,magahi
+moh,mahavski
+vmf,Main-Franconian
+mai,maitili
+mak,makasar
+mk,makedonski
+mgh,makhuwa-meetto
+kde,makonde
+mg,malagazijski
+ml,malajalam
+ms,malajski
+mt,malteški
+mnc,manču
+mdr,mandar
+man,mandingo
+mni,manipuri
+gv,manks
+mi,maorski
+mr,marati
+chm,mari
+tzm,"marokanski tamazigt"
+mh,maršalski
+mwr,marvari
+mas,masai
+mfe,"mauricijski kreolski"
+mzn,Mazanderani
+byv,Medumba
+es_MX,"meksički španski"
+men,mende
+mwv,Mentawai
+mer,meru
+mgo,meta’
+mic,mikmak
+nan,"Min Nan Chinese"
+min,minangkabau
+xmf,Mingrelian
+mwl,mirandeški
+ar_001,"moderni standardni arapski"
+mdf,mokša
+ro_MD,moldavski
+lol,mongo
+mn,mongolski
+ary,"Moroccan Arabic"
+mos,mosi
+mua,mundang
+ttt,"Muslim Tat"
+mye,Myene
+naq,nama
+na,nauru
+nv,navaho
+ng,ndonga
+nap,neapolitanski
+ne,nepalski
+und,"nepoznati ili nevažeći jezik"
+new,nevari
+sba,Ngambay
+nnh,Ngiemboon
+jgo,ngomba
+yrl,Nheengatu
+nia,nias
+nds,"niski nemački"
+niu,niuean
+nqo,nko
+nog,nogai
+no,norveški
+nb,"norveški bokmal"
+nn,"norveški njorsk"
+nov,Novial
+nus,nuer
+nzi,nzima
+nym,njamvezi
+nyn,njankole
+ny,njanja
+tog,"njasa tonga"
+de,njemački
+nyo,njoro
+oj,ojibva
+or,orijski
+om,oromo
+osa,osage
+os,osetski
+ota,"otomanski turski"
+pal,pahlavi
+pfl,"Palatine German"
+pau,palauanski
+pi,pali
+pam,pampanga
+pa,pandžabski
+pag,pangasinski
+pap,papiamento
+ps,paštunski
+pdc,"Pennsylvania German"
+fa,perzijski
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pl,poljski
+pon,ponpejski
+pnt,Pontic
+pt,portugalski
+oc,provansalski
+prg,Prussian
+raj,rađastani
+rap,rapanui
+rar,rarotongan
+rm,reto-romanski
+rif,Riffian
+rgn,Romagnol
+rom,romani
+rof,rombo
+rtm,Rotuman
+rug,Roviana
+rwk,rua
+ro,rumunski
+root,run
+rn,rundi
+ru,ruski
+rue,Rusyn
+ssy,Saho
+sam,"samaritanski aramejski"
+saq,samburu
+sm,samoanski
+sgs,Samogitian
+sad,sandave
+sg,sango
+sbp,sangu
+sa,sanskrit
+sat,santali
+sc,sardinijski
+sas,sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sly,Selayar
+sel,selkap
+seh,sena
+see,Seneca
+srr,serer
+sei,Seri
+st,sesoto
+nso,"severni soto"
+frr,severno-frizijski
+ksb,shambala
+scn,sicilijanski
+ii,"sičuan ji"
+sid,sidamo
+bla,siksika
+szl,Silesian
+sd,sindi
+si,singaleski
+syr,sirijski
+nd,"sjeverni ndebele"
+se,"sjeverni sami"
+sms,"skoltski jezik"
+den,slavski
+sk,slovački
+sl,slovenački
+sog,sodžijenski
+xog,soga
+so,somalski
+snk,soninke
+ckb,"soranski kurdski"
+azb,"South Azerbaijani"
+srn,"srananski tongo"
+enm,"srednji engleski"
+frm,"srednji francuski"
+dum,"srednji holandski"
+mga,"srednji irski"
+gmh,"srednji visoki nemački"
+sr,srpski
+sh,srpskohrvatski
+zgh,"standardni marokanski tamazigt"
+non,"stari norski"
+egy,staroegipatski
+ang,staroengleski
+fro,starofrancuski
+grc,starogrčki
+sga,staroirski
+goh,staronemački
+peo,staropersijski
+pro,staroprovansalski
+cu,staroslovenski
+su,sudanski
+suk,sukuma
+sux,sumerski
+sus,susu
+sw,svahili
+ss,svati
+shn,šan
+sco,škotski
+gd,"škotski galski"
+sn,šona
+es,španski
+fr_CH,"švajcarski francuski"
+gsw,"švajcarski njemački"
+sv,švedski
+tg,tadžički
+tl,tagalski
+shi,tahelhit
+ty,tahićanski
+dav,taita
+th,tajlandski
+tly,Talysh
+tmh,tamašek
+ta,tamilski
+trv,Taroko
+twq,tasavak
+tt,tatarski
+te,telugu
+ter,tereno
+teo,teso
+tet,tetum
+bo,tibetanski
+tig,tigre
+ti,tigrinja
+tem,timne
+tiv,tiv
+kcg,tjap
+tli,tlingit
+tpi,"tok pisin"
+tkl,tokelau
+to,tonga
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,tsimšian
+ts,tsonga
+tn,tsvana
+tcy,Tulu
+tum,tumbuka
+aeb,"Tunisian Arabic"
+tk,turkmenski
+tru,Turoyo
+tr,turski
+tvl,tuvalu
+tyv,tuvinijski
+tw,tvi
+udm,udmurt
+uga,ugaritski
+ug,ujgurski
+uk,ukrajinski
+umb,umbundu
+ur,urdu
+uz,uzbečki
+vai,vai
+wal,valamo
+wa,valun
+war,varej
+was,vašo
+ve,venda
+vec,Venetian
+vep,Veps
+vi,vijetnamski
+mul,"više jezika"
+vo,volapük
+wo,volof
+vro,Võro
+vot,votski
+vun,vunjo
+wae,Walser
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+yav,Yangben
+ybb,Yemba
+zap,zapotečki
+dje,zarma
+zza,zaza
+zea,Zeelandic
+kea,zelenortski
+zen,zenaga
+gbz,"Zoroastrian Dari"
+za,zuang
+zu,zulu
+zun,zuni
+kaj,žju

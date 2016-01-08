@@ -1,0 +1,609 @@
+id,value
+ace,Achinese
+ada,Adangme
+ady,Adyghe
+aa,Afar
+afh,Afrihili
+ain,Ainu
+akk,Akkadian
+bss,Akoose
+zxx,"Akukho okuqukethwe kolimi"
+akz,Alabama
+ale,Aleut
+arq,"Algerian Arabic"
+ase,"American Sign Language"
+egy,"Ancient Egyptian"
+grc,"Ancient Greek"
+anp,Angika
+njo,"Ao Naga"
+an,Aragonese
+arc,Aramaic
+aro,Araona
+arp,Arapaho
+arw,Arawak
+rup,Aromanian
+frp,Arpitan
+asa,asa
+ast,Asturian
+cch,Atsam
+av,Avaric
+ae,Avestan
+awa,Awadhi
+bfq,Badaga
+bfd,Bafut
+bqi,Bakhtiari
+ban,Balinese
+bal,Baluchi
+bax,Bamun
+bjn,Banjar
+bas,Basaa
+bbc,"Batak Toba"
+bar,Bavarian
+bej,Beja
+bew,Betawi
+bho,Bhojpuri
+bik,Bikol
+bin,Bini
+bpy,Bishnupriya
+bi,Bislama
+byn,Blin
+zbl,Blissymbols
+brh,Brahui
+bra,Braj
+bug,Buginese
+bum,Bulu
+bua,Buriat
+cad,Caddo
+frc,"Cajun French"
+yue,Cantonese
+cps,Capiznon
+car,Carib
+cay,Cayuga
+ceb,Cebuano
+dtp,"Central Dusun"
+esu,"Central Yupik"
+shu,"Chadian Arabic"
+chg,Chagatai
+ch,Chamorro
+ce,Chechen
+chy,Cheyenne
+chb,Chibcha
+qug,"Chimborazo Highland Quichua"
+chn,"Chinook Jargon"
+chp,Chipewyan
+cho,Choctaw
+cu,"Church Slavic"
+chk,Chuukese
+cv,Chuvash
+nwc,"Classical Newari"
+syc,"Classical Syriac"
+ksh,Colognian
+swb,Comorian
+cop,Coptic
+cr,Cree
+mus,Creek
+crh,"Crimean Turkish"
+dak,Dakota
+dar,Dargwa
+dzg,Dazaga
+del,Delaware
+din,Dinka
+doi,Dogri
+dgr,Dogrib
+dyu,Dyula
+frs,"Eastern Frisian"
+arz,"Egyptian Arabic"
+eka,Ekajuk
+elx,Elamite
+egl,Emilian
+myv,Erzya
+es_ES,"European Spanish"
+ewo,Ewondo
+ext,Extremaduran
+fan,Fang
+fat,Fanti
+hif,"Fiji Hindi"
+fon,Fon
+gur,Frafra
+fur,Friulian
+ff,Fulah
+gan,"Gan Chinese"
+gay,Gayo
+gba,Gbaya
+gez,Geez
+aln,"Gheg Albanian"
+bbj,Ghomala
+glk,Gilaki
+gil,Gilbertese
+gom,"Goan Konkani"
+gon,Gondi
+gor,Gorontalo
+got,Gothic
+grb,Grebo
+gwi,Gwichʼin
+hai,Haida
+hak,"Hakka Chinese"
+hz,Herero
+hil,Hiligaynon
+ho,"Hiri Motu"
+hit,Hittite
+hmn,Hmong
+hup,Hupa
+en_US,"i-American English"
+en_GB,"i-British English"
+en_CA,"i-Canadian English"
+en,i-English
+lo,i-Lao
+nn,"i-Norwegian Nynorsk"
+gd,"i-Scottish Gaelic"
+si,i-Sinhala
+iba,Iban
+ibb,Ibibio
+io,Ido
+ilo,Iloko
+izh,Ingrian
+inh,Ingush
+ie,Interlingue
+ik,Inupiaq
+ab,isi-Abkhazian
+ach,Isi-Acoli
+af,isi-Afrikaans
+agq,isi-Aghem
+ak,isi-Akan
+sq,isi-Albania
+am,isi-Amharic
+ar,isi-Arabic
+ar_001,"Isi-Arabic Esijwayelekile Samanje"
+hy,isi-Armenia
+as,isi-Assamese
+de_AT,"isi-Austrian German"
+en_AU,"isi-Austrillian English"
+ay,isi-Aymara
+az,isi-Azerbaijani
+ksf,isi-Bafia
+bm,isi-Bambara
+ba,isi-Bashkir
+eu,isi-Basque
+be,isi-Belarusian
+bem,Isi-Bemba
+bez,isi-Bena
+bn,isi-Bengali
+brx,isi-Bodo
+bs,isi-Bosnian
+pt_BR,"isi-Brazillian Portuguese"
+br,Isi-Breton
+bg,isi-Bulgari
+my,isi-Burmese
+fr_CA,"isi-Canadian French"
+ca,isi-Catalan
+tzm,"isi-Central Atlas Tamazight"
+chr,Isi-Cherokee
+cgg,isi-Chiga
+zh,isi-Chinese
+swc,"isi-Congo Swahili"
+kw,isi-Cornish
+co,isi-Corsican
+hr,isi-Croatian
+cs,isi-Czech
+da,isi-Danish
+dv,isi-Divehi
+dua,isi-Duala
+nl,isi-Dutch
+dz,isi-Dzongkha
+efi,isi-Efik
+ebu,isi-Embu
+eo,isi-Esperanto
+et,isi-Estonia
+pt_PT,"isi-European Portuguese"
+ee,Isi-Ewe
+fo,isi-Faroese
+fj,isi-Fijian
+fil,isi-Filipino
+fi,isi-Finnish
+nl_BE,isi-Flemish
+fr,isi-French
+gaa,Isi-Ga
+gag,isi-Gagauz
+gl,isi-Galicia
+lg,Isi-Ganda
+ka,isi-Georgian
+de,isi-German
+el,isi-Greek
+gn,isi-Guarani
+gu,isi-Gujarati
+guz,isi-Gusli
+ht,isi-Haitian
+ha,isi-Hausa
+haw,isi-Hawaiian
+he,isi-Hebrew
+hi,isi-Hindi
+hu,isi-Hungarian
+is,isi-Icelandic
+ig,isi-Igbo
+smn,"isi-Inari Sami"
+id,isi-Indonesian
+iu,isi-Inuktitut
+ga,isi-Irish
+it,isi-Italian
+ja,isi-Japanese
+jv,isi-Javanese
+dyo,isi-Jola-Fonyl
+kea,isi-Kabuverdianu
+kab,isi-Kabyle
+kl,isi-Kalaallisut
+kln,isi-Kalenjin
+kam,isi-Kamba
+kn,isi-Kannada
+ks,isi-Kashmiri
+kk,isi-Kazakh
+km,isi-Khmer
+ki,isi-Kikuyu
+rw,isi-Kinyarwanda
+tlh,Isi-Klingon
+koi,isi-Komi-Permyak
+kg,Isi-Kongo
+kok,isi-Konkani
+ko,isi-Korean
+khq,"isi-Koyra Chiini"
+ses,"isi-Koyraboro Senni"
+ku,isi-Kurdish
+nmg,isi-Kwasio
+ky,isi-Kyrgyz
+quc,isi-Kʼicheʼ
+lkt,isi-Lakota
+lag,isi-Langi
+la,isi-Latin
+es_419,"isi-Latin American Spanish"
+lv,isi-Latvian
+ln,isi-Lingala
+lt,isi-Lithuanian
+dsb,"isi-Lower Sorbian"
+loz,Isi-Lozi
+lu,isi-Luba-Katanga
+lua,Isi-Luba-Lulua
+smj,"isi-Lule Sami"
+luo,isi-Luo
+lb,isi-Luxembourgish
+luy,isi-Luyia
+mk,isi-Macedonian
+jmc,isi-Machame
+mgh,isi-Makhuwa-Meetto
+kde,isi-Makonde
+mg,isi-Malagasy
+ms,isi-Malay
+ml,isi-Malayalam
+mt,isi-Maltese
+gv,isi-Manx
+mi,isi-Maori
+arn,isi-Mapuche
+mr,isi-Marathi
+mas,isi-Masai
+mer,isi-Meru
+mgo,isi-Meta’
+es_MX,"isi-Mexican Spanish"
+moh,isi-Mohawk
+ro_MD,isi-Moldavian
+mn,isi-Mongolian
+mfe,Isi-Morisyen
+mua,isi-Mundang
+nqo,isi-N’Ko
+naq,isi-Nama
+ne,isi-Nepali
+jgo,isi-Ngomba
+nd,"isi-North Ndebele"
+se,"isi-Northern Sami"
+nso,"isi-Northern Sotho"
+nb,"isi-Norwegian Bokmål"
+nus,isi-Nuer
+ny,isi-Nyanja
+nyn,Isi-Nyankole
+or,isi-Oriya
+om,Isi-Oromo
+oc,Isi-Osithani
+os,isi-Ossetic
+ps,isi-Pashto
+fa,isi-Persian
+pl,isi-Polish
+pt,isi-Portuguese
+pa,isi-Punjabi
+qu,isi-Quechua
+ro,isi-Romanian
+rm,isi-Romansh
+rof,isi-Rombo
+rn,isi-Rundi
+ru,isi-Russian
+rwk,isi-Rwa
+saq,isi-Samburu
+sm,isi-Samoan
+sg,isi-Sango
+sbp,isi-Sangu
+sa,isi-Sanskrit
+seh,isi-Sena
+sr,isi-Serbian
+ksb,isi-Shambala
+sn,isi-Shona
+ii,"isi-Sichuan Yi"
+sd,isi-Sindhi
+zh_Hans,"isi-Sipmlified Chinese"
+sms,"isi-Skolt Sami"
+sk,isi-Slovak
+sl,isi-Slovenian
+xog,isi-Soga
+so,isi-Somali
+ckb,"Isi-Sorani Kurdish"
+sma,"isi-Southern Sami"
+es,isi-Spanish
+zgh,"isi-Standard Moroccan Tamazight"
+su,isi-Sundanese
+sw,isi-Swahili
+sv,isi-Swedish
+fr_CH,"isi-Swiss French"
+gsw,"isi-Swiss German"
+de_CH,"isi-Swiss High German"
+shi,isi-Tachelhit
+ty,isi-Tahitian
+dav,isi-Taita
+tg,isi-Tajik
+ta,isi-Tamil
+twq,isi-Tasawaq
+tt,isi-Tatar
+te,isi-Telugu
+teo,isi-Teso
+tet,isi-Tetum
+th,isi-Thai
+bo,isi-Tibetan
+ti,isi-Tigrinya
+tpi,"isi-Tok Pisin"
+to,Isi-Tongan
+zh_Hant,"isi-Traditional Chinese"
+ts,isi-Tsonga
+tn,isi-Tswana
+tum,Isi-Tumbuka
+tr,isi-Turkish
+tk,isi-Turkmen
+ug,isi-Uighur
+uk,isi-Ukrainian
+hsb,"isi-Upper Sorbian"
+ur,isi-Urdu
+uz,isi-Uzbek
+vai,isi-Vai
+ve,isi-Venda
+vi,isi-Vietnamese
+vun,isi-Vunjo
+cy,isi-Welsh
+fy,"isi-Western Frisian"
+wo,isi-Wolof
+yi,Isi-Yidish
+yo,isi-Yoruba
+dje,isi-Zarma
+st,isiSuthu
+ss,isiSwati
+xh,isiXhosa
+zu,isiZulu
+ia,"Izilimi ezihlangene"
+jam,"Jamaican Creole English"
+kaj,Jju
+jrb,Judeo-Arabic
+jpr,Judeo-Persian
+jut,Jutish
+kbd,Kabardian
+kac,Kachin
+kgp,Kaingang
+kkj,Kako
+xal,Kalmyk
+kbl,Kanembu
+kr,Kanuri
+kaa,Kara-Kalpak
+krc,Karachay-Balkar
+krl,Karelian
+csb,Kashubian
+kaw,Kawi
+ken,Kenyang
+kha,Khasi
+kho,Khotanese
+khw,Khowar
+kmb,Kimbundu
+krj,Kinaray-a
+kiu,Kirmanjki
+bkm,Kom
+kv,Komi
+kfo,Koro
+kos,Kosraean
+avk,Kotava
+kpe,Kpelle
+kri,Krio
+kj,Kuanyama
+kum,Kumyk
+kru,Kurukh
+kut,Kutenai
+lad,Ladino
+lah,Lahnda
+lam,Lamba
+ltg,Latgalian
+lzz,Laz
+lez,Lezghian
+lij,Ligurian
+li,Limburgish
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+liv,Livonian
+jbo,Lojban
+lmo,Lombard
+nds,"Low German"
+sli,"Lower Silesian"
+lui,Luiseno
+lun,Lunda
+mde,Maba
+mad,Madurese
+maf,Mafa
+mag,Magahi
+vmf,Main-Franconian
+mai,Maithili
+mak,Makasar
+mnc,Manchu
+mdr,Mandar
+man,Mandingo
+mni,Manipuri
+chm,Mari
+mh,Marshallese
+mwr,Marwari
+mzn,Mazanderani
+byv,Medumba
+men,Mende
+mwv,Mentawai
+mic,Micmac
+dum,"Middle Dutch"
+enm,"Middle English"
+frm,"Middle French"
+gmh,"Middle High German"
+mga,"Middle Irish"
+nan,"Min Nan Chinese"
+min,Minangkabau
+xmf,Mingrelian
+mwl,Mirandese
+lus,Mizo
+mdf,Moksha
+lol,Mongo
+ary,"Moroccan Arabic"
+mos,Mossi
+mul,"Multiple Languages"
+ttt,"Muslim Tat"
+mye,Myene
+na,Nauru
+nv,Navajo
+ng,Ndonga
+nap,Neapolitan
+new,Newari
+sba,Ngambay
+nnh,Ngiemboon
+yrl,Nheengatu
+nia,Nias
+niu,Niuean
+nog,Nogai
+frr,"Northern Frisian"
+no,Norwegian
+nov,Novial
+nym,Nyamwezi
+tog,"Nyasa Tonga"
+nyo,Nyoro
+nzi,Nzima
+oj,Ojibwa
+ang,"Old English"
+fro,"Old French"
+goh,"Old High German"
+sga,"Old Irish"
+non,"Old Norse"
+peo,"Old Persian"
+pro,"Old Provençal"
+osa,Osage
+ota,"Ottoman Turkish"
+pal,Pahlavi
+pfl,"Palatine German"
+pau,Palauan
+pi,Pali
+pam,Pampanga
+pag,Pangasinan
+pap,Papiamento
+pdc,"Pennsylvania German"
+phn,Phoenician
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pon,Pohnpeian
+pnt,Pontic
+prg,Prussian
+raj,Rajasthani
+rap,Rapanui
+rar,Rarotongan
+rif,Riffian
+rgn,Romagnol
+rom,Romany
+root,Root
+rtm,Rotuman
+rug,Roviana
+rue,Rusyn
+ssy,Saho
+sah,Sakha
+sam,"Samaritan Aramaic"
+sgs,Samogitian
+sad,Sandawe
+sat,Santali
+sc,Sardinian
+sas,Sasak
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sco,Scots
+sly,Selayar
+sel,Selkup
+see,Seneca
+sh,Serbo-Croatian
+srr,Serer
+sei,Seri
+shn,Shan
+scn,Sicilian
+sid,Sidamo
+bla,Siksika
+szl,Silesian
+den,Slave
+sog,Sogdien
+snk,Soninke
+azb,"South Azerbaijani"
+nr,"South Ndebele"
+alt,"Southern Altai"
+srn,"Sranan Tongo"
+suk,Sukuma
+sux,Sumerian
+sus,Susu
+syr,Syriac
+tl,Tagalog
+tly,Talysh
+tmh,Tamashek
+trv,Taroko
+ter,Tereno
+tig,Tigre
+tem,Timne
+tiv,Tiv
+tli,Tlingit
+tkl,Tokelau
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tsi,Tsimshian
+tcy,Tulu
+aeb,"Tunisian Arabic"
+tru,Turoyo
+tvl,Tuvalu
+tyv,Tuvinian
+tw,Twi
+kcg,Tyap
+udm,Udmurt
+uga,Ugaritic
+und,"Ulimi olungaziwa"
+umb,Umbundu
+vec,Venetian
+vep,Veps
+vo,Volapük
+vro,Võro
+vot,Votic
+wa,Walloon
+wae,Walser
+war,Waray
+was,Washo
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wal,Wolaytta
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+yav,Yangben
+yao,Yao
+yap,Yapese
+ybb,Yemba
+zap,Zapotec
+zza,Zaza
+zea,Zeelandic
+zen,Zenaga
+za,Zhuang
+gbz,"Zoroastrian Dari"
+zun,Zuni
