@@ -1,0 +1,29 @@
+#!/usr/bin/env php
+<?php
+
+include __DIR__ . '/../vendor/autoload.php';
+
+class Language extends Umpirsky\ListGenerator\Importer\Importer
+{
+    private $locale;
+
+    public function __construct()
+    {
+        $this->locale = new Symfony\Component\Locale\Locale();
+    }
+
+    public function getLanguages()
+    {
+        return $this->locale->getLocales();
+    }
+
+    public function getData($language)
+    {
+        return Symfony\Component\Intl\Intl::getLanguageBundle()->getLanguageNames($language);
+    }
+}
+
+(new Umpirsky\ListGenerator\Builder\Builder(
+    new Language(),
+    __DIR__.'/../data'
+))->run();
