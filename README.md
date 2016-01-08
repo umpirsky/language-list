@@ -27,3 +27,10 @@ update data source or contribute in any other way, you will probably want to reb
 ```bash
 $ composer install
 $ ./bin/build
+
+Other Interesting Lists
+-----------------------
+
+* [Country List](https://github.com/umpirsky/country-list)
+* [Currency List](https://github.com/umpirsky/currency-list)
+* [Locale List](https://github.com/umpirsky/locale-list)
