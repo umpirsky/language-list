@@ -27,6 +27,7 @@ update data source or contribute in any other way, you will probably want to reb
 ```bash
 $ composer install
 $ ./bin/build
+```
 
 Other Interesting Lists
 -----------------------
