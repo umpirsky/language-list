@@ -1,0 +1,24 @@
+{
+  "name": "languagelist",
+  "version": "1.0.0",
+  "description": "List of all languages with names and ISO 639-1 codes in all languages and all data formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umpirsky/language-list.git"
+  },
+  "keywords": [
+    "language",
+    "ISO",
+    "639-1"
+  ],
+  "author": "Saša Stamenković <umpirsky@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umpirsky/language-list/issues"
+  },
+  "homepage": "https://github.com/umpirsky/language-list#readme"
+}
