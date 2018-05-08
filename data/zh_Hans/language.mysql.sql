@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('ab', '阿布哈西亚文');
 INSERT INTO `list` (`id`, `value`) VALUES ('cch', '阿灿文');
@@ -129,9 +129,9 @@ INSERT INTO `list` (`id`, `value`) VALUES ('phn', '腓尼基文');
 INSERT INTO `list` (`id`, `value`) VALUES ('fj', '斐济文');
 INSERT INTO `list` (`id`, `value`) VALUES ('fi', '芬兰文');
 INSERT INTO `list` (`id`, `value`) VALUES ('fon', '丰文');
-INSERT INTO `list` (`id`, `value`) VALUES ('ff', '夫拉文');
 INSERT INTO `list` (`id`, `value`) VALUES ('fur', '弗留利文');
 INSERT INTO `list` (`id`, `value`) VALUES ('nl_BE', '佛兰芒文');
+INSERT INTO `list` (`id`, `value`) VALUES ('ff', '夫拉文');
 INSERT INTO `list` (`id`, `value`) VALUES ('qu', '盖丘亚文');
 INSERT INTO `list` (`id`, `value`) VALUES ('sba', '甘拜文');
 INSERT INTO `list` (`id`, `value`) VALUES ('swc', '刚果斯瓦希里文');
@@ -601,6 +601,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('tru', 'Turoyo');
 INSERT INTO `list` (`id`, `value`) VALUES ('vec', 'Venetian');
 INSERT INTO `list` (`id`, `value`) VALUES ('vep', 'Veps');
 INSERT INTO `list` (`id`, `value`) VALUES ('vro', 'Võro');
+INSERT INTO `list` (`id`, `value`) VALUES ('wbp', 'Warlpiri');
 INSERT INTO `list` (`id`, `value`) VALUES ('guc', 'Wayuu');
 INSERT INTO `list` (`id`, `value`) VALUES ('vls', 'West Flemish');
 INSERT INTO `list` (`id`, `value`) VALUES ('mrj', 'Western Mari');

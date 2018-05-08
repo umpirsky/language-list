@@ -466,6 +466,7 @@ cps: Capiznon
 cay: Cayuga
 tzm: 'Central Atlas Tamazight'
 dtp: 'Central Dusun'
+ckb: 'Central Kurdish'
 esu: 'Central Yupik'
 shu: 'Chadian Arabic'
 cgg: Chiga
@@ -576,7 +577,6 @@ sei: Seri
 ksb: Shambala
 szl: Silesian
 xog: Soga
-ckb: 'Sorani Kurdish'
 azb: 'South Azerbaijani'
 zgh: 'Standard Moroccan Tamazight'
 shi: Tachelhit
@@ -596,6 +596,7 @@ vep: Veps
 vro: Võro
 vun: Vunjo
 wae: Walser
+wbp: Warlpiri
 guc: Wayuu
 vls: 'West Flemish'
 mrj: 'Western Mari'

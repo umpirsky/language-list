@@ -583,6 +583,7 @@
   'wa' => 'Walloon',
   'wae' => 'Walser',
   'war' => 'Waray',
+  'wbp' => 'Warlpiri',
   'was' => 'Washo',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',

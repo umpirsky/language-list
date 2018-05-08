@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'阿布哈西亚文');
 INSERT INTO "list" ("id", "value") VALUES (E'cch', E'阿灿文');
@@ -129,9 +129,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'phn', E'腓尼基文');
 INSERT INTO "list" ("id", "value") VALUES (E'fj', E'斐济文');
 INSERT INTO "list" ("id", "value") VALUES (E'fi', E'芬兰文');
 INSERT INTO "list" ("id", "value") VALUES (E'fon', E'丰文');
-INSERT INTO "list" ("id", "value") VALUES (E'ff', E'夫拉文');
 INSERT INTO "list" ("id", "value") VALUES (E'fur', E'弗留利文');
 INSERT INTO "list" ("id", "value") VALUES (E'nl_BE', E'佛兰芒文');
+INSERT INTO "list" ("id", "value") VALUES (E'ff', E'夫拉文');
 INSERT INTO "list" ("id", "value") VALUES (E'qu', E'盖丘亚文');
 INSERT INTO "list" ("id", "value") VALUES (E'sba', E'甘拜文');
 INSERT INTO "list" ("id", "value") VALUES (E'swc', E'刚果斯瓦希里文');
@@ -601,6 +601,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'tru', E'Turoyo');
 INSERT INTO "list" ("id", "value") VALUES (E'vec', E'Venetian');
 INSERT INTO "list" ("id", "value") VALUES (E'vep', E'Veps');
 INSERT INTO "list" ("id", "value") VALUES (E'vro', E'Võro');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'vls', E'West Flemish');
 INSERT INTO "list" ("id", "value") VALUES (E'mrj', E'Western Mari');

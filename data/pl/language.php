@@ -576,6 +576,7 @@
   'wa' => 'waloński',
   'wae' => 'walser',
   'war' => 'waraj',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'wayúu',
   'vec' => 'wenecki',

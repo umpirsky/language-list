@@ -116,7 +116,7 @@ chp: chipewyan
 shi: chleuh
 cho: choctaw
 chk: chuuk
-si: cingalais
+si: cinghalais
 swb: comorien
 cop: copte
 ko: coréen
@@ -148,7 +148,7 @@ ebu: embou
 egl: Emilian
 myv: erzya
 es: espagnol
-es_ES: 'espagnol ibérique'
+es_ES: 'espagnol européen'
 es_419: 'espagnol latino-américain'
 es_MX: 'espagnol mexicain'
 eo: espéranto
@@ -172,12 +172,12 @@ fr_CH: 'français suisse'
 ksh: 'francique ripuaire'
 frp: franco-provençal
 fur: frioulan
-fy: frison
 frr: 'frison du Nord'
+fy: 'frison occidental'
 frs: 'frison oriental'
 gaa: ga
 gd: 'gaélique écossais'
-gag: gag
+gag: gagaouze
 gl: galicien
 cy: gallois
 gan: 'Gan Chinese'
@@ -193,13 +193,13 @@ gom: 'Goan Konkani'
 gon: gondi
 gor: gorontalo
 got: gotique
-gu: goudjarâtî
 grb: grebo
 el: grec
 grc: 'grec ancien'
 kl: groenlandais
 gn: guarani
 gez: guèze
+gu: gujarati
 guz: gusii
 gwi: gwichʼin
 hai: haida
@@ -223,7 +223,6 @@ ibb: ibibio
 io: ido
 ig: igbo
 ilo: ilokano
-und: indéterminé
 id: indonésien
 inh: ingouche
 izh: Ingrian
@@ -269,7 +268,6 @@ cgg: kiga
 ki: kikuyu
 kmb: kiMboundou
 krj: Kinaray-a
-rw: kinyarwanda
 ky: kirghize
 kiu: Kirmanjki
 tlh: klingon
@@ -296,6 +294,7 @@ lah: lahnda
 lkt: lakota
 lam: lamba
 lag: langi
+und: 'langue indéterminée'
 lo: lao
 ltg: Latgalian
 la: latin
@@ -412,7 +411,7 @@ osa: osage
 os: ossète
 udm: oudmourte
 uga: ougaritique
-ug: ouïgour
+ug: ouïghour
 ur: ourdou
 uz: ouzbek
 ps: pachto
@@ -437,7 +436,7 @@ pl: polonais
 pnt: Pontic
 pt: portugais
 pt_BR: 'portugais brésilien'
-pt_PT: 'portugais ibérique'
+pt_PT: 'portugais européen'
 pro: 'provençal ancien'
 prg: Prussian
 qu: quechua
@@ -456,6 +455,7 @@ rug: Roviana
 ru: russe
 rue: Rusyn
 rwk: rwa
+rw: rwanda
 ssy: saho
 saq: samburu
 smn: 'sami d’Inari'
@@ -545,7 +545,7 @@ tli: tlingit
 tpi: 'tok pisin'
 tkl: tokelau
 tog: 'tonga nyasa'
-to: tongan
+to: tonguien
 fit: 'Tornedalen Finnish'
 tyv: touva
 tkr: Tsakhur
@@ -582,6 +582,7 @@ wal: walamo
 wa: wallon
 wae: walser
 war: waray
+wbp: Warlpiri
 was: washo
 guc: Wayuu
 vls: 'West Flemish'
@@ -593,8 +594,8 @@ hsn: 'Xiang Chinese'
 yav: yangben
 yao: yao
 yap: yapois
-ybb: yémba
-ii: 'yi de Sichuan'
+ybb: yemba
+ii: 'yi du Sichuan'
 yi: yiddish
 yo: yoruba
 zap: zapotèque

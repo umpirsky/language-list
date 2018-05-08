@@ -599,6 +599,7 @@
   'vun' => 'vunjo',
   'vro' => 'Võro',
   'wae' => 'walseri',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',

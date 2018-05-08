@@ -1,228 +1,3 @@
-afh: Afrihili
-bss: Akoose
-akz: Alabama
-arq: 'Algerian Arabic'
-ase: 'American Sign Language'
-njo: 'Ao Naga'
-aro: Araona
-rup: Aromanian
-frp: Arpitan
-cch: Atsam
-av: Avaric
-bfq: Badaga
-bfd: Bafut
-bqi: Bakhtiari
-bjn: Banjar
-bbc: 'Batak Toba'
-bar: Bavarian
-bew: Betawi
-bik: Bikol
-bin: Bini
-bpy: Bishnupriya
-bi: Bislama
-brh: Brahui
-bug: Buginese
-bum: Bulu
-cad: Caddo
-frc: 'Cajun French'
-cps: Capiznon
-car: Carib
-ceb: Cebuano
-dtp: 'Central Dusun'
-esu: 'Central Yupik'
-chg: Chagatai
-ch: Chamorro
-chy: Cheyenne
-qug: 'Chimborazo Highland Quichua'
-chn: 'Chinook Jargon'
-chp: Chipewyan
-cho: Choctaw
-chk: Chuukese
-ksh: Colognian
-dzg: Dazaga
-arz: 'Egyptian Arabic'
-eka: Ekajuk
-elx: Elamite
-egl: Emilian
-ext: Extremaduran
-fan: Fang
-fat: Fanti
-hif: 'Fiji Hindi'
-gur: Frafra
-ff: Fulah
-gaa: Ga
-gan: 'Gan Chinese'
-gay: Gayo
-aln: 'Gheg Albanian'
-bbj: Ghomala
-glk: Gilaki
-gil: Gilbertese
-gom: 'Goan Konkani'
-gor: Gorontalo
-grb: Grebo
-gwi: Gwichʼin
-hai: Haida
-hak: 'Hakka Chinese'
-hz: Herero
-hil: Hiligaynon
-ho: 'Hiri Motu'
-hmn: Hmong
-hup: Hupa
-ilo: Iloko
-izh: Ingrian
-ik: Inupiaq
-jam: 'Jamaican Creole English'
-kaj: Jju
-jut: Jutish
-kgp: Kaingang
-kkj: Kako
-kbl: Kanembu
-kaw: Kawi
-ken: Kenyang
-kha: Khasi
-kho: Khotanese
-khw: Khowar
-krj: Kinaray-a
-kiu: Kirmanjki
-bkm: Kom
-kfo: Koro
-kos: Kosraean
-avk: Kotava
-kri: Krio
-kj: Kuanyama
-ltg: Latgalian
-lzz: Laz
-lij: Ligurian
-lfn: 'Lingua Franca Nova'
-lzh: 'Literary Chinese'
-liv: Livonian
-lmo: Lombard
-nds: 'Low German'
-sli: 'Lower Silesian'
-lua: Luba-Lulua
-mad: Madurese
-vmf: Main-Franconian
-mak: Makasar
-mdr: Mandar
-man: Mandingo
-mh: Marshallese
-mzn: Mazanderani
-byv: Medumba
-mwv: Mentawai
-mic: Micmac
-dum: 'Middle Dutch'
-enm: 'Middle English'
-frm: 'Middle French'
-gmh: 'Middle High German'
-mga: 'Middle Irish'
-nan: 'Min Nan Chinese'
-min: Minangkabau
-xmf: Mingrelian
-ary: 'Moroccan Arabic'
-mos: Mossi
-mul: 'Multiple Languages'
-ttt: 'Muslim Tat'
-ng: Ndonga
-sba: Ngambay
-nnh: Ngiemboon
-yrl: Nheengatu
-nia: Nias
-niu: Niuean
-nso: 'Northern Sotho'
-nov: Novial
-tog: 'Nyasa Tonga'
-osa: Osage
-ota: 'Ottoman Turkish'
-pfl: 'Palatine German'
-pau: Palauan
-pam: Pampanga
-pag: Pangasinan
-pap: Papiamento
-pdc: 'Pennsylvania German'
-pcd: Picard
-pms: Piedmontese
-pdt: Plautdietsch
-pon: Pohnpeian
-pnt: Pontic
-prg: Prussian
-rif: Riffian
-rgn: Romagnol
-root: Root
-rtm: Rotuman
-rug: Roviana
-rue: Rusyn
-ssy: Saho
-sgs: Samogitian
-sad: Sandawe
-sat: Santali
-sas: Sasak
-sdc: 'Sassarese Sardinian'
-stq: 'Saterland Frisian'
-saz: Saurashtra
-sco: Scots
-sly: Selayar
-srr: Serer
-sei: Seri
-sid: Sidamo
-bla: Siksika
-szl: Silesian
-den: Slave
-sog: Sogdien
-snk: Soninke
-azb: 'South Azerbaijani'
-nr: 'South Ndebele'
-srn: 'Sranan Tongo'
-suk: Sukuma
-sus: Susu
-ss: Swati
-tl: Tagalog
-ty: Tahitian
-tly: Talysh
-tmh: Tamashek
-trv: Taroko
-ter: Tereno
-tet: Tetum
-tem: Timne
-tiv: Tiv
-tli: Tlingit
-tpi: 'Tok Pisin'
-tkl: Tokelau
-fit: 'Tornedalen Finnish'
-tkr: Tsakhur
-tsd: Tsakonian
-tsi: Tsimshian
-ts: Tsonga
-tcy: Tulu
-tum: Tumbuka
-aeb: 'Tunisian Arabic'
-tru: Turoyo
-tvl: Tuvalu
-kcg: Tyap
-umb: Umbundu
-ve: Venda
-vec: Venetian
-vep: Veps
-vo: Volapük
-vro: Võro
-vot: Votic
-wa: Walloon
-wae: Walser
-war: Waray
-was: Washo
-guc: Wayuu
-vls: 'West Flemish'
-mrj: 'Western Mari'
-wuu: 'Wu Chinese'
-hsn: 'Xiang Chinese'
-yav: Yangben
-yao: Yao
-yap: Yapese
-ybb: Yemba
-zap: Zapotec
-zea: Zeelandic
-za: Zhuang
-gbz: 'Zoroastrian Dari'
-zun: Zuni
 ada: ადანგმე
 ady: ადიღეური
 awa: ავადი
@@ -606,3 +381,229 @@ haw: ჰავაიური
 ht: ჰაიტიური
 ha: ჰაუსა
 hi: ჰინდი
+afh: Afrihili
+bss: Akoose
+akz: Alabama
+arq: 'Algerian Arabic'
+ase: 'American Sign Language'
+njo: 'Ao Naga'
+aro: Araona
+rup: Aromanian
+frp: Arpitan
+cch: Atsam
+av: Avaric
+bfq: Badaga
+bfd: Bafut
+bqi: Bakhtiari
+bjn: Banjar
+bbc: 'Batak Toba'
+bar: Bavarian
+bew: Betawi
+bik: Bikol
+bin: Bini
+bpy: Bishnupriya
+bi: Bislama
+brh: Brahui
+bug: Buginese
+bum: Bulu
+cad: Caddo
+frc: 'Cajun French'
+cps: Capiznon
+car: Carib
+ceb: Cebuano
+dtp: 'Central Dusun'
+esu: 'Central Yupik'
+chg: Chagatai
+ch: Chamorro
+chy: Cheyenne
+qug: 'Chimborazo Highland Quichua'
+chn: 'Chinook Jargon'
+chp: Chipewyan
+cho: Choctaw
+chk: Chuukese
+ksh: Colognian
+dzg: Dazaga
+arz: 'Egyptian Arabic'
+eka: Ekajuk
+elx: Elamite
+egl: Emilian
+ext: Extremaduran
+fan: Fang
+fat: Fanti
+hif: 'Fiji Hindi'
+gur: Frafra
+ff: Fulah
+gaa: Ga
+gan: 'Gan Chinese'
+gay: Gayo
+aln: 'Gheg Albanian'
+bbj: Ghomala
+glk: Gilaki
+gil: Gilbertese
+gom: 'Goan Konkani'
+gor: Gorontalo
+grb: Grebo
+gwi: Gwichʼin
+hai: Haida
+hak: 'Hakka Chinese'
+hz: Herero
+hil: Hiligaynon
+ho: 'Hiri Motu'
+hmn: Hmong
+hup: Hupa
+ilo: Iloko
+izh: Ingrian
+ik: Inupiaq
+jam: 'Jamaican Creole English'
+kaj: Jju
+jut: Jutish
+kgp: Kaingang
+kkj: Kako
+kbl: Kanembu
+kaw: Kawi
+ken: Kenyang
+kha: Khasi
+kho: Khotanese
+khw: Khowar
+krj: Kinaray-a
+kiu: Kirmanjki
+bkm: Kom
+kfo: Koro
+kos: Kosraean
+avk: Kotava
+kri: Krio
+kj: Kuanyama
+ltg: Latgalian
+lzz: Laz
+lij: Ligurian
+lfn: 'Lingua Franca Nova'
+lzh: 'Literary Chinese'
+liv: Livonian
+lmo: Lombard
+nds: 'Low German'
+sli: 'Lower Silesian'
+lua: Luba-Lulua
+mad: Madurese
+vmf: Main-Franconian
+mak: Makasar
+mdr: Mandar
+man: Mandingo
+mh: Marshallese
+mzn: Mazanderani
+byv: Medumba
+mwv: Mentawai
+mic: Micmac
+dum: 'Middle Dutch'
+enm: 'Middle English'
+frm: 'Middle French'
+gmh: 'Middle High German'
+mga: 'Middle Irish'
+nan: 'Min Nan Chinese'
+min: Minangkabau
+xmf: Mingrelian
+ary: 'Moroccan Arabic'
+mos: Mossi
+mul: 'Multiple Languages'
+ttt: 'Muslim Tat'
+ng: Ndonga
+sba: Ngambay
+nnh: Ngiemboon
+yrl: Nheengatu
+nia: Nias
+niu: Niuean
+nso: 'Northern Sotho'
+nov: Novial
+tog: 'Nyasa Tonga'
+osa: Osage
+ota: 'Ottoman Turkish'
+pfl: 'Palatine German'
+pau: Palauan
+pam: Pampanga
+pag: Pangasinan
+pap: Papiamento
+pdc: 'Pennsylvania German'
+pcd: Picard
+pms: Piedmontese
+pdt: Plautdietsch
+pon: Pohnpeian
+pnt: Pontic
+prg: Prussian
+rif: Riffian
+rgn: Romagnol
+root: Root
+rtm: Rotuman
+rug: Roviana
+rue: Rusyn
+ssy: Saho
+sgs: Samogitian
+sad: Sandawe
+sat: Santali
+sas: Sasak
+sdc: 'Sassarese Sardinian'
+stq: 'Saterland Frisian'
+saz: Saurashtra
+sco: Scots
+sly: Selayar
+srr: Serer
+sei: Seri
+sid: Sidamo
+bla: Siksika
+szl: Silesian
+den: Slave
+sog: Sogdien
+snk: Soninke
+azb: 'South Azerbaijani'
+nr: 'South Ndebele'
+srn: 'Sranan Tongo'
+suk: Sukuma
+sus: Susu
+ss: Swati
+tl: Tagalog
+ty: Tahitian
+tly: Talysh
+tmh: Tamashek
+trv: Taroko
+ter: Tereno
+tet: Tetum
+tem: Timne
+tiv: Tiv
+tli: Tlingit
+tpi: 'Tok Pisin'
+tkl: Tokelau
+fit: 'Tornedalen Finnish'
+tkr: Tsakhur
+tsd: Tsakonian
+tsi: Tsimshian
+ts: Tsonga
+tcy: Tulu
+tum: Tumbuka
+aeb: 'Tunisian Arabic'
+tru: Turoyo
+tvl: Tuvalu
+kcg: Tyap
+umb: Umbundu
+ve: Venda
+vec: Venetian
+vep: Veps
+vo: Volapük
+vro: Võro
+vot: Votic
+wa: Walloon
+wae: Walser
+war: Waray
+wbp: Warlpiri
+was: Washo
+guc: Wayuu
+vls: 'West Flemish'
+mrj: 'Western Mari'
+wuu: 'Wu Chinese'
+hsn: 'Xiang Chinese'
+yav: Yangben
+yao: Yao
+yap: Yapese
+ybb: Yemba
+zap: Zapotec
+zea: Zeelandic
+za: Zhuang
+gbz: 'Zoroastrian Dari'
+zun: Zuni

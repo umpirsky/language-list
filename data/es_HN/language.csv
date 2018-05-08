@@ -23,7 +23,8 @@ gsw,"alemán suizo"
 ale,aleutiano
 arq,"Algerian Arabic"
 alt,"altái meridional"
-de_CH,"alto alemán de Suiza"
+de_CH,"alto alemán suizo"
+hsb,"alto sorbio"
 am,amárico
 ase,"American Sign Language"
 anp,angika
@@ -37,7 +38,6 @@ arc,arameo
 sam,"arameo samaritano"
 aro,Araona
 arp,arapaho
-arn,araucano
 hy,armenio
 frp,Arpitan
 rup,arrumano
@@ -48,11 +48,12 @@ cch,atsam
 awa,avadhi
 av,avar
 ae,avéstico
-az,azerí
+az,azerbaiyano
 bfq,Badaga
 ksf,bafia
 bfd,bafut
 nds,"bajo alemán"
+dsb,"bajo sorbio"
 bqi,Bakhtiari
 ban,balinés
 bal,baluchi
@@ -60,7 +61,7 @@ bm,bambara
 bax,bamun
 bjn,Banjar
 bas,basa
-ba,bashkir
+ba,baskir
 bbc,"Batak Toba"
 bar,Bavarian
 bej,beja
@@ -152,9 +153,9 @@ cu,"eslavo eclesiástico"
 sk,eslovaco
 sl,esloveno
 es,español
-es_419,"español de América"
 es_ES,"español de España"
 es_MX,"español de México"
+es_419,"español latinoamericano"
 eo,esperanto
 et,estonio
 eu,euskera
@@ -184,7 +185,6 @@ fur,friulano
 ff,fula
 gaa,ga
 gd,"gaélico escocés"
-gv,"gaélico manés"
 gag,gagauzo
 cy,galés
 gl,gallego
@@ -280,7 +280,6 @@ rw,kinyarwanda
 ky,kirguís
 kiu,Kirmanjki
 rn,kiroundi
-vun,kivunjo
 tlh,klingon
 ksh,kölsch
 bkm,kom
@@ -354,9 +353,11 @@ mt,maltés
 mnc,manchú
 mdr,mandar
 man,mandingo
+gv,manés
 mni,manipuri
 mi,maorí
-mr,marathi
+arn,mapuche
+mr,maratí
 chm,marí
 mh,marshalés
 mwr,marwari
@@ -424,6 +425,7 @@ pau,palauano
 pi,pali
 pam,pampanga
 pag,pangasinán
+pa,panyabí
 pap,papiamento
 ps,pastún
 pdc,"Pennsylvania German"
@@ -440,7 +442,6 @@ pt_BR,"portugués de Brasil"
 pt_PT,"portugués de Portugal"
 pro,"provenzal antiguo"
 prg,Prussian
-pa,punjabí
 qu,quechua
 quc,quiché
 root,raíz
@@ -506,8 +507,6 @@ xog,soga
 sog,sogdiano
 so,somalí
 snk,soninké
-dsb,"sorbio inferior"
-hsb,"sorbio superior"
 nso,"sotho septentrional"
 azb,"South Azerbaijani"
 srn,"sranan tongo"
@@ -524,8 +523,8 @@ th,tailandés
 dav,taita
 tly,Talysh
 tmh,tamashek
-zgh,tamazight
 tzm,"tamazight del Marruecos Central"
+zgh,"tamazight estándar marroquí"
 ta,tamil
 trv,taroko
 tt,tártaro
@@ -580,9 +579,11 @@ vi,vietnamita
 vo,volapük
 vro,Võro
 vot,vótico
+vun,vunjo
 wal,walamo
 wae,walser
 war,waray
+wbp,Warlpiri
 was,washo
 guc,Wayuu
 vls,"West Flemish"

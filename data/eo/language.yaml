@@ -93,6 +93,7 @@ cay: Cayuga
 ceb: Cebuano
 tzm: 'Central Atlas Tamazight'
 dtp: 'Central Dusun'
+ckb: 'Central Kurdish'
 esu: 'Central Yupik'
 shu: 'Chadian Arabic'
 chg: Chagatai
@@ -507,7 +508,6 @@ xog: Soga
 sog: Sogdien
 so: somala
 snk: Soninke
-ckb: 'Sorani Kurdish'
 st: sota
 azb: 'South Azerbaijani'
 nr: 'South Ndebele'
@@ -587,6 +587,7 @@ vun: Vunjo
 wa: Walloon
 wae: Walser
 war: Waray
+wbp: Warlpiri
 was: Washo
 guc: Wayuu
 vls: 'West Flemish'

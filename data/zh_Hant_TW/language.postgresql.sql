@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'din', E'丁卡文');
 INSERT INTO "list" ("id", "value") VALUES (E'hsb', E'上索布文');
@@ -608,3 +608,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'rof', E'蘭博文');
 INSERT INTO "list" ("id", "value") VALUES (E'tt', E'韃靼文');
 INSERT INTO "list" ("id", "value") VALUES (E'jbo', E'邏輯文');
 INSERT INTO "list" ("id", "value") VALUES (E'gan', E'贛語');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');

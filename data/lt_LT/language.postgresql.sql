@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'zbl', E'„Bliss“ simbolių');
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'abchazų');
@@ -596,6 +596,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'wo', E'volofų');
 INSERT INTO "list" ("id", "value") VALUES (E'vro', E'võro');
 INSERT INTO "list" ("id", "value") VALUES (E'vot', E'votik');
 INSERT INTO "list" ("id", "value") VALUES (E'vun', E'vunjo');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'zap', E'zapotekų');
 INSERT INTO "list" ("id", "value") VALUES (E'dje', E'zarmų');
 INSERT INTO "list" ("id", "value") VALUES (E'zza', E'zaza');

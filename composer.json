@@ -14,6 +14,21 @@
     },
     "require-dev": {
         "umpirsky/list-generator": "^1.1",
+        "slowprog/composer-copy-file": "^0.2",
         "symfony/locale": "^2.7|^3.0"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "SlowProg\\CopyFile\\ScriptHandler::copy"
+        ],
+        "post-update-cmd": [
+            "SlowProg\\CopyFile\\ScriptHandler::copy"
+        ]
+    },
+    "extra": {
+        "copy-file": {
+            "vendor/umpirsky/list-generator/Dockerfile": "./",
+            "vendor/umpirsky/list-generator/docker-compose.yml": "./"
+        }
     }
 }

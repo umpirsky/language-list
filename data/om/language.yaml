@@ -157,6 +157,7 @@ cay: Cayuga
 ceb: Cebuano
 tzm: 'Central Atlas Tamazight'
 dtp: 'Central Dusun'
+ckb: 'Central Kurdish'
 esu: 'Central Yupik'
 nwc: 'Classical Newari'
 syc: 'Classical Syriac'
@@ -484,7 +485,6 @@ xog: Soga
 sog: Sogdien
 so: Somali
 snk: Soninke
-ckb: 'Sorani Kurdish'
 azb: 'South Azerbaijani'
 nr: 'South Ndebele'
 alt: 'Southern Altai'
@@ -554,6 +554,7 @@ vun: Vunjo
 wa: Walloon
 wae: Walser
 war: Waray
+wbp: Warlpiri
 guc: Wayuu
 was: Washo
 cy: Welishiffaa

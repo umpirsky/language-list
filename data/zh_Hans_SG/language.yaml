@@ -37,7 +37,7 @@ de_AT: 奥地利德文
 oj: 奥吉布瓦文
 oc: 奥克西唐文
 or: 奥里亚文
-om: 奥罗莫文
+om: 奥洛莫文
 osa: 奥萨格文
 os: 奥塞梯文
 ota: 奥托曼土耳其文
@@ -127,9 +127,9 @@ phn: 腓尼基文
 fj: 斐济文
 fi: 芬兰文
 fon: 丰文
-ff: 夫拉文
 fur: 弗留利文
 nl_BE: 佛兰芒文
+ff: 夫拉文
 qu: 盖丘亚文
 sba: 甘拜文
 swc: 刚果斯瓦希里文
@@ -297,7 +297,7 @@ mi: 毛利文
 byv: 梅敦巴文
 mer: 梅鲁文
 mgo: 梅塔
-en_US: 美国英文
+en_US: 美式英文
 men: 门迪文
 mua: 蒙当文
 mn: 蒙古文
@@ -334,6 +334,8 @@ nb: 挪威博克马尔文
 nn: 挪威尼诺斯克文
 'no': 挪威文
 nog: 诺盖文
+pt_PT: 欧洲葡萄牙文
+es_ES: 欧洲西班牙文
 pal: 帕拉维文
 pau: 帕劳文
 pap: 帕皮亚门托文
@@ -475,8 +477,6 @@ yao: 瑶族文
 ybb: 耶姆巴文
 iba: 伊班文
 ibb: 伊比比奥文
-pt_PT: 伊比利亚葡萄牙文
-es_ES: 伊比利亚西班牙文
 ig: 伊布文
 io: 伊多文
 ilo: 伊洛干诺文
@@ -488,7 +488,7 @@ iu: 因纽特文
 hi: 印地文
 id: 印度尼西亚文
 inh: 印古什文
-en_GB: 英国英文
+en_GB: 英式英文
 en: 英文
 jrb: 犹太阿拉伯文
 jpr: 犹太波斯文
@@ -599,6 +599,7 @@ tru: Turoyo
 vec: Venetian
 vep: Veps
 vro: Võro
+wbp: Warlpiri
 guc: Wayuu
 vls: 'West Flemish'
 mrj: 'Western Mari'

@@ -582,6 +582,7 @@
   'wa' => 'walloneg',
   'wae' => 'walser',
   'war' => 'waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'Wayuu',
   'wo' => 'wolof',

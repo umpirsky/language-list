@@ -595,6 +595,7 @@
   'vro' => 'võro',
   'vot' => 'votik',
   'vun' => 'vunjo',
+  'wbp' => 'Warlpiri',
   'zap' => 'zapotekų',
   'dje' => 'zarmų',
   'zza' => 'zaza',

@@ -1,19 +1,18 @@
 id,value
-asa,آسو
-es_419,"إسبانية أمريكا اللاتينية"
 bss,أكوس
 arc,الآرامية
-sam,"الآرامية السومارية"
+sam,"الآرامية السامرية"
+asa,الآسو
 ain,الآينوية
 ab,الأبخازية
 cch,الأتسام
 ace,الأتشينيزية
 ada,الأدانجمية
 udm,الأدمرت
-ady,الأديجه
+ady,الأديغة
 az,الأذربيجانية
 arp,الأراباهو
-an,الأراجونية
+an,الأراغونية
 arw,الأراواكية
 ur,الأردية
 myv,الأرزية
@@ -21,9 +20,10 @@ hy,الأرمينية
 arn,الأروكانية
 rup,الأرومانيان
 as,الأسامية
-lad,الإسباعبرية
 es,الإسبانية
 es_ES,"الإسبانية الأوروبية"
+es_MX,"الإسبانية المكسيكية"
+es_419,"الإسبانية أمريكا اللاتينية"
 eo,الإسبرانتو
 ast,الأسترية
 et,الإستونية
@@ -31,7 +31,6 @@ sco,الأسكتلندية
 agq,الأغم
 ug,الأغورية
 aa,الأفارية
-av,الأفاريكية
 af,الأفريقانية
 afh,الأفريهيلية
 ae,الأفستية
@@ -66,15 +65,17 @@ inh,الإنجوشية
 anp,الأنجيكا
 id,الإندونيسية
 awa,الأوادية
+av,الأوارية
 oj,الأوجيبوا
 om,الأورومو
 or,الأورييا
-uz,الأوزباكية
+uz,الأوزبكية
 osa,الأوساج
 os,الأوسيتيك
 uk,الأوكرانية
 oc,الأوكيتانية
 iba,الإيبان
+ibb,الإيبيبيوية
 ig,الإيجبو
 io,الإيدو
 ga,الأيرلندية
@@ -112,7 +113,7 @@ byn,البلينية
 pa,البنجابية
 bn,البنغالية
 pal,البهلوية
-bho,البهوجبرية
+bho,البهوجبورية
 brx,البودو
 my,البورمية
 bs,البوسنية
@@ -122,7 +123,7 @@ pon,البوهنبيايان
 bej,البيجا
 bi,البيسلامية
 bik,البيكولية
-be,البيلوروسية
+be,البيلاروسية
 bem,البيمبا
 bin,البينية
 tl,التاغالوغية
@@ -130,32 +131,32 @@ tmh,التاماشيك
 tum,التامبوكا
 ta,التاميلية
 ty,التاهيتية
+kcg,التايابية
 th,التايلاندية
 bo,التبتية
 tt,التتارية
-tyv,التُرك
 tk,التركمانية
 tr,التركية
 ota,"التركية العثمانية"
-crh,"التركية الكريمينية"
 tn,التسوانية
 tsi,التسيمشيان
 chg,التشاجاتاي
 ch,التشامورو
-cv,التشفاش
 chk,التشكيزية
+cv,التشوفاشي
 chb,التشيبشا
 cs,التشيكية
+tig,التغرية
+ti,التغرينية
 tli,التلينغيتية
 zgh,"التمازيغية المغربية القياسية"
 tvl,التوفالو
+tyv,التوفية
 tpi,"التوك بيسين"
 tkl,التوكيلاو
 to,التونغية
 tw,التوي
 tet,التيتم
-tig,التيجر
-ti,التيجرينيا
 ter,التيرينو
 tiv,التيف
 te,التيلجو
@@ -168,14 +169,12 @@ gay,الجايو
 gba,الجبيا
 root,الجذر
 grb,الجريبو
+gez,الجعزية
 gon,الجندي
 kaj,الجو
 gn,الجواراني
 ka,الجورجية
 gor,الجورونتالو
-jrb,"الجيدو - العربي"
-jpr,"الجيدو - الفارسي"
-gez,الجيز
 hit,الحثية
 km,الخميرية
 kho,الخوتانيز
@@ -185,17 +184,19 @@ dak,الداكوتا
 da,الدانماركية
 dyu,الدايلا
 din,الدنكا
-doi,الدوجري
 dgr,الدوجريب
+doi,الدوجرية
 del,الديلوير
 dua,الديولا
 rap,الراباني
 raj,الراجاسثانية
 rar,الراروتونجاني
 rn,الرندي
+rwk,الروا
 ru,الروسية
 rm,الرومانشية
 ro,الرومانية
+rof,الرومبو
 zap,الزابوتيك
 dje,الزارمية
 za,الزهيونج
@@ -215,7 +216,6 @@ srn,"السرانان تونجو"
 sc,السردينية
 srr,السرر
 syr,السريانية
-ckb,"السريانية الكردية"
 sms,"السكولت سامي"
 den,السلافية
 sk,السلوفاكية
@@ -223,19 +223,22 @@ sl,السلوفانية
 sd,السندية
 sa,السنسكريتية
 si,السنهالية
+see,السنيكا
 ss,السواتي
 sw,السواحلية
 st,"السوتو الجنوبية"
 nso,"السوتو الشمالية"
 sog,السوجدين
+ckb,"السورانية الكردية"
 sus,السوسو
+xog,السوغا
 suk,السوكوما
 sux,السومارية
 ts,السونجا
 su,السوندانية
 snk,السونينك
 sv,السويدية
-ceb,السيبيونو
+ceb,السيبونية
 ii,"السيتشيون يي"
 sid,السيدامو
 bla,السيكسيكية
@@ -261,12 +264,14 @@ he,العبرية
 ar,العربية
 shu,"العربية التشادية"
 ar_001,"العربية الرسمية الحديثة"
+jrb,"العربية اليهودية"
 gag,الغاغوز
 gu,الغوجاراتية
 guz,الغيزية
 gd,"الغيلية الأسكتلندية"
 fa,الفارسية
 peo,"الفارسية القديمة"
+jpr,"الفارسية اليهودية"
 fo,الفارويز
 fat,الفانتي
 fan,الفانج
@@ -282,10 +287,11 @@ frr,"الفريزينية الشمالية"
 fur,الفريلايان
 fil,الفلبينية
 ff,الفلة
-nl_BE,الفلمنك
+nl_BE,الفلمنكية
 fi,الفنلندية
 vot,الفوتيك
 fon,الفون
+vun,الفونجو
 vi,الفيتنامية
 fj,الفيجية
 ve,الفيندا
@@ -295,6 +301,7 @@ kab,القبيلية
 dzg,القرعانية
 ky,القرغيزية
 swb,القمرية
+kum,القموقية
 got,القوطية
 kbd,الكاباردايان
 kac,الكاتشين
@@ -302,6 +309,7 @@ cad,الكادو
 kaa,الكارا-كالباك
 krc,الكاراتشاي-بالكار
 car,الكاريبية
+krl,الكاريلية
 kk,الكازاخستانية
 kha,الكازية
 csb,الكاشبايان
@@ -310,6 +318,7 @@ xal,الكالميك
 kam,الكامبا
 kn,الكانادا
 kr,الكانيوري
+cay,الكايوجية
 kpe,الكبيل
 ca,الكتالانية
 kut,الكتيناي
@@ -317,19 +326,17 @@ ku,الكردية
 hr,الكرواتية
 cr,الكرى
 mus,الكريك
-krl,الكريلية
 ks,الكشميرية
 tlh,الكلينجون
-kum,الكميك
 yue,الكَنْتُونية
 co,الكورسيكية
 kw,الكورنية
 kfo,الكورو
+kru,الكوروخ
 ko,الكورية
 kos,الكوسراين
 kv,الكومي
 kg,الكونغو
-swc,"الكونغو السواحلية"
 kok,الكونكانية
 kaw,الكوي
 qu,الكويتشوا
@@ -339,13 +346,13 @@ rw,الكينيارواندا
 kj,الكيونياما
 lv,اللاتفية
 la,اللاتينية
+lad,اللادينو
 lam,اللامبا
 lah,اللاهندا
 lo,اللاوية
 lu,اللبا-كاتانجا
 lua,اللبا-لؤلؤ
 lt,اللتوانية
-lus,اللشاي
 ban,"اللغة البالية"
 nap,"اللغة النابولية"
 ia,"اللّغة الوسيطة"
@@ -356,14 +363,15 @@ lui,اللوسينو
 lb,اللوكسمبرجية
 smj,"اللول سامي"
 lun,اللوندا
-lez,الليزجهايانية
+lez,الليزجية
 li,الليمبرجيشية
 ln,اللينجالا
+jmc,الماتشامية
 mag,الماجا
 mad,المادريز
 mr,الماراثي
 mh,المارشالية
-mwr,المارواري
+mwr,الماروارية
 chm,الماري
 mas,الماساي
 mak,الماكاسار
@@ -374,7 +382,7 @@ ml,الماليالام
 mdr,الماندار
 man,الماندينغ
 mnc,المانشو
-mni,المانيبري
+mni,المانيبورية
 mi,الماورية
 mai,المايثيلي
 egy,"المصرية القديمة"
@@ -387,6 +395,8 @@ mdf,الموكشا
 ro_MD,المولدوفية
 moh,الموهوك
 mwl,الميرانديز
+mer,الميرو
+lus,الميزو
 mic,الميكماكيونية
 min,المينانجكاباو
 men,الميند
@@ -396,6 +406,7 @@ nr,"النديبيل الجنوبي"
 nd,"النديبيل الشمالي"
 no,النرويجية
 nzi,النزيما
+new,النوارية
 nwc,"النوارية التقليدية"
 nog,النوجاي
 non,"النورس القديم"
@@ -407,7 +418,6 @@ ny,النيانجا
 nyn,النيانكول
 ne,النيبالية
 nn,"النينورسك النرويجي"
-new,النيواري
 nyo,النيورو
 niu,النيوي
 ht,الهايتية
@@ -424,7 +434,8 @@ hz,الهيريرو
 hil,الهيليجينون
 war,الواراي
 was,الواشو
-wal,الوالامو
+wae,الوالسر
+wal,الولاياتا
 cy,الولزية
 wo,الولوف
 wa,الولونية
@@ -438,7 +449,6 @@ el,اليونانية
 grc,"اليونانية القديمة"
 ebu,إمبو
 nqo,أنكو
-ksf,بافيا
 bax,بامن
 zxx,"بدون محتوى لغوي"
 bez,بينا
@@ -450,23 +460,19 @@ dav,تيتا
 teo,تيسو
 dyo,"جولا فونيا"
 zbl,"رموز المعايير الأساسية"
-rwk,روا
-rof,رومبو
 zza,زازا
 saq,سامبورو
 sbp,سانغو
 syc,"سريانية تقليدية"
 cu,"سلافية كنسية"
-xog,سوجا
 seh,سينا
 ksb,شامبالا
+sh,صربية-كرواتية
 rom,غجري
 gwi,غوتشن
-vun,فونجو
 kea,كابوفيرديانو
 kln,كالينجين
 kbl,كانمبو
-kru,كرخانة
 nmg,كواسيو
 koi,كومي-بيرماياك
 khq,"كويرا تشيني"
@@ -476,23 +482,35 @@ lkt,لاكوتا
 lag,لانجي
 mul,"لغات متعددة"
 eu,"لغة الباسك"
+bfd,"لغة البافوت"
+ksf,"لغة البافيا"
+bum,"لغة البولو"
+trv,"لغة التاروكو"
+ssy,"لغة الساهو"
+bbj,"لغة الغومالا"
+vo,"لغة الفولابوك"
+ksh,"لغة الكولونيان"
+bkm,"لغة الكوم"
+swc,"لغة الكونغو السواحلية"
+luy,"لغة اللويا"
 ms,"لغة الملايو"
+byv,"لغة الميدومبا"
+naq,"لغة الناما"
+nnh,"لغة النجيمبون"
 haw,"لغة أهل الهاواي"
 gil,"لغة أهل جبل طارق"
+crh,"لغة تتار القرم"
 und,"لغة غير معروفة"
-luy,لويا
 mde,مابا
-jmc,ماتشيم
 mgh,ماخاوا-ميتو
 kde,ماكونده
 mua,مندنج
 lol,منغولى
 mgo,ميتا
-mer,ميرو
-naq,ناما
 sba,نامبي
 jgo,نغومبا
 yav,يانجبن
+ybb,يمبا
 akz,Alabama
 arq,"Algerian Arabic"
 ase,"American Sign Language"
@@ -500,7 +518,6 @@ njo,"Ao Naga"
 aro,Araona
 frp,Arpitan
 bfq,Badaga
-bfd,Bafut
 bqi,Bakhtiari
 bjn,Banjar
 bbc,"Batak Toba"
@@ -508,14 +525,11 @@ bar,Bavarian
 bew,Betawi
 bpy,Bishnupriya
 brh,Brahui
-bum,Bulu
 frc,"Cajun French"
 cps,Capiznon
-cay,Cayuga
 dtp,"Central Dusun"
 esu,"Central Yupik"
 qug,"Chimborazo Highland Quichua"
-ksh,Colognian
 arz,"Egyptian Arabic"
 egl,Emilian
 ext,Extremaduran
@@ -523,11 +537,9 @@ hif,"Fiji Hindi"
 gur,Frafra
 gan,"Gan Chinese"
 aln,"Gheg Albanian"
-bbj,Ghomala
 glk,Gilaki
 gom,"Goan Konkani"
 hak,"Hakka Chinese"
-ibb,Ibibio
 izh,Ingrian
 jam,"Jamaican Creole English"
 jut,Jutish
@@ -537,7 +549,6 @@ ken,Kenyang
 khw,Khowar
 krj,Kinaray-a
 kiu,Kirmanjki
-bkm,Kom
 avk,Kotava
 kri,Krio
 ltg,Latgalian
@@ -551,15 +562,12 @@ sli,"Lower Silesian"
 maf,Mafa
 vmf,Main-Franconian
 mzn,Mazanderani
-byv,Medumba
 mwv,Mentawai
-es_MX,"Mexican Spanish"
 nan,"Min Nan Chinese"
 xmf,Mingrelian
 ary,"Moroccan Arabic"
 ttt,"Muslim Tat"
 mye,Myene
-nnh,Ngiemboon
 yrl,Nheengatu
 nov,Novial
 pfl,"Palatine German"
@@ -574,36 +582,29 @@ rgn,Romagnol
 rtm,Rotuman
 rug,Roviana
 rue,Rusyn
-ssy,Saho
 sgs,Samogitian
 sdc,"Sassarese Sardinian"
 stq,"Saterland Frisian"
 saz,Saurashtra
 sly,Selayar
-see,Seneca
-sh,Serbo-Croatian
 sei,Seri
 szl,Silesian
 azb,"South Azerbaijani"
 tly,Talysh
-trv,Taroko
 fit,"Tornedalen Finnish"
 tkr,Tsakhur
 tsd,Tsakonian
 tcy,Tulu
 aeb,"Tunisian Arabic"
 tru,Turoyo
-kcg,Tyap
 vec,Venetian
 vep,Veps
-vo,Volapük
 vro,Võro
-wae,Walser
+wbp,Warlpiri
 guc,Wayuu
 vls,"West Flemish"
 mrj,"Western Mari"
 wuu,"Wu Chinese"
 hsn,"Xiang Chinese"
-ybb,Yemba
 zea,Zeelandic
 gbz,"Zoroastrian Dari"

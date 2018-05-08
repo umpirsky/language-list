@@ -585,6 +585,7 @@
   'wae' => 'Walser',
   'wa' => 'Walwneg',
   'war' => 'Waray',
+  'wbp' => 'Warlpiri',
   'was' => 'Washo',
   'guc' => 'Wayuu',
   'uk' => 'Wcreineg',

@@ -93,6 +93,7 @@ cay,Cayuga
 ceb,Cebuano
 tzm,"Central Atlas Tamazight"
 dtp,"Central Dusun"
+ckb,"Central Kurdish"
 esu,"Central Yupik"
 shu,"Chadian Arabic"
 chg,Chagatai
@@ -499,7 +500,6 @@ xog,Soga
 sog,Sogdien
 so,somaliagbe
 snk,Soninke
-ckb,"Sorani Kurdish"
 azb,"South Azerbaijani"
 nr,"South Ndebele"
 alt,"Southern Altai"
@@ -583,6 +583,7 @@ cy,walesgbe
 wa,Walloon
 wae,walsegbe
 war,Waray
+wbp,Warlpiri
 was,Washo
 guc,Wayuu
 vls,"West Flemish"

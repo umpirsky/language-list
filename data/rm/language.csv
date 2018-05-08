@@ -93,6 +93,7 @@ cay,Cayuga
 ceb,cebuano
 tzm,"Central Atlas Tamazight"
 dtp,"Central Dusun"
+ckb,"Central Kurdish"
 esu,"Central Yupik"
 shu,"Chadian Arabic"
 ch,chamorro
@@ -495,7 +496,6 @@ xog,Soga
 sog,sogdian
 so,somali
 snk,soninke
-ckb,"Sorani Kurdish"
 nso,"sotho dal nord"
 st,"sotho dal sid"
 azb,"South Azerbaijani"
@@ -585,6 +585,7 @@ vun,Vunjo
 wal,walamo
 wae,Walser
 war,waray
+wbp,Warlpiri
 was,washo
 guc,Wayuu
 vls,"West Flemish"

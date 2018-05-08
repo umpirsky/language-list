@@ -581,6 +581,7 @@
   'wae' => 'Walliserdäitsch',
   'wa' => 'Wallounesch',
   'war' => 'Waray',
+  'wbp' => 'Warlpiri',
   'was' => 'Washo-Sprooch',
   'guc' => 'Wayuu',
   'vep' => 'Wepsesch',

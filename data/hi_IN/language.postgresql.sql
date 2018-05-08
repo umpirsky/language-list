@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'anp', E'अंगिका');
 INSERT INTO "list" ("id", "value") VALUES (E'en', E'अंग्रेज़ी');
@@ -479,8 +479,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'sv', E'स्वीडिश');
 INSERT INTO "list" ("id", "value") VALUES (E'hu', E'हंगेरियाई');
 INSERT INTO "list" ("id", "value") VALUES (E'hz', E'हरैरो');
 INSERT INTO "list" ("id", "value") VALUES (E'haw', E'हवाई');
-INSERT INTO "list" ("id", "value") VALUES (E'hi', E'हिंदी');
 INSERT INTO "list" ("id", "value") VALUES (E'hit', E'हिताइत');
+INSERT INTO "list" ("id", "value") VALUES (E'hi', E'हिन्दी');
 INSERT INTO "list" ("id", "value") VALUES (E'he', E'हिब्रू');
 INSERT INTO "list" ("id", "value") VALUES (E'ho', E'हिरी मोटू');
 INSERT INTO "list" ("id", "value") VALUES (E'hil', E'हिलिगेनन');
@@ -599,6 +599,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'vec', E'Venetian');
 INSERT INTO "list" ("id", "value") VALUES (E'vep', E'Veps');
 INSERT INTO "list" ("id", "value") VALUES (E'vro', E'Võro');
 INSERT INTO "list" ("id", "value") VALUES (E'wae', E'Walser');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'vls', E'West Flemish');
 INSERT INTO "list" ("id", "value") VALUES (E'mrj', E'Western Mari');

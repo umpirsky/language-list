@@ -38,7 +38,6 @@ arc,arameo
 sam,"arameo samaritano"
 aro,Araona
 arp,arapaho
-arn,araucano
 hy,armenio
 frp,Arpitan
 rup,arrumano
@@ -49,7 +48,7 @@ cch,atsam
 awa,avadhi
 av,avar
 ae,avéstico
-az,azerí
+az,azerbaiyano
 bfq,Badaga
 ksf,bafia
 bfd,bafut
@@ -88,7 +87,7 @@ bug,buginés
 bg,búlgaro
 bum,bulu
 bua,buriat
-kab,cabilio
+kab,cabila
 ks,cachemiro
 cad,caddo
 frc,"Cajun French"
@@ -107,7 +106,7 @@ chg,chagatái
 ch,chamorro
 ce,checheno
 cs,checo
-chr,cheroki
+chr,cheroqui
 chy,cheyene
 chb,chibcha
 cgg,chiga
@@ -213,7 +212,6 @@ guz,gusii
 hai,haida
 ht,haitiano
 hak,"Hakka Chinese"
-kln,halenjin
 ha,hausa
 haw,hawaiano
 he,hebreo
@@ -263,6 +261,7 @@ kbd,kabardiano
 kac,kachin
 kgp,Kaingang
 kkj,kako
+kln,kalenjin
 xal,kalmyk
 kam,kamba
 kbl,kanembu
@@ -280,6 +279,7 @@ krj,Kinaray-a
 rw,kinyarwanda
 ky,kirguís
 kiu,Kirmanjki
+rn,kiroundi
 tlh,klingon
 ksh,kölsch
 bkm,kom
@@ -298,6 +298,7 @@ kri,Krio
 kj,kuanyama
 kum,kumyk
 ku,kurdo
+ckb,"kurdo sorani"
 kru,kurukh
 gwi,kutchin
 kut,kutenai
@@ -355,7 +356,8 @@ man,mandingo
 gv,manés
 mni,manipuri
 mi,maorí
-mr,marathi
+arn,mapuche
+mr,maratí
 chm,marí
 mh,marshalés
 mwr,marwari
@@ -381,12 +383,13 @@ mos,mossi
 mua,mundang
 ttt,"Muslim Tat"
 mye,myene
-nqo,N’Ko
+nqo,n’ko
 naq,nama
 nap,napolitano
 na,nauruano
 nv,navajo
 nr,"ndebele meridional"
+nd,"ndebele septentrional"
 ng,ndonga
 nl,neerlandés
 dum,"neerlandés medieval"
@@ -445,23 +448,22 @@ root,raíz
 raj,rajasthani
 rap,rapanui
 rar,rarotongano
+rm,retorrománico
 rif,Riffian
 rgn,Romagnol
-rm,romanche
 rom,romaní
 rof,rombo
 rtm,Rotuman
 rug,Roviana
 ro,rumano
-rn,rundi
 ru,ruso
 rue,Rusyn
 rwk,rwa
 ssy,saho
 sah,sakha
 saq,samburu
-smn,"sami de Inari"
-smj,"sami de Lule"
+smn,"sami inari"
+smj,"sami lule"
 sma,"sami meridional"
 se,"sami septentrional"
 sms,"sami skolt"
@@ -496,7 +498,6 @@ bla,siksika
 szl,Silesian
 zbl,"símbolos Bliss"
 zxx,"sin contenido lingüístico"
-nd,sindebele
 sd,sindhi
 syr,siriaco
 syc,"siríaco clásico"
@@ -505,15 +506,14 @@ den,slave
 xog,soga
 sog,sogdiano
 so,somalí
-su,sondanés
 snk,soninké
-ckb,sorani
 nso,"sotho septentrional"
 azb,"South Azerbaijani"
 srn,"sranan tongo"
 sv,sueco
 suk,sukuma
 sux,sumerio
+su,sundanés
 sus,susu
 sw,swahili
 swc,"swahili del Congo"
@@ -583,6 +583,7 @@ vun,vunjo
 wal,walamo
 wae,walser
 war,waray
+wbp,Warlpiri
 was,washo
 guc,Wayuu
 vls,"West Flemish"

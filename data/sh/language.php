@@ -589,6 +589,7 @@
   'vot' => 'Votski',
   'vun' => 'vundžo',
   'wae' => 'Walser',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',

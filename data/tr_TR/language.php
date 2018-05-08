@@ -582,6 +582,7 @@
   'vot' => 'Votic',
   'vun' => 'Vunjo',
   'wae' => 'Walser',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'wuu' => 'Wu Çincesi',
   'hsn' => 'Xiang Çincesi',

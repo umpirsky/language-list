@@ -607,4 +607,5 @@
   'es_MX' => 'Mexican Spanish',
   'fr_CH' => 'Swiss French',
   'de_CH' => 'Swiss High German',
+  'wbp' => 'Warlpiri',
 );

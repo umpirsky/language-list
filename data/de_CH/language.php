@@ -580,6 +580,7 @@
   'wa' => 'Wallonisch',
   'wae' => 'Walser-Dialekte',
   'war' => 'Waray',
+  'wbp' => 'Warlpiri',
   'was' => 'Washo-Sprache',
   'guc' => 'Wayúu',
   'be' => 'Weissrussisch',

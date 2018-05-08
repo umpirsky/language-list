@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'Abchazisch');
 INSERT INTO "list" ("id", "value") VALUES (E'ada', E'Adangme');
@@ -395,7 +395,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'nyn', E'Nyankole');
 INSERT INTO "list" ("id", "value") VALUES (E'tog', E'Nyasa Tonga');
 INSERT INTO "list" ("id", "value") VALUES (E'nyo', E'Nyoro');
 INSERT INTO "list" ("id", "value") VALUES (E'nzi', E'Nzima');
-INSERT INTO "list" ("id", "value") VALUES (E'oc', E'Occitaans; Provençaals');
+INSERT INTO "list" ("id", "value") VALUES (E'oc', E'Occitaans');
 INSERT INTO "list" ("id", "value") VALUES (E'or', E'Odia');
 INSERT INTO "list" ("id", "value") VALUES (E'udm', E'Oedmoerts');
 INSERT INTO "list" ("id", "value") VALUES (E'uga', E'Oegaritisch');
@@ -571,6 +571,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'vun', E'Vunjo');
 INSERT INTO "list" ("id", "value") VALUES (E'wa', E'Waals');
 INSERT INTO "list" ("id", "value") VALUES (E'wae', E'Walser');
 INSERT INTO "list" ("id", "value") VALUES (E'war', E'Waray');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'was', E'Washo');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'cy', E'Welsh');

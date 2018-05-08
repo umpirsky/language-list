@@ -1,99 +1,4 @@
 id,value
-akz,Alabama
-arq,"Algerian Arabic"
-ase,"American Sign Language"
-njo,"Ao Naga"
-aro,Araona
-frp,Arpitan
-bfq,Badaga
-bqi,Bakhtiari
-bjn,Banjar
-bbc,"Batak Toba"
-bar,Bavarian
-bew,Betawi
-bpy,Bishnupriya
-brh,Brahui
-frc,"Cajun French"
-cps,Capiznon
-dtp,"Central Dusun"
-esu,"Central Yupik"
-qug,"Chimborazo Highland Quichua"
-arz,"Egyptian Arabic"
-egl,Emilian
-ext,Extremaduran
-hif,"Fiji Hindi"
-gur,Frafra
-gan,"Gan Chinese"
-aln,"Gheg Albanian"
-glk,Gilaki
-gom,"Goan Konkani"
-hak,"Hakka Chinese"
-izh,Ingrian
-jam,"Jamaican Creole English"
-jut,Jutish
-kgp,Kaingang
-ken,Kenyang
-khw,Khowar
-krj,Kinaray-a
-kiu,Kirmanjki
-avk,Kotava
-kri,Krio
-quc,Kʼicheʼ
-ltg,Latgalian
-lzz,Laz
-lij,Ligurian
-lfn,"Lingua Franca Nova"
-lzh,"Literary Chinese"
-liv,Livonian
-lmo,Lombard
-sli,"Lower Silesian"
-vmf,Main-Franconian
-mzn,Mazanderani
-mwv,Mentawai
-nan,"Min Nan Chinese"
-xmf,Mingrelian
-ary,"Moroccan Arabic"
-ttt,"Muslim Tat"
-yrl,Nheengatu
-nov,Novial
-pfl,"Palatine German"
-pdc,"Pennsylvania German"
-pcd,Picard
-pms,Piedmontese
-pdt,Plautdietsch
-pnt,Pontic
-prg,Prussian
-rif,Riffian
-rgn,Romagnol
-rtm,Rotuman
-rug,Roviana
-rue,Rusyn
-sgs,Samogitian
-sdc,"Sassarese Sardinian"
-stq,"Saterland Frisian"
-saz,Saurashtra
-sly,Selayar
-see,Seneca
-sei,Seri
-szl,Silesian
-azb,"South Azerbaijani"
-tly,Talysh
-fit,"Tornedalen Finnish"
-tkr,Tsakhur
-tsd,Tsakonian
-tcy,Tulu
-aeb,"Tunisian Arabic"
-tru,Turoyo
-vec,Venetian
-vep,Veps
-vro,Võro
-guc,Wayuu
-vls,"West Flemish"
-mrj,"Western Mari"
-wuu,"Wu Chinese"
-hsn,"Xiang Chinese"
-zea,Zeelandic
-gbz,"Zoroastrian Dari"
 el,ກຣີກ
 kl,ກຣີນແລນລິດ
 grb,ກຣີໂບ
@@ -607,3 +512,99 @@ ha,ເຮົາຊາ
 xh,ໂຮຊາ
 hai,ໄຮດາ
 ht,ໄຮຕຽນ
+akz,Alabama
+arq,"Algerian Arabic"
+ase,"American Sign Language"
+njo,"Ao Naga"
+aro,Araona
+frp,Arpitan
+bfq,Badaga
+bqi,Bakhtiari
+bjn,Banjar
+bbc,"Batak Toba"
+bar,Bavarian
+bew,Betawi
+bpy,Bishnupriya
+brh,Brahui
+frc,"Cajun French"
+cps,Capiznon
+dtp,"Central Dusun"
+esu,"Central Yupik"
+qug,"Chimborazo Highland Quichua"
+arz,"Egyptian Arabic"
+egl,Emilian
+ext,Extremaduran
+hif,"Fiji Hindi"
+gur,Frafra
+gan,"Gan Chinese"
+aln,"Gheg Albanian"
+glk,Gilaki
+gom,"Goan Konkani"
+hak,"Hakka Chinese"
+izh,Ingrian
+jam,"Jamaican Creole English"
+jut,Jutish
+kgp,Kaingang
+ken,Kenyang
+khw,Khowar
+krj,Kinaray-a
+kiu,Kirmanjki
+avk,Kotava
+kri,Krio
+quc,Kʼicheʼ
+ltg,Latgalian
+lzz,Laz
+lij,Ligurian
+lfn,"Lingua Franca Nova"
+lzh,"Literary Chinese"
+liv,Livonian
+lmo,Lombard
+sli,"Lower Silesian"
+vmf,Main-Franconian
+mzn,Mazanderani
+mwv,Mentawai
+nan,"Min Nan Chinese"
+xmf,Mingrelian
+ary,"Moroccan Arabic"
+ttt,"Muslim Tat"
+yrl,Nheengatu
+nov,Novial
+pfl,"Palatine German"
+pdc,"Pennsylvania German"
+pcd,Picard
+pms,Piedmontese
+pdt,Plautdietsch
+pnt,Pontic
+prg,Prussian
+rif,Riffian
+rgn,Romagnol
+rtm,Rotuman
+rug,Roviana
+rue,Rusyn
+sgs,Samogitian
+sdc,"Sassarese Sardinian"
+stq,"Saterland Frisian"
+saz,Saurashtra
+sly,Selayar
+see,Seneca
+sei,Seri
+szl,Silesian
+azb,"South Azerbaijani"
+tly,Talysh
+fit,"Tornedalen Finnish"
+tkr,Tsakhur
+tsd,Tsakonian
+tcy,Tulu
+aeb,"Tunisian Arabic"
+tru,Turoyo
+vec,Venetian
+vep,Veps
+vro,Võro
+wbp,Warlpiri
+guc,Wayuu
+vls,"West Flemish"
+mrj,"Western Mari"
+wuu,"Wu Chinese"
+hsn,"Xiang Chinese"
+zea,Zeelandic
+gbz,"Zoroastrian Dari"

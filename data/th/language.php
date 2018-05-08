@@ -607,4 +607,5 @@
   'fr_CA' => 'Canadian French',
   'es_419' => 'Latin American Spanish',
   'es_MX' => 'Mexican Spanish',
+  'wbp' => 'Warlpiri',
 );

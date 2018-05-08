@@ -51,7 +51,7 @@ az: azerbaijano
 bfq: Badaga
 ksf: bafia
 bfd: bafut
-nds: baixo-alemão
+nds: 'baixo alemão'
 bqi: Bakhtiari
 ban: balinês
 bal: balúchi
@@ -82,7 +82,7 @@ bs: bósnio
 brh: Brahui
 bra: braj
 br: bretão
-bug: buguinês
+bug: buginês
 bg: búlgaro
 bum: bulu
 bua: buriat
@@ -285,6 +285,7 @@ km: khmer
 kho: khotanês
 khw: Khowar
 krj: Kinaray-a
+rw: kinyarwanda
 kiu: Kirmanjki
 tlh: klingon
 ksh: kölsch
@@ -457,7 +458,6 @@ ro: romeno
 root: Root
 rtm: Rotuman
 rug: Roviana
-rw: ruanda
 rn: rundi
 ru: russo
 rue: Rusyn
@@ -486,7 +486,6 @@ see: seneca
 srr: serere
 sei: Seri
 sr: sérvio
-dsb: 'sérvio baixo'
 sh: servo-croata
 ksb: shambala
 shn: shan
@@ -505,7 +504,8 @@ den: slave
 sog: sogdiano
 so: somali
 snk: soninquê
-hsb: 'sorábio superior'
+hsb: 'sorábio alto'
+dsb: 'sorábio baixo'
 ckb: 'sorâni curdo'
 sus: sosso
 st: 'soto do sul'
@@ -526,7 +526,7 @@ ty: taitiano
 tg: tajique
 tly: Talysh
 tmh: tamaxeque
-tzm: tamazight
+tzm: 'tamazight do Atlas Central'
 zgh: 'tamazight marroquino padrão'
 ta: tâmil
 trv: taroko
@@ -562,7 +562,7 @@ ota: 'turco otomano'
 tk: turcomeno
 tru: Turoyo
 tvl: tuvaluano
-tyv: tuvinian
+tyv: tuviniano
 tw: twi
 kcg: tyap
 uk: ucraniano
@@ -586,6 +586,7 @@ vun: vunjo
 wal: walamo
 wae: walser
 war: waray
+wbp: Warlpiri
 was: washo
 guc: Wayuu
 vls: 'West Flemish'

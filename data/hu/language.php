@@ -591,6 +591,7 @@
   'vun' => 'vunjo',
   'cy' => 'walesi',
   'wae' => 'walser',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',

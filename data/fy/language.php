@@ -579,6 +579,7 @@
   'wal' => 'Walamo',
   'wae' => 'Walser',
   'war' => 'Waray',
+  'wbp' => 'Warlpiri',
   'was' => 'Washo',
   'guc' => 'Wayuu',
   'cy' => 'Welsk',

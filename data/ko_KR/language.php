@@ -602,6 +602,7 @@
   'vec' => 'Venetian',
   'vep' => 'Veps',
   'vro' => 'Võro',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'wuu' => 'Wu Chinese',

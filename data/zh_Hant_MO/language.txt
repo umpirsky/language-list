@@ -606,3 +606,4 @@
 韃靼文 (tt)
 邏輯文 (jbo)
 贛語 (gan)
+Warlpiri (wbp)

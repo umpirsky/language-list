@@ -193,7 +193,7 @@ ky,киргизский
 zh,китайский
 quc,киче
 syc,"классический сирийский"
-tlh,клингон
+tlh,клингонский
 khq,"койра чиини"
 ses,"койраборо сенни"
 bkm,ком
@@ -268,7 +268,7 @@ mi,маори
 mr,маратхи
 mwr,марвари
 chm,"марийский (черемисский)"
-mh,маршальский
+mh,маршалльский
 mas,масаи
 maf,мафа
 jmc,мачаме
@@ -375,9 +375,9 @@ sd,синдхи
 syr,сирийский
 scn,сицилийский
 sms,скольт-саамский
+den,слейви
 sk,словацкий
 sl,словенский
-den,слэйви
 xog,сога
 sog,согдийский
 so,сомали
@@ -600,6 +600,7 @@ aeb,"Tunisian Arabic"
 vec,Venetian
 vep,Veps
 vro,Võro
+wbp,Warlpiri
 guc,Wayuu
 vls,"West Flemish"
 mrj,"Western Mari"

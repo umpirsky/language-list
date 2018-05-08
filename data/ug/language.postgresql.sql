@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'ئابخازچە');
 INSERT INTO "list" ("id", "value") VALUES (E'ace', E'ئاتجېچە');
@@ -601,6 +601,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'tru', E'Turoyo');
 INSERT INTO "list" ("id", "value") VALUES (E'vec', E'Venetian');
 INSERT INTO "list" ("id", "value") VALUES (E'vep', E'Veps');
 INSERT INTO "list" ("id", "value") VALUES (E'vro', E'Võro');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'vls', E'West Flemish');
 INSERT INTO "list" ("id", "value") VALUES (E'mrj', E'Western Mari');

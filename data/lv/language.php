@@ -591,6 +591,7 @@
   'vot' => 'votu',
   'vun' => 'vundžo',
   'guc' => 'Wayuu',
+  'wbp' => 'Warlpiri',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',
   'wuu' => 'Wu Chinese',

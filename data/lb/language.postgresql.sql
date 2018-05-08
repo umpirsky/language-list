@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'Abchasesch');
 INSERT INTO "list" ("id", "value") VALUES (E'ace', E'Aceh-Sprooch');
@@ -582,6 +582,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'cy', E'Walisesch');
 INSERT INTO "list" ("id", "value") VALUES (E'wae', E'Walliserdäitsch');
 INSERT INTO "list" ("id", "value") VALUES (E'wa', E'Wallounesch');
 INSERT INTO "list" ("id", "value") VALUES (E'war', E'Waray');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'was', E'Washo-Sprooch');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'vep', E'Wepsesch');

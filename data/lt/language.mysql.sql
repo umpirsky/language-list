@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('zbl', '„Bliss“ simbolių');
 INSERT INTO `list` (`id`, `value`) VALUES ('ab', 'abchazų');
@@ -596,6 +596,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('wo', 'volofų');
 INSERT INTO `list` (`id`, `value`) VALUES ('vro', 'võro');
 INSERT INTO `list` (`id`, `value`) VALUES ('vot', 'votik');
 INSERT INTO `list` (`id`, `value`) VALUES ('vun', 'vunjo');
+INSERT INTO `list` (`id`, `value`) VALUES ('wbp', 'Warlpiri');
 INSERT INTO `list` (`id`, `value`) VALUES ('zap', 'zapotekų');
 INSERT INTO `list` (`id`, `value`) VALUES ('dje', 'zarmų');
 INSERT INTO `list` (`id`, `value`) VALUES ('zza', 'zaza');

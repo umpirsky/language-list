@@ -87,6 +87,7 @@ cay: Cayuga
 ceb: cebuansk
 tzm: 'Central Atlas Tamazight'
 dtp: 'Central Dusun'
+ckb: 'Central Kurdish'
 esu: 'Central Yupik'
 shu: 'Chadian Arabic'
 chg: chagatai
@@ -493,7 +494,6 @@ xog: Soga
 sog: sogdisk
 so: somali
 snk: soninke
-ckb: 'Sorani Kurdish'
 azb: 'South Azerbaijani'
 es: spansk
 srn: 'sranan tongo'
@@ -585,6 +585,7 @@ wal: walamo
 cy: walisisk
 wae: Walser
 war: waray
+wbp: Warlpiri
 was: washo
 guc: Wayuu
 vls: 'West Flemish'

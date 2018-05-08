@@ -580,6 +580,7 @@
   'vun' => 'vunjo',
   'wae' => 'walser',
   'war' => 'waray-waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',

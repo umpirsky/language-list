@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('ab', 'abkhasisk');
 INSERT INTO `list` (`id`, `value`) VALUES ('ace', 'achinesisk');
@@ -582,6 +582,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('wal', 'walamo');
 INSERT INTO `list` (`id`, `value`) VALUES ('cy', 'walisisk');
 INSERT INTO `list` (`id`, `value`) VALUES ('wae', 'walsertysk');
 INSERT INTO `list` (`id`, `value`) VALUES ('war', 'waray');
+INSERT INTO `list` (`id`, `value`) VALUES ('wbp', 'Warlpiri');
 INSERT INTO `list` (`id`, `value`) VALUES ('was', 'washo');
 INSERT INTO `list` (`id`, `value`) VALUES ('guc', 'Wayuu');
 INSERT INTO `list` (`id`, `value`) VALUES ('vls', 'West Flemish');

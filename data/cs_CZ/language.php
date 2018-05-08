@@ -590,6 +590,7 @@
   'vot' => 'votština',
   'vun' => 'vunjo',
   'war' => 'warajština',
+  'wbp' => 'Warlpiri',
   'was' => 'waština',
   'guc' => 'wayúuština',
   'wal' => 'wolajtština',

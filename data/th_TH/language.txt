@@ -606,3 +606,4 @@
 Canadian French (fr_CA)
 Latin American Spanish (es_419)
 Mexican Spanish (es_MX)
+Warlpiri (wbp)

@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('ab', 'Abchazisch');
 INSERT INTO `list` (`id`, `value`) VALUES ('ada', 'Adangme');
@@ -478,7 +478,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('see', 'Seneca');
 INSERT INTO `list` (`id`, `value`) VALUES ('srr', 'Serer');
 INSERT INTO `list` (`id`, `value`) VALUES ('sei', 'Seri');
 INSERT INTO `list` (`id`, `value`) VALUES ('sr', 'Servisch');
-INSERT INTO `list` (`id`, `value`) VALUES ('sh', 'Servokroatisch');
+INSERT INTO `list` (`id`, `value`) VALUES ('sh', 'Servo-Kroatisch');
 INSERT INTO `list` (`id`, `value`) VALUES ('ksb', 'Shambala');
 INSERT INTO `list` (`id`, `value`) VALUES ('shn', 'Shan');
 INSERT INTO `list` (`id`, `value`) VALUES ('swb', 'Shimaore');
@@ -571,6 +571,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('vun', 'Vunjo');
 INSERT INTO `list` (`id`, `value`) VALUES ('wa', 'Waals');
 INSERT INTO `list` (`id`, `value`) VALUES ('wae', 'Walser');
 INSERT INTO `list` (`id`, `value`) VALUES ('war', 'Waray');
+INSERT INTO `list` (`id`, `value`) VALUES ('wbp', 'Warlpiri');
 INSERT INTO `list` (`id`, `value`) VALUES ('was', 'Washo');
 INSERT INTO `list` (`id`, `value`) VALUES ('guc', 'Wayuu');
 INSERT INTO `list` (`id`, `value`) VALUES ('cy', 'Welsh');

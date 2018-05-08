@@ -220,6 +220,7 @@ car,Carib
 cay,Cayuga
 tzm,"Central Atlas Tamazight"
 dtp,"Central Dusun"
+ckb,"Central Kurdish"
 esu,"Central Yupik"
 shu,"Chadian Arabic"
 chg,Chagatai
@@ -521,7 +522,6 @@ sly,sly
 xog,Soga
 sog,Sogdien
 snk,Soninke
-ckb,"Sorani Kurdish"
 nr,"South Ndebele"
 alt,"Southern Altai"
 sma,"Southern Sami"
@@ -586,6 +586,7 @@ vun,Vunjo
 wa,Walloon
 wae,Walser
 war,Waray
+wbp,Warlpiri
 was,Washo
 guc,Wayuu
 mrj,"Western Mari"

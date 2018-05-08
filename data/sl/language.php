@@ -588,6 +588,7 @@
   'vun' => 'vunjo',
   'frs' => 'vzhodna frizijščina',
   'wae' => 'Walser',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',

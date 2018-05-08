@@ -603,6 +603,7 @@
   'zu' => 'zulu',
   'zun' => 'zuni dili',
   'wae' => 'Walser',
+  'wbp' => 'Warlpiri',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
   'mrj' => 'Western Mari',

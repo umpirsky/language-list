@@ -588,6 +588,7 @@
   'mrj' => 'vuorimari',
   'wae' => 'walser',
   'war' => 'waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'wayuu',
   'wal' => 'wolaitta',

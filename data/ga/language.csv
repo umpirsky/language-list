@@ -104,6 +104,7 @@ cay,Cayuga
 qu,Ceatsuais
 tzm,"Central Atlas Tamazight"
 dtp,"Central Dusun"
+ckb,"Central Kurdish"
 esu,"Central Yupik"
 shu,"Chadian Arabic"
 chg,Chagatai
@@ -507,7 +508,6 @@ sog,Sogdánais
 so,Somáilis
 ts,Songais
 snk,Soninke
-ckb,"Sorani Kurdish"
 dsb,"Sorbais Íochtarach"
 hsb,"Sorbais Uachtarach"
 azb,"South Azerbaijani"
@@ -593,6 +593,7 @@ vot,Votic
 vun,Vunjo
 wae,Walser
 war,Waray
+wbp,Warlpiri
 was,Washo
 wal,Wolaytta
 wuu,"Wu Chinese"

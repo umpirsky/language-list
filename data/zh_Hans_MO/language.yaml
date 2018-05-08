@@ -19,7 +19,7 @@ am: 阿姆哈拉文
 ach: 阿乔利文
 as: 阿萨姆文
 az: 阿塞拜疆文
-ast: 阿斯图里亚思文
+ast: 阿斯图里亚思特文
 asa: 阿苏文
 av: 阿瓦尔文
 awa: 阿瓦乔文
@@ -37,7 +37,7 @@ de_AT: 奥地利德文
 oj: 奥吉布瓦文
 oc: 奥克西唐文
 or: 奥里亚文
-om: 奥罗莫文
+om: 奥洛莫文
 osa: 奥萨格文
 os: 奥塞梯文
 ota: 奥托曼土耳其文
@@ -127,9 +127,9 @@ phn: 腓尼基文
 fj: 斐济文
 fi: 芬兰文
 fon: 丰文
-ff: 夫拉文
 fur: 弗留利文
 nl_BE: 佛兰芒文
+ff: 夫拉文
 qu: 盖丘亚文
 sba: 甘拜文
 swc: 刚果斯瓦希里文
@@ -288,7 +288,7 @@ jmc: 马切姆文
 mh: 马绍尔文
 mai: 迈蒂利文
 mnc: 满文
-mdr: 曼达尔
+mdr: 曼达尔文
 man: 曼丁哥文
 mni: 曼尼普里文
 lol: 芒戈文
@@ -334,6 +334,8 @@ nb: 挪威博克马尔文
 nn: 挪威尼诺斯克文
 'no': 挪威文
 nog: 诺盖文
+pt_PT: 欧洲葡萄牙文
+es_ES: 欧洲西班牙文
 pal: 帕拉维文
 pau: 帕劳文
 pap: 帕皮亚门托文
@@ -475,8 +477,6 @@ yao: 瑶族文
 ybb: 耶姆巴文
 iba: 伊班文
 ibb: 伊比比奥文
-pt_PT: 伊比利亚葡萄牙文
-es_ES: 伊比利亚西班牙文
 ig: 伊布文
 io: 伊多文
 ilo: 伊洛干诺文
@@ -599,6 +599,7 @@ tru: Turoyo
 vec: Venetian
 vep: Veps
 vro: Võro
+wbp: Warlpiri
 guc: Wayuu
 vls: 'West Flemish'
 mrj: 'Western Mari'

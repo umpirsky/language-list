@@ -195,7 +195,6 @@ hi: hindi
 ho: hirimotu
 hmn: hmongspråk
 hup: hupa
-gd: höglandsskotska
 hsb: högsorbiska
 iba: ibanska
 ibb: ibibio
@@ -491,6 +490,7 @@ szl: silesiska
 sd: sindhi
 si: singalesiska
 sms: skoltsamiska
+gd: 'skotsk gäliska'
 sco: skotska
 den: slavej
 sk: slovakiska
@@ -587,6 +587,7 @@ wal: walamo
 cy: walesiska
 wae: walsertyska
 war: waray
+wbp: Warlpiri
 was: washo
 guc: Wayuu
 wo: wolof

@@ -1,20 +1,19 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'asa', E'آسو');
-INSERT INTO "list" ("id", "value") VALUES (E'es_419', E'إسبانية أمريكا اللاتينية');
 INSERT INTO "list" ("id", "value") VALUES (E'bss', E'أكوس');
 INSERT INTO "list" ("id", "value") VALUES (E'arc', E'الآرامية');
-INSERT INTO "list" ("id", "value") VALUES (E'sam', E'الآرامية السومارية');
+INSERT INTO "list" ("id", "value") VALUES (E'sam', E'الآرامية السامرية');
+INSERT INTO "list" ("id", "value") VALUES (E'asa', E'الآسو');
 INSERT INTO "list" ("id", "value") VALUES (E'ain', E'الآينوية');
 INSERT INTO "list" ("id", "value") VALUES (E'ab', E'الأبخازية');
 INSERT INTO "list" ("id", "value") VALUES (E'cch', E'الأتسام');
 INSERT INTO "list" ("id", "value") VALUES (E'ace', E'الأتشينيزية');
 INSERT INTO "list" ("id", "value") VALUES (E'ada', E'الأدانجمية');
 INSERT INTO "list" ("id", "value") VALUES (E'udm', E'الأدمرت');
-INSERT INTO "list" ("id", "value") VALUES (E'ady', E'الأديجه');
+INSERT INTO "list" ("id", "value") VALUES (E'ady', E'الأديغة');
 INSERT INTO "list" ("id", "value") VALUES (E'az', E'الأذربيجانية');
 INSERT INTO "list" ("id", "value") VALUES (E'arp', E'الأراباهو');
-INSERT INTO "list" ("id", "value") VALUES (E'an', E'الأراجونية');
+INSERT INTO "list" ("id", "value") VALUES (E'an', E'الأراغونية');
 INSERT INTO "list" ("id", "value") VALUES (E'arw', E'الأراواكية');
 INSERT INTO "list" ("id", "value") VALUES (E'ur', E'الأردية');
 INSERT INTO "list" ("id", "value") VALUES (E'myv', E'الأرزية');
@@ -22,9 +21,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'hy', E'الأرمينية');
 INSERT INTO "list" ("id", "value") VALUES (E'arn', E'الأروكانية');
 INSERT INTO "list" ("id", "value") VALUES (E'rup', E'الأرومانيان');
 INSERT INTO "list" ("id", "value") VALUES (E'as', E'الأسامية');
-INSERT INTO "list" ("id", "value") VALUES (E'lad', E'الإسباعبرية');
 INSERT INTO "list" ("id", "value") VALUES (E'es', E'الإسبانية');
 INSERT INTO "list" ("id", "value") VALUES (E'es_ES', E'الإسبانية الأوروبية');
+INSERT INTO "list" ("id", "value") VALUES (E'es_MX', E'الإسبانية المكسيكية');
+INSERT INTO "list" ("id", "value") VALUES (E'es_419', E'الإسبانية أمريكا اللاتينية');
 INSERT INTO "list" ("id", "value") VALUES (E'eo', E'الإسبرانتو');
 INSERT INTO "list" ("id", "value") VALUES (E'ast', E'الأسترية');
 INSERT INTO "list" ("id", "value") VALUES (E'et', E'الإستونية');
@@ -32,7 +32,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'sco', E'الأسكتلندية');
 INSERT INTO "list" ("id", "value") VALUES (E'agq', E'الأغم');
 INSERT INTO "list" ("id", "value") VALUES (E'ug', E'الأغورية');
 INSERT INTO "list" ("id", "value") VALUES (E'aa', E'الأفارية');
-INSERT INTO "list" ("id", "value") VALUES (E'av', E'الأفاريكية');
 INSERT INTO "list" ("id", "value") VALUES (E'af', E'الأفريقانية');
 INSERT INTO "list" ("id", "value") VALUES (E'afh', E'الأفريهيلية');
 INSERT INTO "list" ("id", "value") VALUES (E'ae', E'الأفستية');
@@ -67,15 +66,17 @@ INSERT INTO "list" ("id", "value") VALUES (E'inh', E'الإنجوشية');
 INSERT INTO "list" ("id", "value") VALUES (E'anp', E'الأنجيكا');
 INSERT INTO "list" ("id", "value") VALUES (E'id', E'الإندونيسية');
 INSERT INTO "list" ("id", "value") VALUES (E'awa', E'الأوادية');
+INSERT INTO "list" ("id", "value") VALUES (E'av', E'الأوارية');
 INSERT INTO "list" ("id", "value") VALUES (E'oj', E'الأوجيبوا');
 INSERT INTO "list" ("id", "value") VALUES (E'om', E'الأورومو');
 INSERT INTO "list" ("id", "value") VALUES (E'or', E'الأورييا');
-INSERT INTO "list" ("id", "value") VALUES (E'uz', E'الأوزباكية');
+INSERT INTO "list" ("id", "value") VALUES (E'uz', E'الأوزبكية');
 INSERT INTO "list" ("id", "value") VALUES (E'osa', E'الأوساج');
 INSERT INTO "list" ("id", "value") VALUES (E'os', E'الأوسيتيك');
 INSERT INTO "list" ("id", "value") VALUES (E'uk', E'الأوكرانية');
 INSERT INTO "list" ("id", "value") VALUES (E'oc', E'الأوكيتانية');
 INSERT INTO "list" ("id", "value") VALUES (E'iba', E'الإيبان');
+INSERT INTO "list" ("id", "value") VALUES (E'ibb', E'الإيبيبيوية');
 INSERT INTO "list" ("id", "value") VALUES (E'ig', E'الإيجبو');
 INSERT INTO "list" ("id", "value") VALUES (E'io', E'الإيدو');
 INSERT INTO "list" ("id", "value") VALUES (E'ga', E'الأيرلندية');
@@ -113,7 +114,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'byn', E'البلينية');
 INSERT INTO "list" ("id", "value") VALUES (E'pa', E'البنجابية');
 INSERT INTO "list" ("id", "value") VALUES (E'bn', E'البنغالية');
 INSERT INTO "list" ("id", "value") VALUES (E'pal', E'البهلوية');
-INSERT INTO "list" ("id", "value") VALUES (E'bho', E'البهوجبرية');
+INSERT INTO "list" ("id", "value") VALUES (E'bho', E'البهوجبورية');
 INSERT INTO "list" ("id", "value") VALUES (E'brx', E'البودو');
 INSERT INTO "list" ("id", "value") VALUES (E'my', E'البورمية');
 INSERT INTO "list" ("id", "value") VALUES (E'bs', E'البوسنية');
@@ -123,7 +124,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'pon', E'البوهنبيايان');
 INSERT INTO "list" ("id", "value") VALUES (E'bej', E'البيجا');
 INSERT INTO "list" ("id", "value") VALUES (E'bi', E'البيسلامية');
 INSERT INTO "list" ("id", "value") VALUES (E'bik', E'البيكولية');
-INSERT INTO "list" ("id", "value") VALUES (E'be', E'البيلوروسية');
+INSERT INTO "list" ("id", "value") VALUES (E'be', E'البيلاروسية');
 INSERT INTO "list" ("id", "value") VALUES (E'bem', E'البيمبا');
 INSERT INTO "list" ("id", "value") VALUES (E'bin', E'البينية');
 INSERT INTO "list" ("id", "value") VALUES (E'tl', E'التاغالوغية');
@@ -131,32 +132,32 @@ INSERT INTO "list" ("id", "value") VALUES (E'tmh', E'التاماشيك');
 INSERT INTO "list" ("id", "value") VALUES (E'tum', E'التامبوكا');
 INSERT INTO "list" ("id", "value") VALUES (E'ta', E'التاميلية');
 INSERT INTO "list" ("id", "value") VALUES (E'ty', E'التاهيتية');
+INSERT INTO "list" ("id", "value") VALUES (E'kcg', E'التايابية');
 INSERT INTO "list" ("id", "value") VALUES (E'th', E'التايلاندية');
 INSERT INTO "list" ("id", "value") VALUES (E'bo', E'التبتية');
 INSERT INTO "list" ("id", "value") VALUES (E'tt', E'التتارية');
-INSERT INTO "list" ("id", "value") VALUES (E'tyv', E'التُرك');
 INSERT INTO "list" ("id", "value") VALUES (E'tk', E'التركمانية');
 INSERT INTO "list" ("id", "value") VALUES (E'tr', E'التركية');
 INSERT INTO "list" ("id", "value") VALUES (E'ota', E'التركية العثمانية');
-INSERT INTO "list" ("id", "value") VALUES (E'crh', E'التركية الكريمينية');
 INSERT INTO "list" ("id", "value") VALUES (E'tn', E'التسوانية');
 INSERT INTO "list" ("id", "value") VALUES (E'tsi', E'التسيمشيان');
 INSERT INTO "list" ("id", "value") VALUES (E'chg', E'التشاجاتاي');
 INSERT INTO "list" ("id", "value") VALUES (E'ch', E'التشامورو');
-INSERT INTO "list" ("id", "value") VALUES (E'cv', E'التشفاش');
 INSERT INTO "list" ("id", "value") VALUES (E'chk', E'التشكيزية');
+INSERT INTO "list" ("id", "value") VALUES (E'cv', E'التشوفاشي');
 INSERT INTO "list" ("id", "value") VALUES (E'chb', E'التشيبشا');
 INSERT INTO "list" ("id", "value") VALUES (E'cs', E'التشيكية');
+INSERT INTO "list" ("id", "value") VALUES (E'tig', E'التغرية');
+INSERT INTO "list" ("id", "value") VALUES (E'ti', E'التغرينية');
 INSERT INTO "list" ("id", "value") VALUES (E'tli', E'التلينغيتية');
 INSERT INTO "list" ("id", "value") VALUES (E'zgh', E'التمازيغية المغربية القياسية');
 INSERT INTO "list" ("id", "value") VALUES (E'tvl', E'التوفالو');
+INSERT INTO "list" ("id", "value") VALUES (E'tyv', E'التوفية');
 INSERT INTO "list" ("id", "value") VALUES (E'tpi', E'التوك بيسين');
 INSERT INTO "list" ("id", "value") VALUES (E'tkl', E'التوكيلاو');
 INSERT INTO "list" ("id", "value") VALUES (E'to', E'التونغية');
 INSERT INTO "list" ("id", "value") VALUES (E'tw', E'التوي');
 INSERT INTO "list" ("id", "value") VALUES (E'tet', E'التيتم');
-INSERT INTO "list" ("id", "value") VALUES (E'tig', E'التيجر');
-INSERT INTO "list" ("id", "value") VALUES (E'ti', E'التيجرينيا');
 INSERT INTO "list" ("id", "value") VALUES (E'ter', E'التيرينو');
 INSERT INTO "list" ("id", "value") VALUES (E'tiv', E'التيف');
 INSERT INTO "list" ("id", "value") VALUES (E'te', E'التيلجو');
@@ -169,14 +170,12 @@ INSERT INTO "list" ("id", "value") VALUES (E'gay', E'الجايو');
 INSERT INTO "list" ("id", "value") VALUES (E'gba', E'الجبيا');
 INSERT INTO "list" ("id", "value") VALUES (E'root', E'الجذر');
 INSERT INTO "list" ("id", "value") VALUES (E'grb', E'الجريبو');
+INSERT INTO "list" ("id", "value") VALUES (E'gez', E'الجعزية');
 INSERT INTO "list" ("id", "value") VALUES (E'gon', E'الجندي');
 INSERT INTO "list" ("id", "value") VALUES (E'kaj', E'الجو');
 INSERT INTO "list" ("id", "value") VALUES (E'gn', E'الجواراني');
 INSERT INTO "list" ("id", "value") VALUES (E'ka', E'الجورجية');
 INSERT INTO "list" ("id", "value") VALUES (E'gor', E'الجورونتالو');
-INSERT INTO "list" ("id", "value") VALUES (E'jrb', E'الجيدو - العربي');
-INSERT INTO "list" ("id", "value") VALUES (E'jpr', E'الجيدو - الفارسي');
-INSERT INTO "list" ("id", "value") VALUES (E'gez', E'الجيز');
 INSERT INTO "list" ("id", "value") VALUES (E'hit', E'الحثية');
 INSERT INTO "list" ("id", "value") VALUES (E'km', E'الخميرية');
 INSERT INTO "list" ("id", "value") VALUES (E'kho', E'الخوتانيز');
@@ -186,17 +185,19 @@ INSERT INTO "list" ("id", "value") VALUES (E'dak', E'الداكوتا');
 INSERT INTO "list" ("id", "value") VALUES (E'da', E'الدانماركية');
 INSERT INTO "list" ("id", "value") VALUES (E'dyu', E'الدايلا');
 INSERT INTO "list" ("id", "value") VALUES (E'din', E'الدنكا');
-INSERT INTO "list" ("id", "value") VALUES (E'doi', E'الدوجري');
 INSERT INTO "list" ("id", "value") VALUES (E'dgr', E'الدوجريب');
+INSERT INTO "list" ("id", "value") VALUES (E'doi', E'الدوجرية');
 INSERT INTO "list" ("id", "value") VALUES (E'del', E'الديلوير');
 INSERT INTO "list" ("id", "value") VALUES (E'dua', E'الديولا');
 INSERT INTO "list" ("id", "value") VALUES (E'rap', E'الراباني');
 INSERT INTO "list" ("id", "value") VALUES (E'raj', E'الراجاسثانية');
 INSERT INTO "list" ("id", "value") VALUES (E'rar', E'الراروتونجاني');
 INSERT INTO "list" ("id", "value") VALUES (E'rn', E'الرندي');
+INSERT INTO "list" ("id", "value") VALUES (E'rwk', E'الروا');
 INSERT INTO "list" ("id", "value") VALUES (E'ru', E'الروسية');
 INSERT INTO "list" ("id", "value") VALUES (E'rm', E'الرومانشية');
 INSERT INTO "list" ("id", "value") VALUES (E'ro', E'الرومانية');
+INSERT INTO "list" ("id", "value") VALUES (E'rof', E'الرومبو');
 INSERT INTO "list" ("id", "value") VALUES (E'zap', E'الزابوتيك');
 INSERT INTO "list" ("id", "value") VALUES (E'dje', E'الزارمية');
 INSERT INTO "list" ("id", "value") VALUES (E'za', E'الزهيونج');
@@ -216,7 +217,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'srn', E'السرانان تونجو
 INSERT INTO "list" ("id", "value") VALUES (E'sc', E'السردينية');
 INSERT INTO "list" ("id", "value") VALUES (E'srr', E'السرر');
 INSERT INTO "list" ("id", "value") VALUES (E'syr', E'السريانية');
-INSERT INTO "list" ("id", "value") VALUES (E'ckb', E'السريانية الكردية');
 INSERT INTO "list" ("id", "value") VALUES (E'sms', E'السكولت سامي');
 INSERT INTO "list" ("id", "value") VALUES (E'den', E'السلافية');
 INSERT INTO "list" ("id", "value") VALUES (E'sk', E'السلوفاكية');
@@ -224,19 +224,22 @@ INSERT INTO "list" ("id", "value") VALUES (E'sl', E'السلوفانية');
 INSERT INTO "list" ("id", "value") VALUES (E'sd', E'السندية');
 INSERT INTO "list" ("id", "value") VALUES (E'sa', E'السنسكريتية');
 INSERT INTO "list" ("id", "value") VALUES (E'si', E'السنهالية');
+INSERT INTO "list" ("id", "value") VALUES (E'see', E'السنيكا');
 INSERT INTO "list" ("id", "value") VALUES (E'ss', E'السواتي');
 INSERT INTO "list" ("id", "value") VALUES (E'sw', E'السواحلية');
 INSERT INTO "list" ("id", "value") VALUES (E'st', E'السوتو الجنوبية');
 INSERT INTO "list" ("id", "value") VALUES (E'nso', E'السوتو الشمالية');
 INSERT INTO "list" ("id", "value") VALUES (E'sog', E'السوجدين');
+INSERT INTO "list" ("id", "value") VALUES (E'ckb', E'السورانية الكردية');
 INSERT INTO "list" ("id", "value") VALUES (E'sus', E'السوسو');
+INSERT INTO "list" ("id", "value") VALUES (E'xog', E'السوغا');
 INSERT INTO "list" ("id", "value") VALUES (E'suk', E'السوكوما');
 INSERT INTO "list" ("id", "value") VALUES (E'sux', E'السومارية');
 INSERT INTO "list" ("id", "value") VALUES (E'ts', E'السونجا');
 INSERT INTO "list" ("id", "value") VALUES (E'su', E'السوندانية');
 INSERT INTO "list" ("id", "value") VALUES (E'snk', E'السونينك');
 INSERT INTO "list" ("id", "value") VALUES (E'sv', E'السويدية');
-INSERT INTO "list" ("id", "value") VALUES (E'ceb', E'السيبيونو');
+INSERT INTO "list" ("id", "value") VALUES (E'ceb', E'السيبونية');
 INSERT INTO "list" ("id", "value") VALUES (E'ii', E'السيتشيون يي');
 INSERT INTO "list" ("id", "value") VALUES (E'sid', E'السيدامو');
 INSERT INTO "list" ("id", "value") VALUES (E'bla', E'السيكسيكية');
@@ -262,12 +265,14 @@ INSERT INTO "list" ("id", "value") VALUES (E'he', E'العبرية');
 INSERT INTO "list" ("id", "value") VALUES (E'ar', E'العربية');
 INSERT INTO "list" ("id", "value") VALUES (E'shu', E'العربية التشادية');
 INSERT INTO "list" ("id", "value") VALUES (E'ar_001', E'العربية الرسمية الحديثة');
+INSERT INTO "list" ("id", "value") VALUES (E'jrb', E'العربية اليهودية');
 INSERT INTO "list" ("id", "value") VALUES (E'gag', E'الغاغوز');
 INSERT INTO "list" ("id", "value") VALUES (E'gu', E'الغوجاراتية');
 INSERT INTO "list" ("id", "value") VALUES (E'guz', E'الغيزية');
 INSERT INTO "list" ("id", "value") VALUES (E'gd', E'الغيلية الأسكتلندية');
 INSERT INTO "list" ("id", "value") VALUES (E'fa', E'الفارسية');
 INSERT INTO "list" ("id", "value") VALUES (E'peo', E'الفارسية القديمة');
+INSERT INTO "list" ("id", "value") VALUES (E'jpr', E'الفارسية اليهودية');
 INSERT INTO "list" ("id", "value") VALUES (E'fo', E'الفارويز');
 INSERT INTO "list" ("id", "value") VALUES (E'fat', E'الفانتي');
 INSERT INTO "list" ("id", "value") VALUES (E'fan', E'الفانج');
@@ -283,10 +288,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'frr', E'الفريزينية الش
 INSERT INTO "list" ("id", "value") VALUES (E'fur', E'الفريلايان');
 INSERT INTO "list" ("id", "value") VALUES (E'fil', E'الفلبينية');
 INSERT INTO "list" ("id", "value") VALUES (E'ff', E'الفلة');
-INSERT INTO "list" ("id", "value") VALUES (E'nl_BE', E'الفلمنك');
+INSERT INTO "list" ("id", "value") VALUES (E'nl_BE', E'الفلمنكية');
 INSERT INTO "list" ("id", "value") VALUES (E'fi', E'الفنلندية');
 INSERT INTO "list" ("id", "value") VALUES (E'vot', E'الفوتيك');
 INSERT INTO "list" ("id", "value") VALUES (E'fon', E'الفون');
+INSERT INTO "list" ("id", "value") VALUES (E'vun', E'الفونجو');
 INSERT INTO "list" ("id", "value") VALUES (E'vi', E'الفيتنامية');
 INSERT INTO "list" ("id", "value") VALUES (E'fj', E'الفيجية');
 INSERT INTO "list" ("id", "value") VALUES (E've', E'الفيندا');
@@ -296,6 +302,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'kab', E'القبيلية');
 INSERT INTO "list" ("id", "value") VALUES (E'dzg', E'القرعانية');
 INSERT INTO "list" ("id", "value") VALUES (E'ky', E'القرغيزية');
 INSERT INTO "list" ("id", "value") VALUES (E'swb', E'القمرية');
+INSERT INTO "list" ("id", "value") VALUES (E'kum', E'القموقية');
 INSERT INTO "list" ("id", "value") VALUES (E'got', E'القوطية');
 INSERT INTO "list" ("id", "value") VALUES (E'kbd', E'الكاباردايان');
 INSERT INTO "list" ("id", "value") VALUES (E'kac', E'الكاتشين');
@@ -303,6 +310,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'cad', E'الكادو');
 INSERT INTO "list" ("id", "value") VALUES (E'kaa', E'الكارا-كالباك');
 INSERT INTO "list" ("id", "value") VALUES (E'krc', E'الكاراتشاي-بالكار');
 INSERT INTO "list" ("id", "value") VALUES (E'car', E'الكاريبية');
+INSERT INTO "list" ("id", "value") VALUES (E'krl', E'الكاريلية');
 INSERT INTO "list" ("id", "value") VALUES (E'kk', E'الكازاخستانية');
 INSERT INTO "list" ("id", "value") VALUES (E'kha', E'الكازية');
 INSERT INTO "list" ("id", "value") VALUES (E'csb', E'الكاشبايان');
@@ -311,6 +319,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'xal', E'الكالميك');
 INSERT INTO "list" ("id", "value") VALUES (E'kam', E'الكامبا');
 INSERT INTO "list" ("id", "value") VALUES (E'kn', E'الكانادا');
 INSERT INTO "list" ("id", "value") VALUES (E'kr', E'الكانيوري');
+INSERT INTO "list" ("id", "value") VALUES (E'cay', E'الكايوجية');
 INSERT INTO "list" ("id", "value") VALUES (E'kpe', E'الكبيل');
 INSERT INTO "list" ("id", "value") VALUES (E'ca', E'الكتالانية');
 INSERT INTO "list" ("id", "value") VALUES (E'kut', E'الكتيناي');
@@ -318,19 +327,17 @@ INSERT INTO "list" ("id", "value") VALUES (E'ku', E'الكردية');
 INSERT INTO "list" ("id", "value") VALUES (E'hr', E'الكرواتية');
 INSERT INTO "list" ("id", "value") VALUES (E'cr', E'الكرى');
 INSERT INTO "list" ("id", "value") VALUES (E'mus', E'الكريك');
-INSERT INTO "list" ("id", "value") VALUES (E'krl', E'الكريلية');
 INSERT INTO "list" ("id", "value") VALUES (E'ks', E'الكشميرية');
 INSERT INTO "list" ("id", "value") VALUES (E'tlh', E'الكلينجون');
-INSERT INTO "list" ("id", "value") VALUES (E'kum', E'الكميك');
 INSERT INTO "list" ("id", "value") VALUES (E'yue', E'الكَنْتُونية');
 INSERT INTO "list" ("id", "value") VALUES (E'co', E'الكورسيكية');
 INSERT INTO "list" ("id", "value") VALUES (E'kw', E'الكورنية');
 INSERT INTO "list" ("id", "value") VALUES (E'kfo', E'الكورو');
+INSERT INTO "list" ("id", "value") VALUES (E'kru', E'الكوروخ');
 INSERT INTO "list" ("id", "value") VALUES (E'ko', E'الكورية');
 INSERT INTO "list" ("id", "value") VALUES (E'kos', E'الكوسراين');
 INSERT INTO "list" ("id", "value") VALUES (E'kv', E'الكومي');
 INSERT INTO "list" ("id", "value") VALUES (E'kg', E'الكونغو');
-INSERT INTO "list" ("id", "value") VALUES (E'swc', E'الكونغو السواحلية');
 INSERT INTO "list" ("id", "value") VALUES (E'kok', E'الكونكانية');
 INSERT INTO "list" ("id", "value") VALUES (E'kaw', E'الكوي');
 INSERT INTO "list" ("id", "value") VALUES (E'qu', E'الكويتشوا');
@@ -340,13 +347,13 @@ INSERT INTO "list" ("id", "value") VALUES (E'rw', E'الكينيارواندا')
 INSERT INTO "list" ("id", "value") VALUES (E'kj', E'الكيونياما');
 INSERT INTO "list" ("id", "value") VALUES (E'lv', E'اللاتفية');
 INSERT INTO "list" ("id", "value") VALUES (E'la', E'اللاتينية');
+INSERT INTO "list" ("id", "value") VALUES (E'lad', E'اللادينو');
 INSERT INTO "list" ("id", "value") VALUES (E'lam', E'اللامبا');
 INSERT INTO "list" ("id", "value") VALUES (E'lah', E'اللاهندا');
 INSERT INTO "list" ("id", "value") VALUES (E'lo', E'اللاوية');
 INSERT INTO "list" ("id", "value") VALUES (E'lu', E'اللبا-كاتانجا');
 INSERT INTO "list" ("id", "value") VALUES (E'lua', E'اللبا-لؤلؤ');
 INSERT INTO "list" ("id", "value") VALUES (E'lt', E'اللتوانية');
-INSERT INTO "list" ("id", "value") VALUES (E'lus', E'اللشاي');
 INSERT INTO "list" ("id", "value") VALUES (E'ban', E'اللغة البالية');
 INSERT INTO "list" ("id", "value") VALUES (E'nap', E'اللغة النابولية');
 INSERT INTO "list" ("id", "value") VALUES (E'ia', E'اللّغة الوسيطة');
@@ -357,14 +364,15 @@ INSERT INTO "list" ("id", "value") VALUES (E'lui', E'اللوسينو');
 INSERT INTO "list" ("id", "value") VALUES (E'lb', E'اللوكسمبرجية');
 INSERT INTO "list" ("id", "value") VALUES (E'smj', E'اللول سامي');
 INSERT INTO "list" ("id", "value") VALUES (E'lun', E'اللوندا');
-INSERT INTO "list" ("id", "value") VALUES (E'lez', E'الليزجهايانية');
+INSERT INTO "list" ("id", "value") VALUES (E'lez', E'الليزجية');
 INSERT INTO "list" ("id", "value") VALUES (E'li', E'الليمبرجيشية');
 INSERT INTO "list" ("id", "value") VALUES (E'ln', E'اللينجالا');
+INSERT INTO "list" ("id", "value") VALUES (E'jmc', E'الماتشامية');
 INSERT INTO "list" ("id", "value") VALUES (E'mag', E'الماجا');
 INSERT INTO "list" ("id", "value") VALUES (E'mad', E'المادريز');
 INSERT INTO "list" ("id", "value") VALUES (E'mr', E'الماراثي');
 INSERT INTO "list" ("id", "value") VALUES (E'mh', E'المارشالية');
-INSERT INTO "list" ("id", "value") VALUES (E'mwr', E'المارواري');
+INSERT INTO "list" ("id", "value") VALUES (E'mwr', E'الماروارية');
 INSERT INTO "list" ("id", "value") VALUES (E'chm', E'الماري');
 INSERT INTO "list" ("id", "value") VALUES (E'mas', E'الماساي');
 INSERT INTO "list" ("id", "value") VALUES (E'mak', E'الماكاسار');
@@ -375,7 +383,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ml', E'الماليالام');
 INSERT INTO "list" ("id", "value") VALUES (E'mdr', E'الماندار');
 INSERT INTO "list" ("id", "value") VALUES (E'man', E'الماندينغ');
 INSERT INTO "list" ("id", "value") VALUES (E'mnc', E'المانشو');
-INSERT INTO "list" ("id", "value") VALUES (E'mni', E'المانيبري');
+INSERT INTO "list" ("id", "value") VALUES (E'mni', E'المانيبورية');
 INSERT INTO "list" ("id", "value") VALUES (E'mi', E'الماورية');
 INSERT INTO "list" ("id", "value") VALUES (E'mai', E'المايثيلي');
 INSERT INTO "list" ("id", "value") VALUES (E'egy', E'المصرية القديمة');
@@ -388,6 +396,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'mdf', E'الموكشا');
 INSERT INTO "list" ("id", "value") VALUES (E'ro_MD', E'المولدوفية');
 INSERT INTO "list" ("id", "value") VALUES (E'moh', E'الموهوك');
 INSERT INTO "list" ("id", "value") VALUES (E'mwl', E'الميرانديز');
+INSERT INTO "list" ("id", "value") VALUES (E'mer', E'الميرو');
+INSERT INTO "list" ("id", "value") VALUES (E'lus', E'الميزو');
 INSERT INTO "list" ("id", "value") VALUES (E'mic', E'الميكماكيونية');
 INSERT INTO "list" ("id", "value") VALUES (E'min', E'المينانجكاباو');
 INSERT INTO "list" ("id", "value") VALUES (E'men', E'الميند');
@@ -397,6 +407,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'nr', E'النديبيل الجنو�
 INSERT INTO "list" ("id", "value") VALUES (E'nd', E'النديبيل الشمالي');
 INSERT INTO "list" ("id", "value") VALUES (E'no', E'النرويجية');
 INSERT INTO "list" ("id", "value") VALUES (E'nzi', E'النزيما');
+INSERT INTO "list" ("id", "value") VALUES (E'new', E'النوارية');
 INSERT INTO "list" ("id", "value") VALUES (E'nwc', E'النوارية التقليدية');
 INSERT INTO "list" ("id", "value") VALUES (E'nog', E'النوجاي');
 INSERT INTO "list" ("id", "value") VALUES (E'non', E'النورس القديم');
@@ -408,7 +419,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'ny', E'النيانجا');
 INSERT INTO "list" ("id", "value") VALUES (E'nyn', E'النيانكول');
 INSERT INTO "list" ("id", "value") VALUES (E'ne', E'النيبالية');
 INSERT INTO "list" ("id", "value") VALUES (E'nn', E'النينورسك النرويجي');
-INSERT INTO "list" ("id", "value") VALUES (E'new', E'النيواري');
 INSERT INTO "list" ("id", "value") VALUES (E'nyo', E'النيورو');
 INSERT INTO "list" ("id", "value") VALUES (E'niu', E'النيوي');
 INSERT INTO "list" ("id", "value") VALUES (E'ht', E'الهايتية');
@@ -425,7 +435,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'hz', E'الهيريرو');
 INSERT INTO "list" ("id", "value") VALUES (E'hil', E'الهيليجينون');
 INSERT INTO "list" ("id", "value") VALUES (E'war', E'الواراي');
 INSERT INTO "list" ("id", "value") VALUES (E'was', E'الواشو');
-INSERT INTO "list" ("id", "value") VALUES (E'wal', E'الوالامو');
+INSERT INTO "list" ("id", "value") VALUES (E'wae', E'الوالسر');
+INSERT INTO "list" ("id", "value") VALUES (E'wal', E'الولاياتا');
 INSERT INTO "list" ("id", "value") VALUES (E'cy', E'الولزية');
 INSERT INTO "list" ("id", "value") VALUES (E'wo', E'الولوف');
 INSERT INTO "list" ("id", "value") VALUES (E'wa', E'الولونية');
@@ -439,35 +450,30 @@ INSERT INTO "list" ("id", "value") VALUES (E'el', E'اليونانية');
 INSERT INTO "list" ("id", "value") VALUES (E'grc', E'اليونانية القديمة');
 INSERT INTO "list" ("id", "value") VALUES (E'ebu', E'إمبو');
 INSERT INTO "list" ("id", "value") VALUES (E'nqo', E'أنكو');
-INSERT INTO "list" ("id", "value") VALUES (E'ksf', E'بافيا');
 INSERT INTO "list" ("id", "value") VALUES (E'bax', E'بامن');
 INSERT INTO "list" ("id", "value") VALUES (E'zxx', E'بدون محتوى لغوي');
 INSERT INTO "list" ("id", "value") VALUES (E'bez', E'بينا');
 INSERT INTO "list" ("id", "value") VALUES (E'twq', E'تاساواق');
+INSERT INTO "list" ("id", "value") VALUES (E'shi', E'تشلحيت');
 INSERT INTO "list" ("id", "value") VALUES (E'cgg', E'تشيغا');
-INSERT INTO "list" ("id", "value") VALUES (E'shi', E'تكلحيت');
 INSERT INTO "list" ("id", "value") VALUES (E'tog', E'تونجا - نياسا');
 INSERT INTO "list" ("id", "value") VALUES (E'dav', E'تيتا');
 INSERT INTO "list" ("id", "value") VALUES (E'teo', E'تيسو');
 INSERT INTO "list" ("id", "value") VALUES (E'dyo', E'جولا فونيا');
 INSERT INTO "list" ("id", "value") VALUES (E'zbl', E'رموز المعايير الأساسية');
-INSERT INTO "list" ("id", "value") VALUES (E'rwk', E'روا');
-INSERT INTO "list" ("id", "value") VALUES (E'rof', E'رومبو');
 INSERT INTO "list" ("id", "value") VALUES (E'zza', E'زازا');
 INSERT INTO "list" ("id", "value") VALUES (E'saq', E'سامبورو');
 INSERT INTO "list" ("id", "value") VALUES (E'sbp', E'سانغو');
 INSERT INTO "list" ("id", "value") VALUES (E'syc', E'سريانية تقليدية');
 INSERT INTO "list" ("id", "value") VALUES (E'cu', E'سلافية كنسية');
-INSERT INTO "list" ("id", "value") VALUES (E'xog', E'سوجا');
 INSERT INTO "list" ("id", "value") VALUES (E'seh', E'سينا');
 INSERT INTO "list" ("id", "value") VALUES (E'ksb', E'شامبالا');
+INSERT INTO "list" ("id", "value") VALUES (E'sh', E'صربية-كرواتية');
 INSERT INTO "list" ("id", "value") VALUES (E'rom', E'غجري');
 INSERT INTO "list" ("id", "value") VALUES (E'gwi', E'غوتشن');
-INSERT INTO "list" ("id", "value") VALUES (E'vun', E'فونجو');
 INSERT INTO "list" ("id", "value") VALUES (E'kea', E'كابوفيرديانو');
 INSERT INTO "list" ("id", "value") VALUES (E'kln', E'كالينجين');
 INSERT INTO "list" ("id", "value") VALUES (E'kbl', E'كانمبو');
-INSERT INTO "list" ("id", "value") VALUES (E'kru', E'كرخانة');
 INSERT INTO "list" ("id", "value") VALUES (E'nmg', E'كواسيو');
 INSERT INTO "list" ("id", "value") VALUES (E'koi', E'كومي-بيرماياك');
 INSERT INTO "list" ("id", "value") VALUES (E'khq', E'كويرا تشيني');
@@ -477,23 +483,35 @@ INSERT INTO "list" ("id", "value") VALUES (E'lkt', E'لاكوتا');
 INSERT INTO "list" ("id", "value") VALUES (E'lag', E'لانجي');
 INSERT INTO "list" ("id", "value") VALUES (E'mul', E'لغات متعددة');
 INSERT INTO "list" ("id", "value") VALUES (E'eu', E'لغة الباسك');
+INSERT INTO "list" ("id", "value") VALUES (E'bfd', E'لغة البافوت');
+INSERT INTO "list" ("id", "value") VALUES (E'ksf', E'لغة البافيا');
+INSERT INTO "list" ("id", "value") VALUES (E'bum', E'لغة البولو');
+INSERT INTO "list" ("id", "value") VALUES (E'trv', E'لغة التاروكو');
+INSERT INTO "list" ("id", "value") VALUES (E'ssy', E'لغة الساهو');
+INSERT INTO "list" ("id", "value") VALUES (E'bbj', E'لغة الغومالا');
+INSERT INTO "list" ("id", "value") VALUES (E'vo', E'لغة الفولابوك');
+INSERT INTO "list" ("id", "value") VALUES (E'ksh', E'لغة الكولونيان');
+INSERT INTO "list" ("id", "value") VALUES (E'bkm', E'لغة الكوم');
+INSERT INTO "list" ("id", "value") VALUES (E'swc', E'لغة الكونغو السواحلية');
+INSERT INTO "list" ("id", "value") VALUES (E'luy', E'لغة اللويا');
 INSERT INTO "list" ("id", "value") VALUES (E'ms', E'لغة الملايو');
+INSERT INTO "list" ("id", "value") VALUES (E'byv', E'لغة الميدومبا');
+INSERT INTO "list" ("id", "value") VALUES (E'naq', E'لغة الناما');
+INSERT INTO "list" ("id", "value") VALUES (E'nnh', E'لغة النجيمبون');
 INSERT INTO "list" ("id", "value") VALUES (E'haw', E'لغة أهل الهاواي');
 INSERT INTO "list" ("id", "value") VALUES (E'gil', E'لغة أهل جبل طارق');
+INSERT INTO "list" ("id", "value") VALUES (E'crh', E'لغة تتار القرم');
 INSERT INTO "list" ("id", "value") VALUES (E'und', E'لغة غير معروفة');
-INSERT INTO "list" ("id", "value") VALUES (E'luy', E'لويا');
 INSERT INTO "list" ("id", "value") VALUES (E'mde', E'مابا');
-INSERT INTO "list" ("id", "value") VALUES (E'jmc', E'ماتشيم');
 INSERT INTO "list" ("id", "value") VALUES (E'mgh', E'ماخاوا-ميتو');
 INSERT INTO "list" ("id", "value") VALUES (E'kde', E'ماكونده');
 INSERT INTO "list" ("id", "value") VALUES (E'mua', E'مندنج');
 INSERT INTO "list" ("id", "value") VALUES (E'lol', E'منغولى');
 INSERT INTO "list" ("id", "value") VALUES (E'mgo', E'ميتا');
-INSERT INTO "list" ("id", "value") VALUES (E'mer', E'ميرو');
-INSERT INTO "list" ("id", "value") VALUES (E'naq', E'ناما');
 INSERT INTO "list" ("id", "value") VALUES (E'sba', E'نامبي');
 INSERT INTO "list" ("id", "value") VALUES (E'jgo', E'نغومبا');
 INSERT INTO "list" ("id", "value") VALUES (E'yav', E'يانجبن');
+INSERT INTO "list" ("id", "value") VALUES (E'ybb', E'يمبا');
 INSERT INTO "list" ("id", "value") VALUES (E'akz', E'Alabama');
 INSERT INTO "list" ("id", "value") VALUES (E'arq', E'Algerian Arabic');
 INSERT INTO "list" ("id", "value") VALUES (E'ase', E'American Sign Language');
@@ -501,7 +519,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'njo', E'Ao Naga');
 INSERT INTO "list" ("id", "value") VALUES (E'aro', E'Araona');
 INSERT INTO "list" ("id", "value") VALUES (E'frp', E'Arpitan');
 INSERT INTO "list" ("id", "value") VALUES (E'bfq', E'Badaga');
-INSERT INTO "list" ("id", "value") VALUES (E'bfd', E'Bafut');
 INSERT INTO "list" ("id", "value") VALUES (E'bqi', E'Bakhtiari');
 INSERT INTO "list" ("id", "value") VALUES (E'bjn', E'Banjar');
 INSERT INTO "list" ("id", "value") VALUES (E'bbc', E'Batak Toba');
@@ -509,14 +526,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'bar', E'Bavarian');
 INSERT INTO "list" ("id", "value") VALUES (E'bew', E'Betawi');
 INSERT INTO "list" ("id", "value") VALUES (E'bpy', E'Bishnupriya');
 INSERT INTO "list" ("id", "value") VALUES (E'brh', E'Brahui');
-INSERT INTO "list" ("id", "value") VALUES (E'bum', E'Bulu');
 INSERT INTO "list" ("id", "value") VALUES (E'frc', E'Cajun French');
 INSERT INTO "list" ("id", "value") VALUES (E'cps', E'Capiznon');
-INSERT INTO "list" ("id", "value") VALUES (E'cay', E'Cayuga');
 INSERT INTO "list" ("id", "value") VALUES (E'dtp', E'Central Dusun');
 INSERT INTO "list" ("id", "value") VALUES (E'esu', E'Central Yupik');
 INSERT INTO "list" ("id", "value") VALUES (E'qug', E'Chimborazo Highland Quichua');
-INSERT INTO "list" ("id", "value") VALUES (E'ksh', E'Colognian');
 INSERT INTO "list" ("id", "value") VALUES (E'arz', E'Egyptian Arabic');
 INSERT INTO "list" ("id", "value") VALUES (E'egl', E'Emilian');
 INSERT INTO "list" ("id", "value") VALUES (E'ext', E'Extremaduran');
@@ -524,11 +538,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'hif', E'Fiji Hindi');
 INSERT INTO "list" ("id", "value") VALUES (E'gur', E'Frafra');
 INSERT INTO "list" ("id", "value") VALUES (E'gan', E'Gan Chinese');
 INSERT INTO "list" ("id", "value") VALUES (E'aln', E'Gheg Albanian');
-INSERT INTO "list" ("id", "value") VALUES (E'bbj', E'Ghomala');
 INSERT INTO "list" ("id", "value") VALUES (E'glk', E'Gilaki');
 INSERT INTO "list" ("id", "value") VALUES (E'gom', E'Goan Konkani');
 INSERT INTO "list" ("id", "value") VALUES (E'hak', E'Hakka Chinese');
-INSERT INTO "list" ("id", "value") VALUES (E'ibb', E'Ibibio');
 INSERT INTO "list" ("id", "value") VALUES (E'izh', E'Ingrian');
 INSERT INTO "list" ("id", "value") VALUES (E'jam', E'Jamaican Creole English');
 INSERT INTO "list" ("id", "value") VALUES (E'jut', E'Jutish');
@@ -538,7 +550,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'ken', E'Kenyang');
 INSERT INTO "list" ("id", "value") VALUES (E'khw', E'Khowar');
 INSERT INTO "list" ("id", "value") VALUES (E'krj', E'Kinaray-a');
 INSERT INTO "list" ("id", "value") VALUES (E'kiu', E'Kirmanjki');
-INSERT INTO "list" ("id", "value") VALUES (E'bkm', E'Kom');
 INSERT INTO "list" ("id", "value") VALUES (E'avk', E'Kotava');
 INSERT INTO "list" ("id", "value") VALUES (E'kri', E'Krio');
 INSERT INTO "list" ("id", "value") VALUES (E'ltg', E'Latgalian');
@@ -552,15 +563,12 @@ INSERT INTO "list" ("id", "value") VALUES (E'sli', E'Lower Silesian');
 INSERT INTO "list" ("id", "value") VALUES (E'maf', E'Mafa');
 INSERT INTO "list" ("id", "value") VALUES (E'vmf', E'Main-Franconian');
 INSERT INTO "list" ("id", "value") VALUES (E'mzn', E'Mazanderani');
-INSERT INTO "list" ("id", "value") VALUES (E'byv', E'Medumba');
 INSERT INTO "list" ("id", "value") VALUES (E'mwv', E'Mentawai');
-INSERT INTO "list" ("id", "value") VALUES (E'es_MX', E'Mexican Spanish');
 INSERT INTO "list" ("id", "value") VALUES (E'nan', E'Min Nan Chinese');
 INSERT INTO "list" ("id", "value") VALUES (E'xmf', E'Mingrelian');
 INSERT INTO "list" ("id", "value") VALUES (E'ary', E'Moroccan Arabic');
 INSERT INTO "list" ("id", "value") VALUES (E'ttt', E'Muslim Tat');
 INSERT INTO "list" ("id", "value") VALUES (E'mye', E'Myene');
-INSERT INTO "list" ("id", "value") VALUES (E'nnh', E'Ngiemboon');
 INSERT INTO "list" ("id", "value") VALUES (E'yrl', E'Nheengatu');
 INSERT INTO "list" ("id", "value") VALUES (E'nov', E'Novial');
 INSERT INTO "list" ("id", "value") VALUES (E'pfl', E'Palatine German');
@@ -575,36 +583,29 @@ INSERT INTO "list" ("id", "value") VALUES (E'rgn', E'Romagnol');
 INSERT INTO "list" ("id", "value") VALUES (E'rtm', E'Rotuman');
 INSERT INTO "list" ("id", "value") VALUES (E'rug', E'Roviana');
 INSERT INTO "list" ("id", "value") VALUES (E'rue', E'Rusyn');
-INSERT INTO "list" ("id", "value") VALUES (E'ssy', E'Saho');
 INSERT INTO "list" ("id", "value") VALUES (E'sgs', E'Samogitian');
 INSERT INTO "list" ("id", "value") VALUES (E'sdc', E'Sassarese Sardinian');
 INSERT INTO "list" ("id", "value") VALUES (E'stq', E'Saterland Frisian');
 INSERT INTO "list" ("id", "value") VALUES (E'saz', E'Saurashtra');
 INSERT INTO "list" ("id", "value") VALUES (E'sly', E'Selayar');
-INSERT INTO "list" ("id", "value") VALUES (E'see', E'Seneca');
-INSERT INTO "list" ("id", "value") VALUES (E'sh', E'Serbo-Croatian');
 INSERT INTO "list" ("id", "value") VALUES (E'sei', E'Seri');
 INSERT INTO "list" ("id", "value") VALUES (E'szl', E'Silesian');
 INSERT INTO "list" ("id", "value") VALUES (E'azb', E'South Azerbaijani');
 INSERT INTO "list" ("id", "value") VALUES (E'tly', E'Talysh');
-INSERT INTO "list" ("id", "value") VALUES (E'trv', E'Taroko');
 INSERT INTO "list" ("id", "value") VALUES (E'fit', E'Tornedalen Finnish');
 INSERT INTO "list" ("id", "value") VALUES (E'tkr', E'Tsakhur');
 INSERT INTO "list" ("id", "value") VALUES (E'tsd', E'Tsakonian');
 INSERT INTO "list" ("id", "value") VALUES (E'tcy', E'Tulu');
 INSERT INTO "list" ("id", "value") VALUES (E'aeb', E'Tunisian Arabic');
 INSERT INTO "list" ("id", "value") VALUES (E'tru', E'Turoyo');
-INSERT INTO "list" ("id", "value") VALUES (E'kcg', E'Tyap');
 INSERT INTO "list" ("id", "value") VALUES (E'vec', E'Venetian');
 INSERT INTO "list" ("id", "value") VALUES (E'vep', E'Veps');
-INSERT INTO "list" ("id", "value") VALUES (E'vo', E'Volapük');
 INSERT INTO "list" ("id", "value") VALUES (E'vro', E'Võro');
-INSERT INTO "list" ("id", "value") VALUES (E'wae', E'Walser');
+INSERT INTO "list" ("id", "value") VALUES (E'wbp', E'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES (E'guc', E'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES (E'vls', E'West Flemish');
 INSERT INTO "list" ("id", "value") VALUES (E'mrj', E'Western Mari');
 INSERT INTO "list" ("id", "value") VALUES (E'wuu', E'Wu Chinese');
 INSERT INTO "list" ("id", "value") VALUES (E'hsn', E'Xiang Chinese');
-INSERT INTO "list" ("id", "value") VALUES (E'ybb', E'Yemba');
 INSERT INTO "list" ("id", "value") VALUES (E'zea', E'Zeelandic');
 INSERT INTO "list" ("id", "value") VALUES (E'gbz', E'Zoroastrian Dari');

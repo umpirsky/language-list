@@ -1,0 +1,609 @@
+ace: Achinese
+ada: Adangme
+ady: Adyghe
+aa: Afar
+afh: Afrihili
+ain: Ainu
+akk: Akkadian
+bss: Akoose
+akz: Alabama
+ale: Aleut
+en_US: 'American English'
+ase: 'American Sign Language'
+egy: 'Ancient Egyptian'
+anp: Angika
+njo: 'Ao Naga'
+an: Aragonese
+arc: Aramaic
+aro: Araona
+arp: Arapaho
+arw: Arawak
+rup: Aromanian
+frp: Arpitan
+ast: Asturian
+cch: Atsam
+en_AU: 'Australian English'
+de_AT: 'Austrian German'
+av: Avaric
+ae: Avestan
+awa: Awadhi
+bfq: Badaga
+bfd: Bafut
+bqi: Bakhtiari
+ban: Balinese
+bal: Baluchi
+bax: Bamun
+bjn: Banjar
+bas: Basaa
+bbc: 'Batak Toba'
+bar: Bavarian
+bej: Beja
+bew: Betawi
+bho: Bhojpuri
+bik: Bikol
+bin: Bini
+bpy: Bishnupriya
+bi: Bislama
+byn: Blin
+zbl: Blissymbols
+brh: Brahui
+bra: Braj
+pt_BR: 'Brazilian Portuguese'
+en_GB: 'British English'
+brx: brx
+bug: Buginese
+bum: Bulu
+bua: Buriat
+cad: Caddo
+frc: 'Cajun French'
+en_CA: 'Canadian English'
+fr_CA: 'Canadian French'
+yue: Cantonese
+cps: Capiznon
+car: Carib
+cay: Cayuga
+ceb: Cebuano
+tzm: 'Central Atlas Tamazight'
+dtp: 'Central Dusun'
+esu: 'Central Yupik'
+shu: 'Chadian Arabic'
+chg: Chagatai
+ch: Chamorro
+ce: Chechen
+chy: Cheyenne
+chb: Chibcha
+lam: Chilamba
+qug: 'Chimborazo Highland Quichua'
+chn: 'Chinook Jargon'
+chp: Chipewyan
+cho: Choctaw
+cu: 'Church Slavic'
+chk: Chuukese
+cv: Chuvash
+syc: 'Classical Syriac'
+ksh: Colognian
+swb: Comorian
+cop: Coptic
+cr: Cree
+mus: Creek
+crh: 'Crimean Turkish'
+dak: Dakota
+dar: Dargwa
+dzg: Dazaga
+del: Delaware
+din: Dinka
+doi: Dogri
+dgr: Dogrib
+dyu: Dyula
+frs: 'Eastern Frisian'
+eka: Ekajuk
+elx: Elamite
+egl: Emilian
+myv: Erzya
+pt_PT: 'European Portuguese'
+ewo: Ewondo
+ext: Extremaduran
+fan: Fang
+fat: Fanti
+hif: 'Fiji Hindi'
+nl_BE: Flemish
+fon: Fon
+gur: Frafra
+fur: Friulian
+ff: Fulah
+gan: 'Gan Chinese'
+gay: Gayo
+gba: Gbaya
+gez: Geez
+aln: 'Gheg Albanian'
+bbj: Ghomala
+glk: Gilaki
+gil: Gilbertese
+gom: 'Goan Konkani'
+gon: Gondi
+gor: Gorontalo
+got: Gothic
+grb: Grebo
+gwi: Gwichʼin
+hai: Haida
+hak: 'Hakka Chinese'
+zxx: 'Hakuna maudhui ya lugha'
+hz: Herero
+hil: Hiligaynon
+ho: 'Hiri Motu'
+hmn: Hmong
+hsb: hsb
+hup: Hupa
+iba: Iban
+ibb: Ibibio
+io: Ido
+ilo: Iloko
+izh: Ingrian
+inh: Ingush
+ie: Interlingue
+ik: Inupiaq
+iu: iu
+jam: 'Jamaican Creole English'
+kaj: Jju
+jrb: Judeo-Arabic
+jpr: Judeo-Persian
+jut: Jutish
+kbd: Kabardian
+kac: Kachin
+kgp: Kaingang
+kkj: Kako
+xal: Kalmyk
+kbl: Kanembu
+kr: Kanuri
+kaa: Kara-Kalpak
+krc: Karachay-Balkar
+krl: Karelian
+csb: Kashubian
+kaw: Kawi
+ken: Kenyang
+kha: Khasi
+kho: Khotanese
+khw: Khowar
+ab: Kiabkhazi
+af: Kiafrikana
+agq: Kiaghem
+ay: Kiaimara
+is: Kiaisilandi
+fa: Kiajemi
+ak: Kiakan
+ach: Kiakoli
+sq: Kialbania
+am: Kiamhari
+ar: Kiarabu
+arq: 'Kiarabu cha Kialjeria'
+arz: 'Kiarabu cha Misri'
+ar_001: 'Kiarabu Sanifu cha Kisasa'
+hy: Kiarmenia
+as: Kiassam
+asa: Kiasu
+ga: Kiayalandi
+az: Kiazabajani
+ksf: Kibafia
+bm: Kibambara
+bn: Kibangla
+ba: Kibashkir
+eu: Kibasque
+be: Kibelarusi
+bem: Kibemba
+bez: Kibena
+nb: 'Kibokmal cha Norwe'
+bs: Kibosnia
+br: Kibretoni
+bg: Kibulgaria
+my: Kiburma
+cs: Kichecki
+chr: Kicherokee
+cgg: Kichiga
+zh: Kichina
+zh_Hant: 'Kichina cha Jadi'
+da: Kidenmaki
+dv: Kidivehi
+dsb: Kidolnoserbski
+dua: Kiduala
+he: Kiebrania
+efi: Kiefiki
+ebu: Kiembu
+eo: Kiesperanto
+et: Kiestonia
+ee: Kiewe
+fr: Kifaransa
+fo: Kifaroe
+fj: Kifiji
+fil: Kifilipino
+fi: Kifinlandi
+fy: 'Kifrisia cha Magharibi'
+gaa: Kiga
+gd: 'Kigaeli cha Uskoti'
+gag: Kigagauzi
+gl: Kigalisi
+lg: Kiganda
+el: Kigiriki
+gn: Kiguarani
+gu: Kigujarati
+ht: Kihaiti
+ha: Kihausa
+haw: Kihawai
+hi: Kihindi
+es: Kihispania
+es_ES: 'Kihispania cha Ulaya'
+hit: Kihiti
+nl: Kiholanzi
+hu: Kihungari
+ig: Kiigbo
+id: Kiindonesia
+ia: Kiintalingua
+it: Kiitaliano
+luo: Kijaluo
+ja: Kijapani
+jv: Kijava
+de: Kijerumani
+gsw: 'Kijerumani cha Uswisi'
+ka: Kijojia
+dyo: Kijola-Fonyi
+kea: Kikabuverdianu
+kab: Kikabylia
+kl: Kikalaallisut
+kln: Kikalenjin
+kam: Kikamba
+km: Kikambodia
+kn: Kikannada
+ks: Kikashmiri
+ca: Kikatalani
+kk: Kikazaki
+ki: Kikikuyu
+ky: Kikirigizi
+guz: Kikisii
+tlh: Kiklingoni
+kv: Kikomi
+koi: Kikomipermyak
+kg: Kikongo
+ko: Kikorea
+kw: Kikorni
+kfo: Kikoro
+co: Kikosikani
+khq: 'Kikoyra Chiini'
+ku: Kikurdi
+ckb: 'Kikurdi cha Sorani'
+nmg: Kikwasio
+lkt: Kilakota
+lo: Kilaosi
+lb: Kilasembagi
+la: Kilatini
+lv: Kilatvia
+ln: Kilingala
+lt: Kilithuania
+loz: Kilozi
+lu: Kiluba-Katanga
+lua: Kiluba-Lulua
+luy: Kiluhya
+mas: Kimaasai
+jmc: Kimachame
+mag: Kimagahi
+mgh: Kimakhuwa-Meetto
+kde: Kimakonde
+ml: Kimalayalam
+ms: Kimalesia
+mt: Kimalta
+gv: Kimanx
+mi: Kimaori
+arn: Kimapuche
+mr: Kimarathi
+mk: Kimasedonia
+kmb: Kimbundu
+mer: Kimeru
+mgo: Kimeta
+moh: Kimohoki
+mn: Kimongolia
+mfe: Kimoriseni
+mua: Kimundang
+naq: Kinama
+krj: Kinaray-a
+nd: 'Kindebele cha Kaskazini'
+ne: Kinepali
+new: Kinewari
+nwc: 'Kinewari cha kale'
+en: Kingereza
+jgo: Kingomba
+nn: 'Kinorwe Kipya'
+nus: Kinuer
+ny: Kinyanja
+nyn: Kinyankole
+rw: Kinyarwanda
+oc: Kiokitani
+or: Kioriya
+om: Kioromo
+os: Kiosetia
+ps: Kipashto
+pl: Kipolandi
+pa: Kipunjabi
+qu: Kiquechua
+lag: Kirangi
+pt: Kireno
+kiu: Kirmanjki
+ro: Kiromania
+rm: Kiromanshi
+rof: Kirombo
+rn: Kirundi
+ru: Kirusi
+rwk: Kirwo
+ksb: Kisambaa
+saq: Kisamburu
+smn: 'Kisami cha Inari'
+se: 'Kisami cha Kaskazini'
+sma: 'Kisami cha Kusini'
+smj: 'Kisami cha Lule'
+sms: 'Kisami cha Skolt'
+sm: Kisamoa
+sg: Kisango
+sbp: Kisangu
+sa: Kisanskriti
+seh: Kisena
+sr: Kiserbia
+sn: Kishona
+sd: Kisindhi
+si: Kisinhala
+sk: Kislovakia
+sl: Kislovenia
+xog: Kisoga
+so: Kisomali
+nso: 'Kisotho cha Kaskazini'
+st: 'Kisotho cha Kusini'
+suk: Kisukuma
+su: Kisunda
+sw: Kiswahili
+swc: 'Kiswahili ya Kongo'
+ss: Kiswati
+sv: Kiswidi
+ty: Kitahiti
+th: Kitailandi
+dav: Kitaita
+tg: Kitajiki
+ta: Kitamil
+twq: Kitasawaq
+tt: Kitatari
+te: Kitelugu
+teo: Kiteso
+tet: Kitetum
+bo: Kitibeti
+ti: Kitigrinya
+tpi: Kitokpisin
+to: Kitonga
+ts: Kitsonga
+tn: Kitswana
+tum: Kitumbuka
+tr: Kituruki
+tk: Kiturukimeni
+ug: Kiuiguri
+uk: Kiukrania
+ur: Kiurdu
+uz: Kiuzbeki
+vai: Kivai
+ve: Kivenda
+vi: Kivietinamu
+vun: Kivunjo
+cy: Kiwelisi
+wo: Kiwolofu
+xh: Kixhosa
+yao: Kiyao
+yi: Kiyidi
+yo: Kiyoruba
+grc: Kiyunani
+dje: Kizarma
+dz: Kizongkha
+zu: Kizulu
+kok: kok
+bkm: Kom
+kos: Kosraean
+avk: Kotava
+ses: 'Koyraboro Senni'
+kpe: Kpelle
+kri: Krio
+hr: Kroeshia
+kj: Kuanyama
+kum: Kumyk
+kru: Kurukh
+kut: Kutenai
+quc: Kʼicheʼ
+lad: Ladino
+lah: Lahnda
+ltg: Latgalian
+es_419: 'Latin American Spanish'
+lzz: Laz
+lez: Lezghian
+lij: Ligurian
+li: Limburgish
+lfn: 'Lingua Franca Nova'
+lzh: 'Literary Chinese'
+liv: Livonian
+jbo: Lojban
+lmo: Lombard
+nds: 'Low German'
+sli: 'Lower Silesian'
+und: 'Lugha Isiyojulikana'
+lui: Luiseno
+lun: Lunda
+mde: Maba
+mad: Madurese
+maf: Mafa
+vmf: Main-Franconian
+mai: Maithili
+mak: Makasar
+mg: Malagasi
+mnc: Manchu
+mdr: Mandar
+man: Mandingo
+mni: Manipuri
+chm: Mari
+mh: Marshallese
+mwr: Marwari
+mzn: Mazanderani
+byv: Medumba
+men: Mende
+mwv: Mentawai
+es_MX: 'Mexican Spanish'
+mic: Micmac
+dum: 'Middle Dutch'
+enm: 'Middle English'
+frm: 'Middle French'
+gmh: 'Middle High German'
+mga: 'Middle Irish'
+nan: 'Min Nan Chinese'
+min: Minangkabau
+xmf: Mingrelian
+mwl: Mirandese
+lus: Mizo
+mdf: Moksha
+ro_MD: Moldavian
+lol: Mongo
+ary: 'Moroccan Arabic'
+mos: Mossi
+mul: 'Multiple Languages'
+ttt: 'Muslim Tat'
+mye: Myene
+nqo: N’Ko
+na: Nauru
+nv: Navajo
+ng: Ndonga
+nap: Neapolitan
+sba: Ngambay
+nnh: Ngiemboon
+yrl: Nheengatu
+nia: Nias
+niu: Niuean
+nog: Nogai
+frr: 'Northern Frisian'
+'no': Norwegian
+nov: Novial
+nym: Nyamwezi
+tog: 'Nyasa Tonga'
+nyo: Nyoro
+nzi: Nzima
+oj: Ojibwa
+ang: 'Old English'
+fro: 'Old French'
+goh: 'Old High German'
+sga: 'Old Irish'
+non: 'Old Norse'
+peo: 'Old Persian'
+pro: 'Old Provençal'
+osa: Osage
+ota: 'Ottoman Turkish'
+pal: Pahlavi
+pfl: 'Palatine German'
+pau: Palauan
+pi: Pali
+pam: Pampanga
+pag: Pangasinan
+pap: Papiamento
+pdc: 'Pennsylvania German'
+phn: Phoenician
+pcd: Picard
+pms: Piedmontese
+pdt: Plautdietsch
+pon: Pohnpeian
+pnt: Pontic
+prg: Prussian
+raj: Rajasthani
+rap: Rapanui
+rar: Rarotongan
+rif: Riffian
+rgn: Romagnol
+rom: Romany
+root: Root
+rtm: Rotuman
+rug: Roviana
+rue: Rusyn
+ssy: Saho
+sah: Sakha
+sam: 'Samaritan Aramaic'
+sgs: Samogitian
+sad: Sandawe
+sat: Santali
+sc: Sardinian
+sas: Sasak
+sdc: 'Sassarese Sardinian'
+stq: 'Saterland Frisian'
+saz: Saurashtra
+sco: Scots
+sly: Selayar
+sel: Selkup
+see: Seneca
+sh: Serbo-Croatian
+srr: Serer
+sei: Seri
+shn: Shan
+ii: 'Sichuan Yi'
+scn: Sicilian
+sid: Sidamo
+bla: Siksika
+szl: Silesian
+zh_Hans: 'Simplified Chinese'
+den: Slave
+sog: Sogdien
+snk: Soninke
+azb: 'South Azerbaijani'
+nr: 'South Ndebele'
+alt: 'Southern Altai'
+srn: 'Sranan Tongo'
+sux: Sumerian
+sus: Susu
+fr_CH: 'Swiss French'
+de_CH: 'Swiss High German'
+syr: Syriac
+shi: Tachelhit
+tl: Tagalog
+tly: Talysh
+tmh: Tamashek
+zgh: 'Tamaziti Msingi ya Kimoroko'
+trv: Taroko
+ter: Tereno
+tig: Tigre
+tem: Timne
+tiv: Tiv
+tli: Tlingit
+tkl: Tokelau
+fit: 'Tornedalen Finnish'
+tkr: Tsakhur
+tsd: Tsakonian
+tsi: Tsimshian
+tcy: Tulu
+aeb: 'Tunisian Arabic'
+tru: Turoyo
+tvl: Tuvalu
+tyv: Tuvinian
+tw: Twi
+kcg: Tyap
+udm: Udmurt
+uga: Ugaritic
+umb: Umbundu
+vec: Venetian
+vep: Veps
+vo: Volapük
+vro: Võro
+vot: Votic
+wa: Walloon
+wae: Walser
+war: Waray
+wbp: Warlpiri
+was: Washo
+guc: Wayuu
+vls: 'West Flemish'
+mrj: 'Western Mari'
+wal: Wolaytta
+wuu: 'Wu Chinese'
+hsn: 'Xiang Chinese'
+yav: Yangben
+yap: Yapese
+ybb: Yemba
+zap: Zapotec
+zza: Zaza
+zea: Zeelandic
+zen: Zenaga
+za: Zhuang
+gbz: 'Zoroastrian Dari'
+zun: Zuni

@@ -585,6 +585,7 @@
   'cy' => 'waleština',
   'wae' => 'walserčina',
   'war' => 'waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',

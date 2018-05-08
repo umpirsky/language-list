@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES ('ab', 'Abhazca');
 INSERT INTO "list" ("id", "value") VALUES ('ace', 'Achinese');
@@ -583,6 +583,7 @@ INSERT INTO "list" ("id", "value") VALUES ('vro', 'Võro');
 INSERT INTO "list" ("id", "value") VALUES ('vot', 'Votic');
 INSERT INTO "list" ("id", "value") VALUES ('vun', 'Vunjo');
 INSERT INTO "list" ("id", "value") VALUES ('wae', 'Walser');
+INSERT INTO "list" ("id", "value") VALUES ('wbp', 'Warlpiri');
 INSERT INTO "list" ("id", "value") VALUES ('guc', 'Wayuu');
 INSERT INTO "list" ("id", "value") VALUES ('wuu', 'Wu Çincesi');
 INSERT INTO "list" ("id", "value") VALUES ('hsn', 'Xiang Çincesi');

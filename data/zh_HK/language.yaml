@@ -60,15 +60,15 @@ mfe: 毛里求斯克里奥尔文
 jv: 爪哇文
 bez: 贝纳文
 ce: 车臣文
-eo: 世界語
+eo: 世界文
 frs: 东弗里西亚文
 ses: 东桑海文
 shu: 乍得阿拉伯文
 lam: 兰巴文
 rof: 兰博文
 gaa: 加文
+gl: 加利西亚文
 gag: 加告兹文
-gl: 加里西亞文
 fr_CA: 加拿大法文
 en_CA: 加拿大英文
 ca: 加泰罗尼亚文
@@ -224,6 +224,7 @@ jrb: 犹太阿拉伯文
 naq: 纳马文
 nv: 纳瓦霍文
 niu: 纽埃文
+lol: 芒戈文
 dzg: 达扎葛文
 dar: 达尔格瓦文
 dak: 达科他文
@@ -315,7 +316,7 @@ as: 阿萨姆文
 ru: 俄文
 myv: 俄日亚文
 bg: 保加利亚文
-sd: 信德語
+sd: 信德文
 alt: 南阿尔泰文
 af: 南非荷兰文
 nr: 南恩德贝勒文
@@ -329,6 +330,7 @@ cy: 威尔士文
 smj: 律勒欧萨米文
 chg: 查加文
 ch: 查莫罗文
+zgh: 标准摩洛哥塔马塞特文
 yav: 洋卞文
 loz: 洛兹文
 koi: 科米-彼尔米亚克文
@@ -498,7 +500,6 @@ lui: 路易塞诺文
 si: 僧伽罗文
 yao: 瑶族文
 mn: 蒙古文
-lol: 蒙古語
 mua: 蒙当文
 ha: 豪萨文
 hit: 赫梯文
@@ -506,7 +507,6 @@ hz: 赫雷罗文
 hmn: 赫蒙文
 de: 德文
 ro_MD: 摩尔多瓦文
-zgh: 摩洛哥標準塔馬齊格特文
 moh: 摩霍克文
 tem: 滕内文
 es_MX: 墨西哥西班牙文
@@ -599,6 +599,7 @@ tru: Turoyo
 vec: Venetian
 vep: Veps
 vro: Võro
+wbp: Warlpiri
 guc: Wayuu
 vls: 'West Flemish'
 mrj: 'Western Mari'

@@ -606,5 +606,6 @@
   'tn' => 'lea suana',
   'und' => 'lea taʻeʻiloa',
   'mul' => 'lea tuifio',
+  'wbp' => 'Warlpiri',
   'zxx' => 'ʻikai ha lea',
 );

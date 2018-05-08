@@ -7,6 +7,7 @@
   'es_MX' => 'Mexican Spanish',
   'nov' => 'Novial',
   'fr_CH' => 'Swiss French',
+  'wbp' => 'Warlpiri',
   'is' => 'アイスランド語',
   'ain' => 'アイヌ語',
   'ay' => 'アイマラ語',

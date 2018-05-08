@@ -583,6 +583,7 @@
   'wal' => 'walamo',
   'wae' => 'walser',
   'war' => 'waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'wayuu',
   'bem' => 'wemba',

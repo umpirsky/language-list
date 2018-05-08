@@ -203,7 +203,6 @@ dar: دارقینی
 dak: داکوتایی
 da: دانمارکی
 dyu: دایولایی
-fa: دری
 gbz: 'دری زرتشتی'
 del: دلاواری
 dua: دوآلایی
@@ -283,6 +282,7 @@ ary: 'عربی مراکشی'
 arz: 'عربی مصری'
 jrb: 'عربی یهودی'
 elx: عیلامی
+fa: فارسی
 peo: 'فارسی باستان'
 jpr: 'فارسی یهودی'
 fo: فارویی
@@ -598,6 +598,7 @@ vec: Venetian
 vep: Veps
 vro: Võro
 wae: Walser
+wbp: Warlpiri
 guc: Wayuu
 vls: 'West Flemish'
 mrj: 'Western Mari'

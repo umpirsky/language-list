@@ -584,6 +584,7 @@
   'cy' => 'walisisk',
   'wae' => 'walser',
   'war' => 'waray',
+  'wbp' => 'Warlpiri',
   'was' => 'washo',
   'guc' => 'Wayuu',
   'vls' => 'West Flemish',
